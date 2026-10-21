@@ -34,19 +34,19 @@ RetailOps360-SQL-Analytics/
 ├── notebooks/
 │   ├── 01_Customer_Sales_Performance_Analysis.ipynb  [to upload]
 │   └── 02_Revenue_Payment_Reconciliation_Analysis.ipynb  [to upload]
-├── reports/
+├── notebook_reports/
 │   ├── 01_Customer_Sales_Performance_Analysis.html  [published]
 │   └── 02_Revenue_Payment_Reconciliation_Analysis.html  [published]
 └── dashboard/
     └── screenshots/  [planned]
 ```
 
-## Executed Databricks HTML reports
+## Executed Databricks HTML notebooks
 
-- [Notebook 01 — Customer & Sales Performance Analysis](reports/01_Customer_Sales_Performance_Analysis.html) — Questions 01–03, SQL and exported query results.
-- [Notebook 02 — Revenue & Payment Reconciliation Analysis](reports/02_Revenue_Payment_Reconciliation_Analysis.html) — Questions 04–06, SQL and exported query results.
+- [Notebook 01 — Customer & Sales Performance Analysis](notebook_reports/01_Customer_Sales_Performance_Analysis.html) — Questions 01–03, SQL and exported query results.
+- [Notebook 02 — Revenue & Payment Reconciliation Analysis](notebook_reports/02_Revenue_Payment_Reconciliation_Analysis.html) — Questions 04–06, SQL and exported query results.
 
-**View reports as rendered webpages:** Enable GitHub Pages in repository Settings → Pages, selecting *Deploy from a branch*, *main*, and */ (root)*. After the site is published, open `https://dapinder-bi.github.io/RetailOps360-SQL-Analytics/` to browse the original HTML exports with their saved SQL and results. Ordinary GitHub `blob` links show HTML source rather than rendering it. HTML reports are supplementary to editable notebook source files still to be added.
+**View notebooks as rendered webpages:** Enable GitHub Pages in repository Settings → Pages, selecting *Deploy from a branch*, *main*, and */ (root)*. After the site is published, open `https://dapinder-bi.github.io/RetailOps360-SQL-Analytics/notebook_reports/` to browse the original HTML exports with their saved SQL and results. Ordinary GitHub `blob` links show HTML source rather than rendering it. HTML reports are supplementary to editable notebook source files still to be added.
 
 ## Data model
 
