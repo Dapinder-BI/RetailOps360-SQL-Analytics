@@ -32,14 +32,23 @@ RetailOps360-SQL-Analytics/
 ├── data_model/
 │   └── DATA_MODEL.md
 ├── notebooks/
-│   ├── 01_Customer_Sales_Performance_Analysis.ipynb  [to upload]
-│   └── 02_Revenue_Payment_Reconciliation_Analysis.ipynb  [to upload]
+│   ├── 01_Customer_Sales_Performance_Analysis.ipynb  [published]
+│   └── 02_Revenue_Payment_Reconciliation_Analysis.ipynb  [published]
 ├── notebook_reports/
 │   ├── 01_Customer_Sales_Performance_Analysis.html  [published]
 │   └── 02_Revenue_Payment_Reconciliation_Analysis.html  [published]
 └── dashboard/
     └── screenshots/  [planned]
 ```
+
+## View notebooks directly on GitHub
+
+GitHub renders the following Jupyter notebook files with Markdown explanations, SQL code, and saved result previews:
+
+- [Notebook 01 — Customer & Sales Performance (view code and results)](notebooks/01_Customer_Sales_Performance_Analysis.ipynb)
+- [Notebook 02 — Revenue & Payment Reconciliation (view code and results)](notebooks/02_Revenue_Payment_Reconciliation_Analysis.ipynb)
+
+These GitHub-viewable copies were reconstructed from the original Databricks HTML exports. Table previews are capped at 100 rows for readability; original exports remain in `notebook_reports/`. The notebook cells contain `%sql` commands as used in Databricks.
 
 ## Executed Databricks HTML notebooks
 
