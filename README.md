@@ -12,7 +12,7 @@ RetailOps 360 uses a synthetic, relational e-commerce dataset to explore practic
 - **Timeline represented:** January 2024–September 2026
 - **Scope:** 15 business questions across 5 analysis notebooks
 
-> **Status:** Repository setup in progress. The executed Databricks notebook exports and business insights will be uploaded after verification. No query outputs are fabricated.
+> **Status:** Executed HTML reports for Notebooks 01 and 02 are published. Source notebook exports, remaining analyses, and dashboard are planned. No query outputs are fabricated.
 
 ## Business investigations
 
@@ -35,11 +35,18 @@ RetailOps360-SQL-Analytics/
 │   ├── 01_Customer_Sales_Performance_Analysis.ipynb  [to upload]
 │   └── 02_Revenue_Payment_Reconciliation_Analysis.ipynb  [to upload]
 ├── reports/
-│   ├── 01_Customer_Sales_Performance_Analysis.html  [to upload]
-│   └── 02_Revenue_Payment_Reconciliation_Analysis.html  [to upload]
+│   ├── 01_Customer_Sales_Performance_Analysis.html  [published]
+│   └── 02_Revenue_Payment_Reconciliation_Analysis.html  [published]
 └── dashboard/
     └── screenshots/  [planned]
 ```
+
+## Executed Databricks HTML reports
+
+- [Notebook 01 — Customer & Sales Performance Analysis](reports/01_Customer_Sales_Performance_Analysis.html) — Questions 01–03, SQL and exported query results.
+- [Notebook 02 — Revenue & Payment Reconciliation Analysis](reports/02_Revenue_Payment_Reconciliation_Analysis.html) — Questions 04–06, SQL and exported query results.
+
+GitHub displays HTML primarily as source/downloadable files; to view formatted results, download the report and open it in a browser. HTML reports are supplementary to the editable notebook source files still to be added.
 
 ## Data model
 
