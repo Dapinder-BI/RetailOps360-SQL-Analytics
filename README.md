@@ -65,8 +65,8 @@ flowchart LR
     O -->|"1 → many"| I
     P -->|"1 → many"| I
     O -->|"1 → many"| PAY
-    O -->|"1 → 1"| S
-    O -->|"1 → 1"| R
+    O -->|"1 → 1 (optional)"| S
+    O -->|"1 → 1 (optional)"| R
     P -->|"1 → many"| R
 
     classDef customer fill:#EFF6FF,stroke:#2563EB,color:#172554,stroke-width:1.5px;
