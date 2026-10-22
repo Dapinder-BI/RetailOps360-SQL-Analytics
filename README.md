@@ -55,6 +55,24 @@ flowchart LR
 
 **Reading the model:** One customer can have many orders; each order can have multiple items, payments, and shipments. The dashed return relationship is conceptual; its exact linkage requires confirmation. See the [data model documentation](data_model/DATA_MODEL.md) for details.
 
+**15 business questions**
+
+1. Which 10 customers have the highest completed-order value, and how many completed orders did each place?
+2. Which registered customers have never ordered, and how long have they been registered?
+3. Which customers purchased in 2025 but have no completed purchases in 2026?
+4. Which orders have multiple payment transactions, and what is the total payment amount for each?
+5. Which orders are unpaid, underpaid, fully paid, or overpaid compared with captured payments?
+6. How much can order value be overstated when multiple payment records cause orders to be counted more than once?
+7. Which completed orders have no shipment record?
+8. Which deliveries arrived after the expected date, and how many days late were they?
+9. Which fully paid, completed orders have no confirmed delivery?
+10. Which product categories have the highest merchandise value and units sold from completed orders?
+11. Which products have never appeared in a customer order?
+12. Which products have the highest return rates, and how do rates vary by category?
+13. Which orders have missing customer IDs or reference customers absent from the customer records?
+14. Which payments cannot be matched to an order, and what is their total value?
+15. Which orders and payments fail reconciliation because of unmatched records or amount differences?
+
 ## Project scope and status
 
 - **Source:** `retailops360.source`
