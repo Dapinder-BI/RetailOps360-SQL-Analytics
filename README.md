@@ -40,8 +40,9 @@ flowchart LR
     O -->|"1 → many"| I
     P -->|"1 → many"| I
     O -->|"1 → many"| PAY
-    O -->|"1 → many"| S
-    O -.->|"1 → many · conceptual"| R
+    O -->|"1 → 0 or 1"| S
+    O -->|"1 → 0 or 1"| R
+    P -->|"1 → many"| R
 
     classDef customer fill:#EFF6FF,stroke:#2563EB,color:#172554,stroke-width:1.5px;
     classDef order fill:#0F172A,stroke:#0F172A,color:#FFFFFF,stroke-width:2px;
@@ -53,7 +54,7 @@ flowchart LR
     class PAY,S,R operation;
 ```
 
-**Reading the model:** One customer can have many orders; each order can have multiple items, payments, and shipments. The dashed return relationship is conceptual; its exact linkage requires confirmation. See the [data model documentation](data_model/DATA_MODEL.md) for details.
+**Reading the model:** One customer can have many orders and two saved address types. Each order can have multiple items and payments, with at most one shipment and one return in this dataset. Each return also references a product. See the [data model documentation](data_model/DATA_MODEL.md) for keys, relationships, and row counts.
 
 **15 business questions**
 
@@ -73,6 +74,18 @@ flowchart LR
 14. Which payments cannot be matched to an order, and what is their total value?
 15. Which orders and payments fail reconciliation because of unmatched records or amount differences?
 
+## Dataset
+
+[Browse the eight CSV files](data/) · [Data model and row counts](data_model/DATA_MODEL.md)
+
+The supplied dataset contains **311,025 synthetic records**. All customer names and transactions are fictional; monetary values are in CAD.
+
+- [Dataset guide](data/README.md)
+- [Reproducible data generator](scripts/generate.py)
+- [Table setup and loading script](scripts/setup_databricks.sql)
+
+The source data has valid foreign keys. Missing payments, shipments, and other related records are intentional scenarios; integrity checks can return no orphan records.
+
 ## Project scope and status
 
 - **Source:** `retailops360.source`
@@ -81,7 +94,7 @@ flowchart LR
 - **Published work:** 15 business questions across 5 notebooks, with saved result previews and original executed HTML reports
 - **Planned:** business performance dashboard and a consolidated findings summary
 
-The notebook copies were reconstructed from executed HTML exports. Saved tabular previews contain up to 100 rows per query; preview row counts should not be treated as full result counts. Data generation and loading scripts are not currently included in this repository.
+The notebook copies were reconstructed from executed HTML exports. Saved tabular previews contain up to 100 rows per query; preview row counts should not be treated as full result counts. The dataset, generator, and loading script are linked in the Dataset section.
 
 ## Explore the analyses
 
@@ -116,6 +129,8 @@ Aggregate one-to-many records at the required grain before joining. Multiple pay
 RetailOps360/
 ├── README.md
 ├── index.html
+├── data/  [8 CSV files and dataset guide]
+├── scripts/  [generator and loading script]
 ├── data_model/
 │   └── DATA_MODEL.md
 ├── notebooks/
@@ -134,7 +149,7 @@ RetailOps360/
 ## Next steps
 
 1. Consolidate validated findings, exception counts, and business recommendations from the five published analyses.
-2. Document reproducible dataset setup and KPI definitions.
+2. Document KPI definitions and validate the supplied setup workflow.
 3. Build a business performance dashboard and add screenshots.
 
 _All data is synthetic and does not represent transactions or customers of a real company. No business improvement or financial impact is claimed without supporting evidence._

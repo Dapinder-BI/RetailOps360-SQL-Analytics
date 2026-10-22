@@ -1,0 +1,2501 @@
+product_id,product_name,category,list_price,product_status
+1,Electronics Item 0001,Electronics,407.00,Active
+2,Home & Kitchen Item 0002,Home & Kitchen,707.00,Active
+3,Fashion Item 0003,Fashion,332.00,Active
+4,Beauty Item 0004,Beauty,506.00,Active
+5,Sports Item 0005,Sports,882.00,Discontinued
+6,Books Item 0006,Books,1129.00,Active
+7,Grocery Item 0007,Grocery,150.00,Active
+8,Office Item 0008,Office,277.00,Discontinued
+9,Electronics Item 0009,Electronics,299.00,Active
+10,Home & Kitchen Item 0010,Home & Kitchen,676.00,Discontinued
+11,Fashion Item 0011,Fashion,43.00,Discontinued
+12,Beauty Item 0012,Beauty,695.00,Active
+13,Sports Item 0013,Sports,1136.00,Active
+14,Books Item 0014,Books,1013.00,Active
+15,Grocery Item 0015,Grocery,936.00,Active
+16,Office Item 0016,Office,1025.00,Active
+17,Electronics Item 0017,Electronics,684.00,Active
+18,Home & Kitchen Item 0018,Home & Kitchen,398.00,Active
+19,Fashion Item 0019,Fashion,42.00,Discontinued
+20,Beauty Item 0020,Beauty,1074.00,Active
+21,Sports Item 0021,Sports,585.00,Discontinued
+22,Books Item 0022,Books,713.00,Active
+23,Grocery Item 0023,Grocery,908.00,Discontinued
+24,Office Item 0024,Office,224.00,Active
+25,Electronics Item 0025,Electronics,894.00,Active
+26,Home & Kitchen Item 0026,Home & Kitchen,365.00,Active
+27,Fashion Item 0027,Fashion,1046.00,Active
+28,Beauty Item 0028,Beauty,335.00,Active
+29,Sports Item 0029,Sports,925.00,Discontinued
+30,Books Item 0030,Books,145.00,Active
+31,Grocery Item 0031,Grocery,368.00,Active
+32,Office Item 0032,Office,259.00,Active
+33,Electronics Item 0033,Electronics,1117.00,Active
+34,Home & Kitchen Item 0034,Home & Kitchen,471.00,Active
+35,Fashion Item 0035,Fashion,1047.00,Discontinued
+36,Beauty Item 0036,Beauty,701.00,Active
+37,Sports Item 0037,Sports,473.00,Active
+38,Books Item 0038,Books,383.00,Active
+39,Grocery Item 0039,Grocery,1122.00,Active
+40,Office Item 0040,Office,459.00,Active
+41,Electronics Item 0041,Electronics,264.00,Active
+42,Home & Kitchen Item 0042,Home & Kitchen,813.00,Discontinued
+43,Fashion Item 0043,Fashion,727.00,Active
+44,Beauty Item 0044,Beauty,727.00,Active
+45,Sports Item 0045,Sports,152.00,Active
+46,Books Item 0046,Books,316.00,Active
+47,Grocery Item 0047,Grocery,815.00,Active
+48,Office Item 0048,Office,636.00,Active
+49,Electronics Item 0049,Electronics,672.00,Active
+50,Home & Kitchen Item 0050,Home & Kitchen,650.00,Active
+51,Fashion Item 0051,Fashion,634.00,Discontinued
+52,Beauty Item 0052,Beauty,1100.00,Active
+53,Sports Item 0053,Sports,896.00,Active
+54,Books Item 0054,Books,447.00,Active
+55,Grocery Item 0055,Grocery,12.00,Active
+56,Office Item 0056,Office,460.00,Active
+57,Electronics Item 0057,Electronics,70.00,Active
+58,Home & Kitchen Item 0058,Home & Kitchen,928.00,Active
+59,Fashion Item 0059,Fashion,467.00,Active
+60,Beauty Item 0060,Beauty,714.00,Discontinued
+61,Sports Item 0061,Sports,462.00,Active
+62,Books Item 0062,Books,329.00,Active
+63,Grocery Item 0063,Grocery,42.00,Active
+64,Office Item 0064,Office,266.00,Active
+65,Electronics Item 0065,Electronics,176.00,Active
+66,Home & Kitchen Item 0066,Home & Kitchen,87.00,Discontinued
+67,Fashion Item 0067,Fashion,1026.00,Active
+68,Beauty Item 0068,Beauty,662.00,Active
+69,Sports Item 0069,Sports,1091.00,Active
+70,Books Item 0070,Books,361.00,Discontinued
+71,Grocery Item 0071,Grocery,152.00,Active
+72,Office Item 0072,Office,256.00,Active
+73,Electronics Item 0073,Electronics,818.00,Active
+74,Home & Kitchen Item 0074,Home & Kitchen,856.00,Active
+75,Fashion Item 0075,Fashion,37.00,Active
+76,Beauty Item 0076,Beauty,245.00,Active
+77,Sports Item 0077,Sports,389.00,Active
+78,Books Item 0078,Books,817.00,Active
+79,Grocery Item 0079,Grocery,489.00,Active
+80,Office Item 0080,Office,71.00,Active
+81,Electronics Item 0081,Electronics,479.00,Discontinued
+82,Home & Kitchen Item 0082,Home & Kitchen,535.00,Active
+83,Fashion Item 0083,Fashion,638.00,Active
+84,Beauty Item 0084,Beauty,952.00,Discontinued
+85,Sports Item 0085,Sports,441.00,Active
+86,Books Item 0086,Books,507.00,Active
+87,Grocery Item 0087,Grocery,555.00,Active
+88,Office Item 0088,Office,351.00,Discontinued
+89,Electronics Item 0089,Electronics,737.00,Active
+90,Home & Kitchen Item 0090,Home & Kitchen,723.00,Discontinued
+91,Fashion Item 0091,Fashion,779.00,Active
+92,Beauty Item 0092,Beauty,1139.00,Active
+93,Sports Item 0093,Sports,96.00,Active
+94,Books Item 0094,Books,1167.00,Discontinued
+95,Grocery Item 0095,Grocery,100.00,Active
+96,Office Item 0096,Office,529.00,Active
+97,Electronics Item 0097,Electronics,710.00,Active
+98,Home & Kitchen Item 0098,Home & Kitchen,122.00,Active
+99,Fashion Item 0099,Fashion,426.00,Active
+100,Beauty Item 0100,Beauty,1051.00,Active
+101,Sports Item 0101,Sports,338.00,Active
+102,Books Item 0102,Books,795.00,Discontinued
+103,Grocery Item 0103,Grocery,557.00,Active
+104,Office Item 0104,Office,305.00,Discontinued
+105,Electronics Item 0105,Electronics,69.00,Active
+106,Home & Kitchen Item 0106,Home & Kitchen,665.00,Active
+107,Fashion Item 0107,Fashion,896.00,Active
+108,Beauty Item 0108,Beauty,59.00,Discontinued
+109,Sports Item 0109,Sports,1118.00,Active
+110,Books Item 0110,Books,288.00,Active
+111,Grocery Item 0111,Grocery,528.00,Active
+112,Office Item 0112,Office,481.00,Discontinued
+113,Electronics Item 0113,Electronics,1047.00,Active
+114,Home & Kitchen Item 0114,Home & Kitchen,899.00,Discontinued
+115,Fashion Item 0115,Fashion,918.00,Active
+116,Beauty Item 0116,Beauty,1106.00,Active
+117,Sports Item 0117,Sports,439.00,Active
+118,Books Item 0118,Books,558.00,Active
+119,Grocery Item 0119,Grocery,599.00,Active
+120,Office Item 0120,Office,1099.00,Active
+121,Electronics Item 0121,Electronics,310.00,Active
+122,Home & Kitchen Item 0122,Home & Kitchen,96.00,Active
+123,Fashion Item 0123,Fashion,1158.00,Active
+124,Beauty Item 0124,Beauty,704.00,Active
+125,Sports Item 0125,Sports,1183.00,Active
+126,Books Item 0126,Books,1024.00,Active
+127,Grocery Item 0127,Grocery,801.00,Active
+128,Office Item 0128,Office,158.00,Active
+129,Electronics Item 0129,Electronics,746.00,Active
+130,Home & Kitchen Item 0130,Home & Kitchen,204.00,Active
+131,Fashion Item 0131,Fashion,36.00,Discontinued
+132,Beauty Item 0132,Beauty,602.00,Active
+133,Sports Item 0133,Sports,564.00,Active
+134,Books Item 0134,Books,287.00,Active
+135,Grocery Item 0135,Grocery,976.00,Active
+136,Office Item 0136,Office,599.00,Discontinued
+137,Electronics Item 0137,Electronics,623.00,Discontinued
+138,Home & Kitchen Item 0138,Home & Kitchen,1140.00,Active
+139,Fashion Item 0139,Fashion,526.00,Discontinued
+140,Beauty Item 0140,Beauty,568.00,Active
+141,Sports Item 0141,Sports,1163.00,Active
+142,Books Item 0142,Books,607.00,Active
+143,Grocery Item 0143,Grocery,667.00,Discontinued
+144,Office Item 0144,Office,681.00,Active
+145,Electronics Item 0145,Electronics,281.00,Discontinued
+146,Home & Kitchen Item 0146,Home & Kitchen,799.00,Discontinued
+147,Fashion Item 0147,Fashion,444.00,Active
+148,Beauty Item 0148,Beauty,92.00,Active
+149,Sports Item 0149,Sports,75.00,Active
+150,Books Item 0150,Books,472.00,Active
+151,Grocery Item 0151,Grocery,940.00,Active
+152,Office Item 0152,Office,796.00,Active
+153,Electronics Item 0153,Electronics,206.00,Discontinued
+154,Home & Kitchen Item 0154,Home & Kitchen,476.00,Active
+155,Fashion Item 0155,Fashion,51.00,Discontinued
+156,Beauty Item 0156,Beauty,867.00,Active
+157,Sports Item 0157,Sports,455.00,Active
+158,Books Item 0158,Books,200.00,Discontinued
+159,Grocery Item 0159,Grocery,170.00,Active
+160,Office Item 0160,Office,871.00,Active
+161,Electronics Item 0161,Electronics,575.00,Discontinued
+162,Home & Kitchen Item 0162,Home & Kitchen,646.00,Active
+163,Fashion Item 0163,Fashion,37.00,Discontinued
+164,Beauty Item 0164,Beauty,904.00,Active
+165,Sports Item 0165,Sports,667.00,Active
+166,Books Item 0166,Books,1149.00,Active
+167,Grocery Item 0167,Grocery,776.00,Active
+168,Office Item 0168,Office,917.00,Active
+169,Electronics Item 0169,Electronics,1013.00,Active
+170,Home & Kitchen Item 0170,Home & Kitchen,43.00,Active
+171,Fashion Item 0171,Fashion,443.00,Active
+172,Beauty Item 0172,Beauty,1182.00,Active
+173,Sports Item 0173,Sports,1176.00,Active
+174,Books Item 0174,Books,687.00,Active
+175,Grocery Item 0175,Grocery,577.00,Discontinued
+176,Office Item 0176,Office,844.00,Active
+177,Electronics Item 0177,Electronics,311.00,Active
+178,Home & Kitchen Item 0178,Home & Kitchen,1150.00,Active
+179,Fashion Item 0179,Fashion,1042.00,Active
+180,Beauty Item 0180,Beauty,573.00,Discontinued
+181,Sports Item 0181,Sports,597.00,Discontinued
+182,Books Item 0182,Books,931.00,Active
+183,Grocery Item 0183,Grocery,882.00,Discontinued
+184,Office Item 0184,Office,1014.00,Active
+185,Electronics Item 0185,Electronics,708.00,Active
+186,Home & Kitchen Item 0186,Home & Kitchen,962.00,Active
+187,Fashion Item 0187,Fashion,420.00,Active
+188,Beauty Item 0188,Beauty,353.00,Active
+189,Sports Item 0189,Sports,580.00,Discontinued
+190,Books Item 0190,Books,563.00,Active
+191,Grocery Item 0191,Grocery,534.00,Discontinued
+192,Office Item 0192,Office,915.00,Active
+193,Electronics Item 0193,Electronics,393.00,Active
+194,Home & Kitchen Item 0194,Home & Kitchen,281.00,Discontinued
+195,Fashion Item 0195,Fashion,45.00,Discontinued
+196,Beauty Item 0196,Beauty,978.00,Active
+197,Sports Item 0197,Sports,1006.00,Active
+198,Books Item 0198,Books,501.00,Active
+199,Grocery Item 0199,Grocery,305.00,Active
+200,Office Item 0200,Office,16.00,Discontinued
+201,Electronics Item 0201,Electronics,941.00,Discontinued
+202,Home & Kitchen Item 0202,Home & Kitchen,1015.00,Discontinued
+203,Fashion Item 0203,Fashion,1019.00,Active
+204,Beauty Item 0204,Beauty,349.00,Active
+205,Sports Item 0205,Sports,1117.00,Active
+206,Books Item 0206,Books,909.00,Active
+207,Grocery Item 0207,Grocery,1141.00,Active
+208,Office Item 0208,Office,871.00,Active
+209,Electronics Item 0209,Electronics,133.00,Active
+210,Home & Kitchen Item 0210,Home & Kitchen,575.00,Discontinued
+211,Fashion Item 0211,Fashion,434.00,Active
+212,Beauty Item 0212,Beauty,442.00,Active
+213,Sports Item 0213,Sports,948.00,Active
+214,Books Item 0214,Books,797.00,Active
+215,Grocery Item 0215,Grocery,223.00,Discontinued
+216,Office Item 0216,Office,997.00,Active
+217,Electronics Item 0217,Electronics,729.00,Discontinued
+218,Home & Kitchen Item 0218,Home & Kitchen,498.00,Active
+219,Fashion Item 0219,Fashion,954.00,Active
+220,Beauty Item 0220,Beauty,961.00,Discontinued
+221,Sports Item 0221,Sports,854.00,Discontinued
+222,Books Item 0222,Books,1071.00,Active
+223,Grocery Item 0223,Grocery,966.00,Active
+224,Office Item 0224,Office,472.00,Active
+225,Electronics Item 0225,Electronics,884.00,Active
+226,Home & Kitchen Item 0226,Home & Kitchen,198.00,Active
+227,Fashion Item 0227,Fashion,110.00,Discontinued
+228,Beauty Item 0228,Beauty,1102.00,Active
+229,Sports Item 0229,Sports,718.00,Discontinued
+230,Books Item 0230,Books,764.00,Active
+231,Grocery Item 0231,Grocery,533.00,Active
+232,Office Item 0232,Office,1155.00,Active
+233,Electronics Item 0233,Electronics,199.00,Active
+234,Home & Kitchen Item 0234,Home & Kitchen,720.00,Active
+235,Fashion Item 0235,Fashion,468.00,Active
+236,Beauty Item 0236,Beauty,119.00,Discontinued
+237,Sports Item 0237,Sports,991.00,Active
+238,Books Item 0238,Books,1192.00,Active
+239,Grocery Item 0239,Grocery,841.00,Active
+240,Office Item 0240,Office,493.00,Active
+241,Electronics Item 0241,Electronics,381.00,Active
+242,Home & Kitchen Item 0242,Home & Kitchen,489.00,Active
+243,Fashion Item 0243,Fashion,591.00,Active
+244,Beauty Item 0244,Beauty,420.00,Active
+245,Sports Item 0245,Sports,583.00,Active
+246,Books Item 0246,Books,645.00,Active
+247,Grocery Item 0247,Grocery,1172.00,Active
+248,Office Item 0248,Office,681.00,Active
+249,Electronics Item 0249,Electronics,232.00,Active
+250,Home & Kitchen Item 0250,Home & Kitchen,813.00,Discontinued
+251,Fashion Item 0251,Fashion,748.00,Active
+252,Beauty Item 0252,Beauty,1055.00,Active
+253,Sports Item 0253,Sports,41.00,Active
+254,Books Item 0254,Books,1141.00,Active
+255,Grocery Item 0255,Grocery,684.00,Discontinued
+256,Office Item 0256,Office,240.00,Active
+257,Electronics Item 0257,Electronics,432.00,Active
+258,Home & Kitchen Item 0258,Home & Kitchen,627.00,Active
+259,Fashion Item 0259,Fashion,901.00,Active
+260,Beauty Item 0260,Beauty,826.00,Active
+261,Sports Item 0261,Sports,995.00,Discontinued
+262,Books Item 0262,Books,970.00,Active
+263,Grocery Item 0263,Grocery,387.00,Active
+264,Office Item 0264,Office,696.00,Discontinued
+265,Electronics Item 0265,Electronics,604.00,Active
+266,Home & Kitchen Item 0266,Home & Kitchen,146.00,Active
+267,Fashion Item 0267,Fashion,515.00,Active
+268,Beauty Item 0268,Beauty,395.00,Active
+269,Sports Item 0269,Sports,951.00,Active
+270,Books Item 0270,Books,861.00,Active
+271,Grocery Item 0271,Grocery,780.00,Active
+272,Office Item 0272,Office,950.00,Active
+273,Electronics Item 0273,Electronics,17.00,Discontinued
+274,Home & Kitchen Item 0274,Home & Kitchen,418.00,Active
+275,Fashion Item 0275,Fashion,1183.00,Discontinued
+276,Beauty Item 0276,Beauty,336.00,Discontinued
+277,Sports Item 0277,Sports,173.00,Active
+278,Books Item 0278,Books,98.00,Active
+279,Grocery Item 0279,Grocery,811.00,Discontinued
+280,Office Item 0280,Office,31.00,Active
+281,Electronics Item 0281,Electronics,840.00,Active
+282,Home & Kitchen Item 0282,Home & Kitchen,1036.00,Active
+283,Fashion Item 0283,Fashion,862.00,Active
+284,Beauty Item 0284,Beauty,1111.00,Discontinued
+285,Sports Item 0285,Sports,162.00,Active
+286,Books Item 0286,Books,789.00,Discontinued
+287,Grocery Item 0287,Grocery,43.00,Discontinued
+288,Office Item 0288,Office,1006.00,Active
+289,Electronics Item 0289,Electronics,82.00,Active
+290,Home & Kitchen Item 0290,Home & Kitchen,510.00,Discontinued
+291,Fashion Item 0291,Fashion,26.00,Active
+292,Beauty Item 0292,Beauty,679.00,Discontinued
+293,Sports Item 0293,Sports,516.00,Active
+294,Books Item 0294,Books,201.00,Discontinued
+295,Grocery Item 0295,Grocery,814.00,Active
+296,Office Item 0296,Office,708.00,Discontinued
+297,Electronics Item 0297,Electronics,405.00,Active
+298,Home & Kitchen Item 0298,Home & Kitchen,518.00,Discontinued
+299,Fashion Item 0299,Fashion,1162.00,Active
+300,Beauty Item 0300,Beauty,1117.00,Active
+301,Sports Item 0301,Sports,1112.00,Discontinued
+302,Books Item 0302,Books,976.00,Active
+303,Grocery Item 0303,Grocery,836.00,Active
+304,Office Item 0304,Office,151.00,Active
+305,Electronics Item 0305,Electronics,712.00,Discontinued
+306,Home & Kitchen Item 0306,Home & Kitchen,364.00,Active
+307,Fashion Item 0307,Fashion,899.00,Active
+308,Beauty Item 0308,Beauty,844.00,Discontinued
+309,Sports Item 0309,Sports,21.00,Active
+310,Books Item 0310,Books,564.00,Discontinued
+311,Grocery Item 0311,Grocery,450.00,Active
+312,Office Item 0312,Office,1029.00,Active
+313,Electronics Item 0313,Electronics,885.00,Discontinued
+314,Home & Kitchen Item 0314,Home & Kitchen,372.00,Active
+315,Fashion Item 0315,Fashion,804.00,Discontinued
+316,Beauty Item 0316,Beauty,167.00,Discontinued
+317,Sports Item 0317,Sports,1067.00,Discontinued
+318,Books Item 0318,Books,1185.00,Active
+319,Grocery Item 0319,Grocery,424.00,Active
+320,Office Item 0320,Office,145.00,Active
+321,Electronics Item 0321,Electronics,528.00,Discontinued
+322,Home & Kitchen Item 0322,Home & Kitchen,697.00,Active
+323,Fashion Item 0323,Fashion,927.00,Active
+324,Beauty Item 0324,Beauty,945.00,Active
+325,Sports Item 0325,Sports,384.00,Active
+326,Books Item 0326,Books,616.00,Discontinued
+327,Grocery Item 0327,Grocery,119.00,Active
+328,Office Item 0328,Office,750.00,Active
+329,Electronics Item 0329,Electronics,376.00,Active
+330,Home & Kitchen Item 0330,Home & Kitchen,231.00,Active
+331,Fashion Item 0331,Fashion,710.00,Active
+332,Beauty Item 0332,Beauty,450.00,Discontinued
+333,Sports Item 0333,Sports,1149.00,Active
+334,Books Item 0334,Books,554.00,Discontinued
+335,Grocery Item 0335,Grocery,19.00,Active
+336,Office Item 0336,Office,992.00,Discontinued
+337,Electronics Item 0337,Electronics,965.00,Active
+338,Home & Kitchen Item 0338,Home & Kitchen,149.00,Active
+339,Fashion Item 0339,Fashion,337.00,Active
+340,Beauty Item 0340,Beauty,829.00,Active
+341,Sports Item 0341,Sports,519.00,Active
+342,Books Item 0342,Books,834.00,Active
+343,Grocery Item 0343,Grocery,155.00,Active
+344,Office Item 0344,Office,1153.00,Active
+345,Electronics Item 0345,Electronics,509.00,Active
+346,Home & Kitchen Item 0346,Home & Kitchen,443.00,Active
+347,Fashion Item 0347,Fashion,485.00,Active
+348,Beauty Item 0348,Beauty,860.00,Active
+349,Sports Item 0349,Sports,1082.00,Active
+350,Books Item 0350,Books,55.00,Discontinued
+351,Grocery Item 0351,Grocery,772.00,Active
+352,Office Item 0352,Office,1110.00,Discontinued
+353,Electronics Item 0353,Electronics,761.00,Active
+354,Home & Kitchen Item 0354,Home & Kitchen,944.00,Active
+355,Fashion Item 0355,Fashion,879.00,Active
+356,Beauty Item 0356,Beauty,513.00,Active
+357,Sports Item 0357,Sports,634.00,Discontinued
+358,Books Item 0358,Books,57.00,Discontinued
+359,Grocery Item 0359,Grocery,450.00,Active
+360,Office Item 0360,Office,504.00,Active
+361,Electronics Item 0361,Electronics,35.00,Discontinued
+362,Home & Kitchen Item 0362,Home & Kitchen,591.00,Active
+363,Fashion Item 0363,Fashion,169.00,Active
+364,Beauty Item 0364,Beauty,259.00,Discontinued
+365,Sports Item 0365,Sports,443.00,Discontinued
+366,Books Item 0366,Books,139.00,Active
+367,Grocery Item 0367,Grocery,304.00,Active
+368,Office Item 0368,Office,150.00,Active
+369,Electronics Item 0369,Electronics,1093.00,Discontinued
+370,Home & Kitchen Item 0370,Home & Kitchen,997.00,Active
+371,Fashion Item 0371,Fashion,1197.00,Active
+372,Beauty Item 0372,Beauty,961.00,Active
+373,Sports Item 0373,Sports,384.00,Active
+374,Books Item 0374,Books,774.00,Active
+375,Grocery Item 0375,Grocery,971.00,Active
+376,Office Item 0376,Office,204.00,Active
+377,Electronics Item 0377,Electronics,833.00,Discontinued
+378,Home & Kitchen Item 0378,Home & Kitchen,1050.00,Discontinued
+379,Fashion Item 0379,Fashion,217.00,Active
+380,Beauty Item 0380,Beauty,595.00,Discontinued
+381,Sports Item 0381,Sports,610.00,Active
+382,Books Item 0382,Books,1159.00,Active
+383,Grocery Item 0383,Grocery,448.00,Active
+384,Office Item 0384,Office,901.00,Active
+385,Electronics Item 0385,Electronics,539.00,Active
+386,Home & Kitchen Item 0386,Home & Kitchen,1072.00,Active
+387,Fashion Item 0387,Fashion,872.00,Active
+388,Beauty Item 0388,Beauty,842.00,Active
+389,Sports Item 0389,Sports,987.00,Active
+390,Books Item 0390,Books,348.00,Active
+391,Grocery Item 0391,Grocery,19.00,Active
+392,Office Item 0392,Office,939.00,Discontinued
+393,Electronics Item 0393,Electronics,689.00,Active
+394,Home & Kitchen Item 0394,Home & Kitchen,832.00,Active
+395,Fashion Item 0395,Fashion,142.00,Active
+396,Beauty Item 0396,Beauty,1168.00,Active
+397,Sports Item 0397,Sports,321.00,Active
+398,Books Item 0398,Books,928.00,Active
+399,Grocery Item 0399,Grocery,134.00,Active
+400,Office Item 0400,Office,113.00,Active
+401,Electronics Item 0401,Electronics,1098.00,Active
+402,Home & Kitchen Item 0402,Home & Kitchen,554.00,Active
+403,Fashion Item 0403,Fashion,816.00,Discontinued
+404,Beauty Item 0404,Beauty,832.00,Active
+405,Sports Item 0405,Sports,376.00,Discontinued
+406,Books Item 0406,Books,720.00,Discontinued
+407,Grocery Item 0407,Grocery,646.00,Active
+408,Office Item 0408,Office,435.00,Active
+409,Electronics Item 0409,Electronics,423.00,Active
+410,Home & Kitchen Item 0410,Home & Kitchen,431.00,Active
+411,Fashion Item 0411,Fashion,577.00,Active
+412,Beauty Item 0412,Beauty,423.00,Active
+413,Sports Item 0413,Sports,106.00,Active
+414,Books Item 0414,Books,336.00,Active
+415,Grocery Item 0415,Grocery,973.00,Active
+416,Office Item 0416,Office,914.00,Active
+417,Electronics Item 0417,Electronics,398.00,Active
+418,Home & Kitchen Item 0418,Home & Kitchen,253.00,Discontinued
+419,Fashion Item 0419,Fashion,1194.00,Active
+420,Beauty Item 0420,Beauty,606.00,Discontinued
+421,Sports Item 0421,Sports,404.00,Active
+422,Books Item 0422,Books,53.00,Discontinued
+423,Grocery Item 0423,Grocery,490.00,Active
+424,Office Item 0424,Office,946.00,Active
+425,Electronics Item 0425,Electronics,1113.00,Active
+426,Home & Kitchen Item 0426,Home & Kitchen,959.00,Active
+427,Fashion Item 0427,Fashion,251.00,Active
+428,Beauty Item 0428,Beauty,523.00,Active
+429,Sports Item 0429,Sports,940.00,Active
+430,Books Item 0430,Books,826.00,Active
+431,Grocery Item 0431,Grocery,1140.00,Discontinued
+432,Office Item 0432,Office,687.00,Active
+433,Electronics Item 0433,Electronics,1127.00,Active
+434,Home & Kitchen Item 0434,Home & Kitchen,342.00,Active
+435,Fashion Item 0435,Fashion,941.00,Active
+436,Beauty Item 0436,Beauty,47.00,Active
+437,Sports Item 0437,Sports,366.00,Active
+438,Books Item 0438,Books,837.00,Active
+439,Grocery Item 0439,Grocery,242.00,Active
+440,Office Item 0440,Office,184.00,Active
+441,Electronics Item 0441,Electronics,98.00,Discontinued
+442,Home & Kitchen Item 0442,Home & Kitchen,353.00,Active
+443,Fashion Item 0443,Fashion,201.00,Active
+444,Beauty Item 0444,Beauty,198.00,Active
+445,Sports Item 0445,Sports,450.00,Active
+446,Books Item 0446,Books,334.00,Active
+447,Grocery Item 0447,Grocery,1104.00,Active
+448,Office Item 0448,Office,12.00,Active
+449,Electronics Item 0449,Electronics,399.00,Active
+450,Home & Kitchen Item 0450,Home & Kitchen,749.00,Active
+451,Fashion Item 0451,Fashion,925.00,Active
+452,Beauty Item 0452,Beauty,743.00,Active
+453,Sports Item 0453,Sports,563.00,Active
+454,Books Item 0454,Books,1162.00,Active
+455,Grocery Item 0455,Grocery,732.00,Active
+456,Office Item 0456,Office,251.00,Active
+457,Electronics Item 0457,Electronics,1096.00,Active
+458,Home & Kitchen Item 0458,Home & Kitchen,1094.00,Active
+459,Fashion Item 0459,Fashion,495.00,Active
+460,Beauty Item 0460,Beauty,85.00,Discontinued
+461,Sports Item 0461,Sports,955.00,Active
+462,Books Item 0462,Books,11.00,Active
+463,Grocery Item 0463,Grocery,636.00,Active
+464,Office Item 0464,Office,744.00,Active
+465,Electronics Item 0465,Electronics,791.00,Active
+466,Home & Kitchen Item 0466,Home & Kitchen,997.00,Active
+467,Fashion Item 0467,Fashion,577.00,Active
+468,Beauty Item 0468,Beauty,781.00,Active
+469,Sports Item 0469,Sports,678.00,Active
+470,Books Item 0470,Books,820.00,Discontinued
+471,Grocery Item 0471,Grocery,683.00,Active
+472,Office Item 0472,Office,984.00,Discontinued
+473,Electronics Item 0473,Electronics,898.00,Active
+474,Home & Kitchen Item 0474,Home & Kitchen,438.00,Active
+475,Fashion Item 0475,Fashion,739.00,Discontinued
+476,Beauty Item 0476,Beauty,105.00,Active
+477,Sports Item 0477,Sports,57.00,Active
+478,Books Item 0478,Books,639.00,Active
+479,Grocery Item 0479,Grocery,1157.00,Active
+480,Office Item 0480,Office,749.00,Discontinued
+481,Electronics Item 0481,Electronics,905.00,Active
+482,Home & Kitchen Item 0482,Home & Kitchen,737.00,Active
+483,Fashion Item 0483,Fashion,448.00,Discontinued
+484,Beauty Item 0484,Beauty,878.00,Active
+485,Sports Item 0485,Sports,1057.00,Active
+486,Books Item 0486,Books,481.00,Discontinued
+487,Grocery Item 0487,Grocery,1013.00,Active
+488,Office Item 0488,Office,413.00,Discontinued
+489,Electronics Item 0489,Electronics,50.00,Discontinued
+490,Home & Kitchen Item 0490,Home & Kitchen,290.00,Active
+491,Fashion Item 0491,Fashion,331.00,Discontinued
+492,Beauty Item 0492,Beauty,263.00,Active
+493,Sports Item 0493,Sports,913.00,Active
+494,Books Item 0494,Books,759.00,Active
+495,Grocery Item 0495,Grocery,39.00,Active
+496,Office Item 0496,Office,761.00,Active
+497,Electronics Item 0497,Electronics,1158.00,Discontinued
+498,Home & Kitchen Item 0498,Home & Kitchen,57.00,Active
+499,Fashion Item 0499,Fashion,1087.00,Active
+500,Beauty Item 0500,Beauty,744.00,Active
+501,Sports Item 0501,Sports,1116.00,Discontinued
+502,Books Item 0502,Books,244.00,Active
+503,Grocery Item 0503,Grocery,1199.00,Active
+504,Office Item 0504,Office,63.00,Active
+505,Electronics Item 0505,Electronics,279.00,Discontinued
+506,Home & Kitchen Item 0506,Home & Kitchen,297.00,Active
+507,Fashion Item 0507,Fashion,868.00,Active
+508,Beauty Item 0508,Beauty,79.00,Active
+509,Sports Item 0509,Sports,667.00,Active
+510,Books Item 0510,Books,763.00,Discontinued
+511,Grocery Item 0511,Grocery,71.00,Active
+512,Office Item 0512,Office,957.00,Active
+513,Electronics Item 0513,Electronics,965.00,Active
+514,Home & Kitchen Item 0514,Home & Kitchen,663.00,Active
+515,Fashion Item 0515,Fashion,479.00,Active
+516,Beauty Item 0516,Beauty,461.00,Discontinued
+517,Sports Item 0517,Sports,1188.00,Active
+518,Books Item 0518,Books,616.00,Active
+519,Grocery Item 0519,Grocery,93.00,Active
+520,Office Item 0520,Office,492.00,Active
+521,Electronics Item 0521,Electronics,745.00,Discontinued
+522,Home & Kitchen Item 0522,Home & Kitchen,503.00,Active
+523,Fashion Item 0523,Fashion,682.00,Discontinued
+524,Beauty Item 0524,Beauty,319.00,Discontinued
+525,Sports Item 0525,Sports,459.00,Discontinued
+526,Books Item 0526,Books,117.00,Active
+527,Grocery Item 0527,Grocery,789.00,Active
+528,Office Item 0528,Office,550.00,Discontinued
+529,Electronics Item 0529,Electronics,108.00,Active
+530,Home & Kitchen Item 0530,Home & Kitchen,538.00,Discontinued
+531,Fashion Item 0531,Fashion,650.00,Discontinued
+532,Beauty Item 0532,Beauty,1115.00,Active
+533,Sports Item 0533,Sports,1067.00,Active
+534,Books Item 0534,Books,172.00,Active
+535,Grocery Item 0535,Grocery,357.00,Active
+536,Office Item 0536,Office,863.00,Active
+537,Electronics Item 0537,Electronics,641.00,Active
+538,Home & Kitchen Item 0538,Home & Kitchen,380.00,Discontinued
+539,Fashion Item 0539,Fashion,639.00,Active
+540,Beauty Item 0540,Beauty,96.00,Active
+541,Sports Item 0541,Sports,649.00,Active
+542,Books Item 0542,Books,402.00,Active
+543,Grocery Item 0543,Grocery,659.00,Active
+544,Office Item 0544,Office,103.00,Active
+545,Electronics Item 0545,Electronics,718.00,Active
+546,Home & Kitchen Item 0546,Home & Kitchen,417.00,Discontinued
+547,Fashion Item 0547,Fashion,490.00,Discontinued
+548,Beauty Item 0548,Beauty,564.00,Active
+549,Sports Item 0549,Sports,998.00,Active
+550,Books Item 0550,Books,453.00,Discontinued
+551,Grocery Item 0551,Grocery,1012.00,Active
+552,Office Item 0552,Office,986.00,Discontinued
+553,Electronics Item 0553,Electronics,1037.00,Active
+554,Home & Kitchen Item 0554,Home & Kitchen,101.00,Active
+555,Fashion Item 0555,Fashion,411.00,Active
+556,Beauty Item 0556,Beauty,689.00,Active
+557,Sports Item 0557,Sports,452.00,Active
+558,Books Item 0558,Books,836.00,Active
+559,Grocery Item 0559,Grocery,966.00,Active
+560,Office Item 0560,Office,986.00,Active
+561,Electronics Item 0561,Electronics,150.00,Discontinued
+562,Home & Kitchen Item 0562,Home & Kitchen,128.00,Active
+563,Fashion Item 0563,Fashion,700.00,Discontinued
+564,Beauty Item 0564,Beauty,669.00,Discontinued
+565,Sports Item 0565,Sports,714.00,Active
+566,Books Item 0566,Books,30.00,Active
+567,Grocery Item 0567,Grocery,695.00,Active
+568,Office Item 0568,Office,646.00,Active
+569,Electronics Item 0569,Electronics,112.00,Active
+570,Home & Kitchen Item 0570,Home & Kitchen,672.00,Discontinued
+571,Fashion Item 0571,Fashion,778.00,Discontinued
+572,Beauty Item 0572,Beauty,153.00,Discontinued
+573,Sports Item 0573,Sports,56.00,Active
+574,Books Item 0574,Books,1132.00,Discontinued
+575,Grocery Item 0575,Grocery,842.00,Active
+576,Office Item 0576,Office,1006.00,Active
+577,Electronics Item 0577,Electronics,1192.00,Active
+578,Home & Kitchen Item 0578,Home & Kitchen,1115.00,Active
+579,Fashion Item 0579,Fashion,1107.00,Active
+580,Beauty Item 0580,Beauty,1038.00,Active
+581,Sports Item 0581,Sports,384.00,Active
+582,Books Item 0582,Books,120.00,Discontinued
+583,Grocery Item 0583,Grocery,654.00,Discontinued
+584,Office Item 0584,Office,491.00,Discontinued
+585,Electronics Item 0585,Electronics,1022.00,Active
+586,Home & Kitchen Item 0586,Home & Kitchen,368.00,Active
+587,Fashion Item 0587,Fashion,241.00,Active
+588,Beauty Item 0588,Beauty,101.00,Active
+589,Sports Item 0589,Sports,747.00,Discontinued
+590,Books Item 0590,Books,562.00,Active
+591,Grocery Item 0591,Grocery,99.00,Active
+592,Office Item 0592,Office,57.00,Active
+593,Electronics Item 0593,Electronics,470.00,Active
+594,Home & Kitchen Item 0594,Home & Kitchen,699.00,Active
+595,Fashion Item 0595,Fashion,249.00,Discontinued
+596,Beauty Item 0596,Beauty,72.00,Active
+597,Sports Item 0597,Sports,1052.00,Active
+598,Books Item 0598,Books,908.00,Active
+599,Grocery Item 0599,Grocery,182.00,Active
+600,Office Item 0600,Office,1030.00,Active
+601,Electronics Item 0601,Electronics,676.00,Active
+602,Home & Kitchen Item 0602,Home & Kitchen,1197.00,Active
+603,Fashion Item 0603,Fashion,996.00,Discontinued
+604,Beauty Item 0604,Beauty,833.00,Discontinued
+605,Sports Item 0605,Sports,765.00,Active
+606,Books Item 0606,Books,89.00,Discontinued
+607,Grocery Item 0607,Grocery,489.00,Active
+608,Office Item 0608,Office,687.00,Active
+609,Electronics Item 0609,Electronics,604.00,Active
+610,Home & Kitchen Item 0610,Home & Kitchen,877.00,Active
+611,Fashion Item 0611,Fashion,1145.00,Active
+612,Beauty Item 0612,Beauty,653.00,Active
+613,Sports Item 0613,Sports,959.00,Active
+614,Books Item 0614,Books,811.00,Discontinued
+615,Grocery Item 0615,Grocery,647.00,Active
+616,Office Item 0616,Office,636.00,Active
+617,Electronics Item 0617,Electronics,714.00,Active
+618,Home & Kitchen Item 0618,Home & Kitchen,907.00,Active
+619,Fashion Item 0619,Fashion,1164.00,Discontinued
+620,Beauty Item 0620,Beauty,1128.00,Active
+621,Sports Item 0621,Sports,364.00,Active
+622,Books Item 0622,Books,513.00,Discontinued
+623,Grocery Item 0623,Grocery,49.00,Discontinued
+624,Office Item 0624,Office,562.00,Active
+625,Electronics Item 0625,Electronics,941.00,Discontinued
+626,Home & Kitchen Item 0626,Home & Kitchen,165.00,Active
+627,Fashion Item 0627,Fashion,352.00,Active
+628,Beauty Item 0628,Beauty,305.00,Active
+629,Sports Item 0629,Sports,392.00,Active
+630,Books Item 0630,Books,443.00,Active
+631,Grocery Item 0631,Grocery,715.00,Active
+632,Office Item 0632,Office,63.00,Discontinued
+633,Electronics Item 0633,Electronics,1068.00,Discontinued
+634,Home & Kitchen Item 0634,Home & Kitchen,456.00,Discontinued
+635,Fashion Item 0635,Fashion,952.00,Active
+636,Beauty Item 0636,Beauty,157.00,Active
+637,Sports Item 0637,Sports,204.00,Active
+638,Books Item 0638,Books,721.00,Active
+639,Grocery Item 0639,Grocery,400.00,Discontinued
+640,Office Item 0640,Office,438.00,Active
+641,Electronics Item 0641,Electronics,66.00,Active
+642,Home & Kitchen Item 0642,Home & Kitchen,714.00,Active
+643,Fashion Item 0643,Fashion,802.00,Active
+644,Beauty Item 0644,Beauty,1130.00,Active
+645,Sports Item 0645,Sports,561.00,Active
+646,Books Item 0646,Books,35.00,Discontinued
+647,Grocery Item 0647,Grocery,743.00,Discontinued
+648,Office Item 0648,Office,1083.00,Active
+649,Electronics Item 0649,Electronics,428.00,Active
+650,Home & Kitchen Item 0650,Home & Kitchen,20.00,Discontinued
+651,Fashion Item 0651,Fashion,491.00,Discontinued
+652,Beauty Item 0652,Beauty,860.00,Active
+653,Sports Item 0653,Sports,26.00,Active
+654,Books Item 0654,Books,483.00,Discontinued
+655,Grocery Item 0655,Grocery,433.00,Active
+656,Office Item 0656,Office,427.00,Active
+657,Electronics Item 0657,Electronics,525.00,Active
+658,Home & Kitchen Item 0658,Home & Kitchen,139.00,Discontinued
+659,Fashion Item 0659,Fashion,646.00,Active
+660,Beauty Item 0660,Beauty,142.00,Active
+661,Sports Item 0661,Sports,492.00,Active
+662,Books Item 0662,Books,99.00,Active
+663,Grocery Item 0663,Grocery,1186.00,Active
+664,Office Item 0664,Office,1070.00,Discontinued
+665,Electronics Item 0665,Electronics,1080.00,Active
+666,Home & Kitchen Item 0666,Home & Kitchen,715.00,Active
+667,Fashion Item 0667,Fashion,121.00,Active
+668,Beauty Item 0668,Beauty,578.00,Active
+669,Sports Item 0669,Sports,1107.00,Active
+670,Books Item 0670,Books,201.00,Active
+671,Grocery Item 0671,Grocery,640.00,Active
+672,Office Item 0672,Office,593.00,Active
+673,Electronics Item 0673,Electronics,858.00,Discontinued
+674,Home & Kitchen Item 0674,Home & Kitchen,522.00,Active
+675,Fashion Item 0675,Fashion,915.00,Active
+676,Beauty Item 0676,Beauty,887.00,Active
+677,Sports Item 0677,Sports,1119.00,Active
+678,Books Item 0678,Books,894.00,Active
+679,Grocery Item 0679,Grocery,542.00,Active
+680,Office Item 0680,Office,1105.00,Active
+681,Electronics Item 0681,Electronics,405.00,Active
+682,Home & Kitchen Item 0682,Home & Kitchen,978.00,Active
+683,Fashion Item 0683,Fashion,365.00,Discontinued
+684,Beauty Item 0684,Beauty,1170.00,Active
+685,Sports Item 0685,Sports,1193.00,Active
+686,Books Item 0686,Books,1104.00,Active
+687,Grocery Item 0687,Grocery,33.00,Active
+688,Office Item 0688,Office,1109.00,Active
+689,Electronics Item 0689,Electronics,879.00,Active
+690,Home & Kitchen Item 0690,Home & Kitchen,293.00,Active
+691,Fashion Item 0691,Fashion,134.00,Discontinued
+692,Beauty Item 0692,Beauty,121.00,Active
+693,Sports Item 0693,Sports,492.00,Active
+694,Books Item 0694,Books,522.00,Active
+695,Grocery Item 0695,Grocery,785.00,Discontinued
+696,Office Item 0696,Office,802.00,Active
+697,Electronics Item 0697,Electronics,343.00,Active
+698,Home & Kitchen Item 0698,Home & Kitchen,1177.00,Active
+699,Fashion Item 0699,Fashion,800.00,Discontinued
+700,Beauty Item 0700,Beauty,896.00,Active
+701,Sports Item 0701,Sports,709.00,Active
+702,Books Item 0702,Books,180.00,Active
+703,Grocery Item 0703,Grocery,846.00,Discontinued
+704,Office Item 0704,Office,1172.00,Active
+705,Electronics Item 0705,Electronics,511.00,Active
+706,Home & Kitchen Item 0706,Home & Kitchen,962.00,Active
+707,Fashion Item 0707,Fashion,49.00,Active
+708,Beauty Item 0708,Beauty,734.00,Active
+709,Sports Item 0709,Sports,965.00,Active
+710,Books Item 0710,Books,1021.00,Discontinued
+711,Grocery Item 0711,Grocery,210.00,Active
+712,Office Item 0712,Office,722.00,Active
+713,Electronics Item 0713,Electronics,778.00,Active
+714,Home & Kitchen Item 0714,Home & Kitchen,623.00,Active
+715,Fashion Item 0715,Fashion,357.00,Active
+716,Beauty Item 0716,Beauty,1097.00,Active
+717,Sports Item 0717,Sports,118.00,Active
+718,Books Item 0718,Books,189.00,Active
+719,Grocery Item 0719,Grocery,442.00,Active
+720,Office Item 0720,Office,1127.00,Discontinued
+721,Electronics Item 0721,Electronics,485.00,Active
+722,Home & Kitchen Item 0722,Home & Kitchen,1184.00,Active
+723,Fashion Item 0723,Fashion,1123.00,Discontinued
+724,Beauty Item 0724,Beauty,1020.00,Discontinued
+725,Sports Item 0725,Sports,1149.00,Discontinued
+726,Books Item 0726,Books,101.00,Discontinued
+727,Grocery Item 0727,Grocery,792.00,Active
+728,Office Item 0728,Office,1091.00,Active
+729,Electronics Item 0729,Electronics,363.00,Active
+730,Home & Kitchen Item 0730,Home & Kitchen,195.00,Discontinued
+731,Fashion Item 0731,Fashion,879.00,Active
+732,Beauty Item 0732,Beauty,253.00,Active
+733,Sports Item 0733,Sports,32.00,Active
+734,Books Item 0734,Books,475.00,Discontinued
+735,Grocery Item 0735,Grocery,16.00,Active
+736,Office Item 0736,Office,650.00,Active
+737,Electronics Item 0737,Electronics,273.00,Discontinued
+738,Home & Kitchen Item 0738,Home & Kitchen,548.00,Active
+739,Fashion Item 0739,Fashion,199.00,Discontinued
+740,Beauty Item 0740,Beauty,688.00,Active
+741,Sports Item 0741,Sports,392.00,Active
+742,Books Item 0742,Books,661.00,Active
+743,Grocery Item 0743,Grocery,1025.00,Active
+744,Office Item 0744,Office,818.00,Active
+745,Electronics Item 0745,Electronics,240.00,Active
+746,Home & Kitchen Item 0746,Home & Kitchen,805.00,Active
+747,Fashion Item 0747,Fashion,125.00,Active
+748,Beauty Item 0748,Beauty,347.00,Active
+749,Sports Item 0749,Sports,1101.00,Active
+750,Books Item 0750,Books,538.00,Active
+751,Grocery Item 0751,Grocery,721.00,Discontinued
+752,Office Item 0752,Office,121.00,Active
+753,Electronics Item 0753,Electronics,289.00,Active
+754,Home & Kitchen Item 0754,Home & Kitchen,713.00,Active
+755,Fashion Item 0755,Fashion,356.00,Discontinued
+756,Beauty Item 0756,Beauty,314.00,Discontinued
+757,Sports Item 0757,Sports,342.00,Active
+758,Books Item 0758,Books,280.00,Active
+759,Grocery Item 0759,Grocery,408.00,Discontinued
+760,Office Item 0760,Office,256.00,Active
+761,Electronics Item 0761,Electronics,26.00,Active
+762,Home & Kitchen Item 0762,Home & Kitchen,60.00,Discontinued
+763,Fashion Item 0763,Fashion,548.00,Active
+764,Beauty Item 0764,Beauty,33.00,Discontinued
+765,Sports Item 0765,Sports,399.00,Active
+766,Books Item 0766,Books,355.00,Active
+767,Grocery Item 0767,Grocery,1092.00,Active
+768,Office Item 0768,Office,1199.00,Active
+769,Electronics Item 0769,Electronics,1180.00,Active
+770,Home & Kitchen Item 0770,Home & Kitchen,299.00,Active
+771,Fashion Item 0771,Fashion,607.00,Discontinued
+772,Beauty Item 0772,Beauty,1085.00,Active
+773,Sports Item 0773,Sports,667.00,Active
+774,Books Item 0774,Books,159.00,Active
+775,Grocery Item 0775,Grocery,424.00,Active
+776,Office Item 0776,Office,561.00,Discontinued
+777,Electronics Item 0777,Electronics,1067.00,Active
+778,Home & Kitchen Item 0778,Home & Kitchen,876.00,Active
+779,Fashion Item 0779,Fashion,743.00,Active
+780,Beauty Item 0780,Beauty,681.00,Active
+781,Sports Item 0781,Sports,103.00,Discontinued
+782,Books Item 0782,Books,565.00,Active
+783,Grocery Item 0783,Grocery,761.00,Active
+784,Office Item 0784,Office,1088.00,Active
+785,Electronics Item 0785,Electronics,659.00,Active
+786,Home & Kitchen Item 0786,Home & Kitchen,106.00,Active
+787,Fashion Item 0787,Fashion,63.00,Active
+788,Beauty Item 0788,Beauty,778.00,Active
+789,Sports Item 0789,Sports,1066.00,Discontinued
+790,Books Item 0790,Books,974.00,Active
+791,Grocery Item 0791,Grocery,237.00,Active
+792,Office Item 0792,Office,446.00,Active
+793,Electronics Item 0793,Electronics,237.00,Discontinued
+794,Home & Kitchen Item 0794,Home & Kitchen,894.00,Active
+795,Fashion Item 0795,Fashion,547.00,Active
+796,Beauty Item 0796,Beauty,386.00,Active
+797,Sports Item 0797,Sports,711.00,Active
+798,Books Item 0798,Books,896.00,Active
+799,Grocery Item 0799,Grocery,1020.00,Discontinued
+800,Office Item 0800,Office,1196.00,Active
+801,Electronics Item 0801,Electronics,1058.00,Active
+802,Home & Kitchen Item 0802,Home & Kitchen,464.00,Active
+803,Fashion Item 0803,Fashion,153.00,Active
+804,Beauty Item 0804,Beauty,424.00,Active
+805,Sports Item 0805,Sports,518.00,Active
+806,Books Item 0806,Books,173.00,Active
+807,Grocery Item 0807,Grocery,76.00,Active
+808,Office Item 0808,Office,9.00,Discontinued
+809,Electronics Item 0809,Electronics,76.00,Active
+810,Home & Kitchen Item 0810,Home & Kitchen,945.00,Active
+811,Fashion Item 0811,Fashion,996.00,Active
+812,Beauty Item 0812,Beauty,186.00,Active
+813,Sports Item 0813,Sports,395.00,Discontinued
+814,Books Item 0814,Books,733.00,Discontinued
+815,Grocery Item 0815,Grocery,746.00,Discontinued
+816,Office Item 0816,Office,269.00,Active
+817,Electronics Item 0817,Electronics,777.00,Active
+818,Home & Kitchen Item 0818,Home & Kitchen,914.00,Discontinued
+819,Fashion Item 0819,Fashion,927.00,Active
+820,Beauty Item 0820,Beauty,183.00,Active
+821,Sports Item 0821,Sports,395.00,Active
+822,Books Item 0822,Books,46.00,Discontinued
+823,Grocery Item 0823,Grocery,386.00,Active
+824,Office Item 0824,Office,825.00,Discontinued
+825,Electronics Item 0825,Electronics,367.00,Active
+826,Home & Kitchen Item 0826,Home & Kitchen,709.00,Active
+827,Fashion Item 0827,Fashion,485.00,Active
+828,Beauty Item 0828,Beauty,110.00,Active
+829,Sports Item 0829,Sports,991.00,Discontinued
+830,Books Item 0830,Books,454.00,Discontinued
+831,Grocery Item 0831,Grocery,634.00,Active
+832,Office Item 0832,Office,728.00,Active
+833,Electronics Item 0833,Electronics,72.00,Discontinued
+834,Home & Kitchen Item 0834,Home & Kitchen,1156.00,Active
+835,Fashion Item 0835,Fashion,31.00,Discontinued
+836,Beauty Item 0836,Beauty,260.00,Active
+837,Sports Item 0837,Sports,1165.00,Discontinued
+838,Books Item 0838,Books,1122.00,Discontinued
+839,Grocery Item 0839,Grocery,878.00,Discontinued
+840,Office Item 0840,Office,13.00,Active
+841,Electronics Item 0841,Electronics,716.00,Active
+842,Home & Kitchen Item 0842,Home & Kitchen,120.00,Active
+843,Fashion Item 0843,Fashion,434.00,Active
+844,Beauty Item 0844,Beauty,692.00,Active
+845,Sports Item 0845,Sports,424.00,Active
+846,Books Item 0846,Books,67.00,Active
+847,Grocery Item 0847,Grocery,165.00,Active
+848,Office Item 0848,Office,507.00,Active
+849,Electronics Item 0849,Electronics,705.00,Active
+850,Home & Kitchen Item 0850,Home & Kitchen,164.00,Active
+851,Fashion Item 0851,Fashion,529.00,Active
+852,Beauty Item 0852,Beauty,460.00,Active
+853,Sports Item 0853,Sports,836.00,Discontinued
+854,Books Item 0854,Books,1163.00,Active
+855,Grocery Item 0855,Grocery,33.00,Active
+856,Office Item 0856,Office,970.00,Active
+857,Electronics Item 0857,Electronics,499.00,Active
+858,Home & Kitchen Item 0858,Home & Kitchen,663.00,Active
+859,Fashion Item 0859,Fashion,394.00,Discontinued
+860,Beauty Item 0860,Beauty,371.00,Active
+861,Sports Item 0861,Sports,1135.00,Active
+862,Books Item 0862,Books,892.00,Active
+863,Grocery Item 0863,Grocery,1110.00,Discontinued
+864,Office Item 0864,Office,1016.00,Active
+865,Electronics Item 0865,Electronics,1176.00,Discontinued
+866,Home & Kitchen Item 0866,Home & Kitchen,1017.00,Active
+867,Fashion Item 0867,Fashion,605.00,Active
+868,Beauty Item 0868,Beauty,350.00,Active
+869,Sports Item 0869,Sports,542.00,Active
+870,Books Item 0870,Books,264.00,Discontinued
+871,Grocery Item 0871,Grocery,255.00,Active
+872,Office Item 0872,Office,374.00,Active
+873,Electronics Item 0873,Electronics,956.00,Discontinued
+874,Home & Kitchen Item 0874,Home & Kitchen,1190.00,Discontinued
+875,Fashion Item 0875,Fashion,59.00,Active
+876,Beauty Item 0876,Beauty,1197.00,Active
+877,Sports Item 0877,Sports,728.00,Active
+878,Books Item 0878,Books,1001.00,Active
+879,Grocery Item 0879,Grocery,1045.00,Active
+880,Office Item 0880,Office,1127.00,Active
+881,Electronics Item 0881,Electronics,821.00,Active
+882,Home & Kitchen Item 0882,Home & Kitchen,120.00,Active
+883,Fashion Item 0883,Fashion,1135.00,Discontinued
+884,Beauty Item 0884,Beauty,785.00,Active
+885,Sports Item 0885,Sports,388.00,Active
+886,Books Item 0886,Books,723.00,Active
+887,Grocery Item 0887,Grocery,872.00,Discontinued
+888,Office Item 0888,Office,718.00,Active
+889,Electronics Item 0889,Electronics,509.00,Active
+890,Home & Kitchen Item 0890,Home & Kitchen,449.00,Active
+891,Fashion Item 0891,Fashion,272.00,Discontinued
+892,Beauty Item 0892,Beauty,888.00,Active
+893,Sports Item 0893,Sports,562.00,Active
+894,Books Item 0894,Books,14.00,Active
+895,Grocery Item 0895,Grocery,929.00,Active
+896,Office Item 0896,Office,117.00,Active
+897,Electronics Item 0897,Electronics,977.00,Active
+898,Home & Kitchen Item 0898,Home & Kitchen,627.00,Active
+899,Fashion Item 0899,Fashion,31.00,Active
+900,Beauty Item 0900,Beauty,480.00,Active
+901,Sports Item 0901,Sports,204.00,Active
+902,Books Item 0902,Books,347.00,Active
+903,Grocery Item 0903,Grocery,418.00,Active
+904,Office Item 0904,Office,478.00,Active
+905,Electronics Item 0905,Electronics,424.00,Active
+906,Home & Kitchen Item 0906,Home & Kitchen,1159.00,Active
+907,Fashion Item 0907,Fashion,826.00,Discontinued
+908,Beauty Item 0908,Beauty,238.00,Discontinued
+909,Sports Item 0909,Sports,472.00,Active
+910,Books Item 0910,Books,1196.00,Discontinued
+911,Grocery Item 0911,Grocery,1104.00,Active
+912,Office Item 0912,Office,209.00,Discontinued
+913,Electronics Item 0913,Electronics,998.00,Active
+914,Home & Kitchen Item 0914,Home & Kitchen,613.00,Active
+915,Fashion Item 0915,Fashion,270.00,Active
+916,Beauty Item 0916,Beauty,477.00,Active
+917,Sports Item 0917,Sports,786.00,Discontinued
+918,Books Item 0918,Books,434.00,Active
+919,Grocery Item 0919,Grocery,1125.00,Discontinued
+920,Office Item 0920,Office,481.00,Discontinued
+921,Electronics Item 0921,Electronics,751.00,Active
+922,Home & Kitchen Item 0922,Home & Kitchen,51.00,Active
+923,Fashion Item 0923,Fashion,30.00,Active
+924,Beauty Item 0924,Beauty,923.00,Active
+925,Sports Item 0925,Sports,738.00,Discontinued
+926,Books Item 0926,Books,805.00,Active
+927,Grocery Item 0927,Grocery,198.00,Active
+928,Office Item 0928,Office,224.00,Active
+929,Electronics Item 0929,Electronics,742.00,Active
+930,Home & Kitchen Item 0930,Home & Kitchen,192.00,Discontinued
+931,Fashion Item 0931,Fashion,1035.00,Active
+932,Beauty Item 0932,Beauty,703.00,Discontinued
+933,Sports Item 0933,Sports,879.00,Discontinued
+934,Books Item 0934,Books,571.00,Active
+935,Grocery Item 0935,Grocery,753.00,Active
+936,Office Item 0936,Office,738.00,Active
+937,Electronics Item 0937,Electronics,877.00,Active
+938,Home & Kitchen Item 0938,Home & Kitchen,391.00,Discontinued
+939,Fashion Item 0939,Fashion,395.00,Active
+940,Beauty Item 0940,Beauty,570.00,Active
+941,Sports Item 0941,Sports,1095.00,Active
+942,Books Item 0942,Books,486.00,Active
+943,Grocery Item 0943,Grocery,464.00,Active
+944,Office Item 0944,Office,294.00,Active
+945,Electronics Item 0945,Electronics,267.00,Active
+946,Home & Kitchen Item 0946,Home & Kitchen,226.00,Active
+947,Fashion Item 0947,Fashion,938.00,Active
+948,Beauty Item 0948,Beauty,1003.00,Discontinued
+949,Sports Item 0949,Sports,487.00,Discontinued
+950,Books Item 0950,Books,484.00,Discontinued
+951,Grocery Item 0951,Grocery,586.00,Active
+952,Office Item 0952,Office,807.00,Discontinued
+953,Electronics Item 0953,Electronics,267.00,Active
+954,Home & Kitchen Item 0954,Home & Kitchen,1036.00,Discontinued
+955,Fashion Item 0955,Fashion,188.00,Discontinued
+956,Beauty Item 0956,Beauty,467.00,Active
+957,Sports Item 0957,Sports,797.00,Discontinued
+958,Books Item 0958,Books,311.00,Discontinued
+959,Grocery Item 0959,Grocery,824.00,Active
+960,Office Item 0960,Office,854.00,Discontinued
+961,Electronics Item 0961,Electronics,147.00,Active
+962,Home & Kitchen Item 0962,Home & Kitchen,729.00,Active
+963,Fashion Item 0963,Fashion,615.00,Discontinued
+964,Beauty Item 0964,Beauty,832.00,Active
+965,Sports Item 0965,Sports,309.00,Active
+966,Books Item 0966,Books,1085.00,Active
+967,Grocery Item 0967,Grocery,1170.00,Active
+968,Office Item 0968,Office,604.00,Active
+969,Electronics Item 0969,Electronics,223.00,Active
+970,Home & Kitchen Item 0970,Home & Kitchen,243.00,Active
+971,Fashion Item 0971,Fashion,203.00,Active
+972,Beauty Item 0972,Beauty,472.00,Active
+973,Sports Item 0973,Sports,1185.00,Active
+974,Books Item 0974,Books,1043.00,Discontinued
+975,Grocery Item 0975,Grocery,933.00,Discontinued
+976,Office Item 0976,Office,1147.00,Active
+977,Electronics Item 0977,Electronics,256.00,Active
+978,Home & Kitchen Item 0978,Home & Kitchen,271.00,Active
+979,Fashion Item 0979,Fashion,973.00,Active
+980,Beauty Item 0980,Beauty,45.00,Active
+981,Sports Item 0981,Sports,301.00,Active
+982,Books Item 0982,Books,968.00,Active
+983,Grocery Item 0983,Grocery,425.00,Active
+984,Office Item 0984,Office,294.00,Active
+985,Electronics Item 0985,Electronics,1040.00,Active
+986,Home & Kitchen Item 0986,Home & Kitchen,131.00,Active
+987,Fashion Item 0987,Fashion,129.00,Discontinued
+988,Beauty Item 0988,Beauty,615.00,Discontinued
+989,Sports Item 0989,Sports,711.00,Active
+990,Books Item 0990,Books,413.00,Active
+991,Grocery Item 0991,Grocery,868.00,Active
+992,Office Item 0992,Office,522.00,Active
+993,Electronics Item 0993,Electronics,327.00,Active
+994,Home & Kitchen Item 0994,Home & Kitchen,594.00,Active
+995,Fashion Item 0995,Fashion,266.00,Active
+996,Beauty Item 0996,Beauty,988.00,Active
+997,Sports Item 0997,Sports,622.00,Active
+998,Books Item 0998,Books,432.00,Active
+999,Grocery Item 0999,Grocery,87.00,Active
+1000,Office Item 1000,Office,482.00,Discontinued
+1001,Electronics Item 1001,Electronics,431.00,Active
+1002,Home & Kitchen Item 1002,Home & Kitchen,332.00,Active
+1003,Fashion Item 1003,Fashion,997.00,Active
+1004,Beauty Item 1004,Beauty,71.00,Discontinued
+1005,Sports Item 1005,Sports,590.00,Discontinued
+1006,Books Item 1006,Books,577.00,Active
+1007,Grocery Item 1007,Grocery,439.00,Active
+1008,Office Item 1008,Office,270.00,Active
+1009,Electronics Item 1009,Electronics,943.00,Active
+1010,Home & Kitchen Item 1010,Home & Kitchen,35.00,Discontinued
+1011,Fashion Item 1011,Fashion,919.00,Active
+1012,Beauty Item 1012,Beauty,904.00,Discontinued
+1013,Sports Item 1013,Sports,618.00,Discontinued
+1014,Books Item 1014,Books,718.00,Active
+1015,Grocery Item 1015,Grocery,1123.00,Active
+1016,Office Item 1016,Office,243.00,Discontinued
+1017,Electronics Item 1017,Electronics,1019.00,Active
+1018,Home & Kitchen Item 1018,Home & Kitchen,1160.00,Active
+1019,Fashion Item 1019,Fashion,455.00,Active
+1020,Beauty Item 1020,Beauty,249.00,Active
+1021,Sports Item 1021,Sports,1160.00,Discontinued
+1022,Books Item 1022,Books,940.00,Discontinued
+1023,Grocery Item 1023,Grocery,255.00,Discontinued
+1024,Office Item 1024,Office,969.00,Active
+1025,Electronics Item 1025,Electronics,905.00,Active
+1026,Home & Kitchen Item 1026,Home & Kitchen,531.00,Active
+1027,Fashion Item 1027,Fashion,496.00,Active
+1028,Beauty Item 1028,Beauty,1192.00,Active
+1029,Sports Item 1029,Sports,532.00,Discontinued
+1030,Books Item 1030,Books,1039.00,Discontinued
+1031,Grocery Item 1031,Grocery,471.00,Discontinued
+1032,Office Item 1032,Office,979.00,Active
+1033,Electronics Item 1033,Electronics,610.00,Active
+1034,Home & Kitchen Item 1034,Home & Kitchen,808.00,Active
+1035,Fashion Item 1035,Fashion,239.00,Active
+1036,Beauty Item 1036,Beauty,1184.00,Discontinued
+1037,Sports Item 1037,Sports,382.00,Discontinued
+1038,Books Item 1038,Books,1028.00,Active
+1039,Grocery Item 1039,Grocery,877.00,Active
+1040,Office Item 1040,Office,215.00,Active
+1041,Electronics Item 1041,Electronics,416.00,Active
+1042,Home & Kitchen Item 1042,Home & Kitchen,144.00,Active
+1043,Fashion Item 1043,Fashion,1147.00,Active
+1044,Beauty Item 1044,Beauty,723.00,Active
+1045,Sports Item 1045,Sports,364.00,Active
+1046,Books Item 1046,Books,715.00,Discontinued
+1047,Grocery Item 1047,Grocery,425.00,Active
+1048,Office Item 1048,Office,626.00,Active
+1049,Electronics Item 1049,Electronics,931.00,Discontinued
+1050,Home & Kitchen Item 1050,Home & Kitchen,567.00,Active
+1051,Fashion Item 1051,Fashion,639.00,Active
+1052,Beauty Item 1052,Beauty,742.00,Active
+1053,Sports Item 1053,Sports,1154.00,Active
+1054,Books Item 1054,Books,755.00,Active
+1055,Grocery Item 1055,Grocery,418.00,Active
+1056,Office Item 1056,Office,1139.00,Active
+1057,Electronics Item 1057,Electronics,1020.00,Active
+1058,Home & Kitchen Item 1058,Home & Kitchen,40.00,Discontinued
+1059,Fashion Item 1059,Fashion,333.00,Active
+1060,Beauty Item 1060,Beauty,641.00,Active
+1061,Sports Item 1061,Sports,810.00,Discontinued
+1062,Books Item 1062,Books,731.00,Discontinued
+1063,Grocery Item 1063,Grocery,958.00,Active
+1064,Office Item 1064,Office,369.00,Active
+1065,Electronics Item 1065,Electronics,175.00,Active
+1066,Home & Kitchen Item 1066,Home & Kitchen,929.00,Discontinued
+1067,Fashion Item 1067,Fashion,851.00,Active
+1068,Beauty Item 1068,Beauty,1020.00,Discontinued
+1069,Sports Item 1069,Sports,239.00,Active
+1070,Books Item 1070,Books,938.00,Active
+1071,Grocery Item 1071,Grocery,1024.00,Active
+1072,Office Item 1072,Office,272.00,Active
+1073,Electronics Item 1073,Electronics,982.00,Discontinued
+1074,Home & Kitchen Item 1074,Home & Kitchen,633.00,Active
+1075,Fashion Item 1075,Fashion,391.00,Active
+1076,Beauty Item 1076,Beauty,505.00,Active
+1077,Sports Item 1077,Sports,518.00,Discontinued
+1078,Books Item 1078,Books,1062.00,Discontinued
+1079,Grocery Item 1079,Grocery,668.00,Active
+1080,Office Item 1080,Office,950.00,Active
+1081,Electronics Item 1081,Electronics,160.00,Active
+1082,Home & Kitchen Item 1082,Home & Kitchen,473.00,Discontinued
+1083,Fashion Item 1083,Fashion,428.00,Active
+1084,Beauty Item 1084,Beauty,67.00,Active
+1085,Sports Item 1085,Sports,976.00,Discontinued
+1086,Books Item 1086,Books,424.00,Active
+1087,Grocery Item 1087,Grocery,199.00,Discontinued
+1088,Office Item 1088,Office,616.00,Discontinued
+1089,Electronics Item 1089,Electronics,843.00,Active
+1090,Home & Kitchen Item 1090,Home & Kitchen,455.00,Discontinued
+1091,Fashion Item 1091,Fashion,725.00,Active
+1092,Beauty Item 1092,Beauty,540.00,Active
+1093,Sports Item 1093,Sports,432.00,Discontinued
+1094,Books Item 1094,Books,28.00,Active
+1095,Grocery Item 1095,Grocery,840.00,Active
+1096,Office Item 1096,Office,184.00,Discontinued
+1097,Electronics Item 1097,Electronics,1185.00,Discontinued
+1098,Home & Kitchen Item 1098,Home & Kitchen,602.00,Discontinued
+1099,Fashion Item 1099,Fashion,45.00,Discontinued
+1100,Beauty Item 1100,Beauty,1199.00,Discontinued
+1101,Sports Item 1101,Sports,39.00,Active
+1102,Books Item 1102,Books,908.00,Active
+1103,Grocery Item 1103,Grocery,532.00,Active
+1104,Office Item 1104,Office,611.00,Active
+1105,Electronics Item 1105,Electronics,402.00,Active
+1106,Home & Kitchen Item 1106,Home & Kitchen,606.00,Active
+1107,Fashion Item 1107,Fashion,54.00,Active
+1108,Beauty Item 1108,Beauty,830.00,Active
+1109,Sports Item 1109,Sports,1059.00,Active
+1110,Books Item 1110,Books,524.00,Discontinued
+1111,Grocery Item 1111,Grocery,1061.00,Active
+1112,Office Item 1112,Office,586.00,Active
+1113,Electronics Item 1113,Electronics,1148.00,Discontinued
+1114,Home & Kitchen Item 1114,Home & Kitchen,1168.00,Active
+1115,Fashion Item 1115,Fashion,995.00,Active
+1116,Beauty Item 1116,Beauty,868.00,Discontinued
+1117,Sports Item 1117,Sports,1064.00,Discontinued
+1118,Books Item 1118,Books,1061.00,Active
+1119,Grocery Item 1119,Grocery,572.00,Discontinued
+1120,Office Item 1120,Office,1029.00,Discontinued
+1121,Electronics Item 1121,Electronics,637.00,Active
+1122,Home & Kitchen Item 1122,Home & Kitchen,820.00,Discontinued
+1123,Fashion Item 1123,Fashion,703.00,Discontinued
+1124,Beauty Item 1124,Beauty,1183.00,Active
+1125,Sports Item 1125,Sports,349.00,Active
+1126,Books Item 1126,Books,985.00,Active
+1127,Grocery Item 1127,Grocery,352.00,Discontinued
+1128,Office Item 1128,Office,184.00,Active
+1129,Electronics Item 1129,Electronics,773.00,Active
+1130,Home & Kitchen Item 1130,Home & Kitchen,97.00,Discontinued
+1131,Fashion Item 1131,Fashion,1051.00,Active
+1132,Beauty Item 1132,Beauty,1001.00,Active
+1133,Sports Item 1133,Sports,1075.00,Active
+1134,Books Item 1134,Books,379.00,Active
+1135,Grocery Item 1135,Grocery,778.00,Active
+1136,Office Item 1136,Office,666.00,Discontinued
+1137,Electronics Item 1137,Electronics,43.00,Discontinued
+1138,Home & Kitchen Item 1138,Home & Kitchen,640.00,Active
+1139,Fashion Item 1139,Fashion,334.00,Active
+1140,Beauty Item 1140,Beauty,283.00,Discontinued
+1141,Sports Item 1141,Sports,760.00,Discontinued
+1142,Books Item 1142,Books,718.00,Active
+1143,Grocery Item 1143,Grocery,252.00,Discontinued
+1144,Office Item 1144,Office,331.00,Active
+1145,Electronics Item 1145,Electronics,620.00,Active
+1146,Home & Kitchen Item 1146,Home & Kitchen,457.00,Active
+1147,Fashion Item 1147,Fashion,668.00,Discontinued
+1148,Beauty Item 1148,Beauty,1130.00,Active
+1149,Sports Item 1149,Sports,772.00,Discontinued
+1150,Books Item 1150,Books,81.00,Active
+1151,Grocery Item 1151,Grocery,180.00,Discontinued
+1152,Office Item 1152,Office,457.00,Active
+1153,Electronics Item 1153,Electronics,597.00,Active
+1154,Home & Kitchen Item 1154,Home & Kitchen,767.00,Active
+1155,Fashion Item 1155,Fashion,774.00,Active
+1156,Beauty Item 1156,Beauty,913.00,Active
+1157,Sports Item 1157,Sports,162.00,Active
+1158,Books Item 1158,Books,984.00,Active
+1159,Grocery Item 1159,Grocery,663.00,Discontinued
+1160,Office Item 1160,Office,328.00,Active
+1161,Electronics Item 1161,Electronics,1191.00,Active
+1162,Home & Kitchen Item 1162,Home & Kitchen,458.00,Active
+1163,Fashion Item 1163,Fashion,923.00,Discontinued
+1164,Beauty Item 1164,Beauty,1124.00,Discontinued
+1165,Sports Item 1165,Sports,352.00,Active
+1166,Books Item 1166,Books,1139.00,Active
+1167,Grocery Item 1167,Grocery,446.00,Active
+1168,Office Item 1168,Office,133.00,Active
+1169,Electronics Item 1169,Electronics,157.00,Active
+1170,Home & Kitchen Item 1170,Home & Kitchen,261.00,Active
+1171,Fashion Item 1171,Fashion,146.00,Discontinued
+1172,Beauty Item 1172,Beauty,373.00,Active
+1173,Sports Item 1173,Sports,683.00,Active
+1174,Books Item 1174,Books,815.00,Active
+1175,Grocery Item 1175,Grocery,765.00,Active
+1176,Office Item 1176,Office,761.00,Active
+1177,Electronics Item 1177,Electronics,29.00,Active
+1178,Home & Kitchen Item 1178,Home & Kitchen,922.00,Active
+1179,Fashion Item 1179,Fashion,720.00,Active
+1180,Beauty Item 1180,Beauty,28.00,Active
+1181,Sports Item 1181,Sports,449.00,Active
+1182,Books Item 1182,Books,136.00,Active
+1183,Grocery Item 1183,Grocery,347.00,Discontinued
+1184,Office Item 1184,Office,262.00,Active
+1185,Electronics Item 1185,Electronics,695.00,Active
+1186,Home & Kitchen Item 1186,Home & Kitchen,479.00,Active
+1187,Fashion Item 1187,Fashion,904.00,Active
+1188,Beauty Item 1188,Beauty,348.00,Discontinued
+1189,Sports Item 1189,Sports,987.00,Active
+1190,Books Item 1190,Books,1135.00,Discontinued
+1191,Grocery Item 1191,Grocery,199.00,Active
+1192,Office Item 1192,Office,554.00,Active
+1193,Electronics Item 1193,Electronics,713.00,Active
+1194,Home & Kitchen Item 1194,Home & Kitchen,270.00,Active
+1195,Fashion Item 1195,Fashion,951.00,Discontinued
+1196,Beauty Item 1196,Beauty,209.00,Active
+1197,Sports Item 1197,Sports,594.00,Discontinued
+1198,Books Item 1198,Books,1045.00,Active
+1199,Grocery Item 1199,Grocery,515.00,Active
+1200,Office Item 1200,Office,619.00,Active
+1201,Electronics Item 1201,Electronics,629.00,Active
+1202,Home & Kitchen Item 1202,Home & Kitchen,157.00,Active
+1203,Fashion Item 1203,Fashion,239.00,Active
+1204,Beauty Item 1204,Beauty,356.00,Active
+1205,Sports Item 1205,Sports,734.00,Active
+1206,Books Item 1206,Books,79.00,Active
+1207,Grocery Item 1207,Grocery,256.00,Discontinued
+1208,Office Item 1208,Office,230.00,Active
+1209,Electronics Item 1209,Electronics,507.00,Discontinued
+1210,Home & Kitchen Item 1210,Home & Kitchen,630.00,Active
+1211,Fashion Item 1211,Fashion,165.00,Active
+1212,Beauty Item 1212,Beauty,524.00,Active
+1213,Sports Item 1213,Sports,1063.00,Discontinued
+1214,Books Item 1214,Books,992.00,Active
+1215,Grocery Item 1215,Grocery,599.00,Discontinued
+1216,Office Item 1216,Office,762.00,Active
+1217,Electronics Item 1217,Electronics,439.00,Active
+1218,Home & Kitchen Item 1218,Home & Kitchen,1109.00,Active
+1219,Fashion Item 1219,Fashion,59.00,Active
+1220,Beauty Item 1220,Beauty,883.00,Active
+1221,Sports Item 1221,Sports,1047.00,Discontinued
+1222,Books Item 1222,Books,66.00,Active
+1223,Grocery Item 1223,Grocery,767.00,Active
+1224,Office Item 1224,Office,49.00,Active
+1225,Electronics Item 1225,Electronics,658.00,Discontinued
+1226,Home & Kitchen Item 1226,Home & Kitchen,929.00,Active
+1227,Fashion Item 1227,Fashion,366.00,Discontinued
+1228,Beauty Item 1228,Beauty,586.00,Active
+1229,Sports Item 1229,Sports,354.00,Active
+1230,Books Item 1230,Books,865.00,Discontinued
+1231,Grocery Item 1231,Grocery,536.00,Discontinued
+1232,Office Item 1232,Office,499.00,Active
+1233,Electronics Item 1233,Electronics,746.00,Discontinued
+1234,Home & Kitchen Item 1234,Home & Kitchen,130.00,Active
+1235,Fashion Item 1235,Fashion,164.00,Active
+1236,Beauty Item 1236,Beauty,586.00,Active
+1237,Sports Item 1237,Sports,245.00,Active
+1238,Books Item 1238,Books,534.00,Active
+1239,Grocery Item 1239,Grocery,1047.00,Active
+1240,Office Item 1240,Office,1132.00,Active
+1241,Electronics Item 1241,Electronics,808.00,Active
+1242,Home & Kitchen Item 1242,Home & Kitchen,946.00,Active
+1243,Fashion Item 1243,Fashion,468.00,Active
+1244,Beauty Item 1244,Beauty,220.00,Active
+1245,Sports Item 1245,Sports,542.00,Active
+1246,Books Item 1246,Books,721.00,Active
+1247,Grocery Item 1247,Grocery,146.00,Active
+1248,Office Item 1248,Office,780.00,Discontinued
+1249,Electronics Item 1249,Electronics,530.00,Active
+1250,Home & Kitchen Item 1250,Home & Kitchen,891.00,Discontinued
+1251,Fashion Item 1251,Fashion,666.00,Active
+1252,Beauty Item 1252,Beauty,386.00,Active
+1253,Sports Item 1253,Sports,381.00,Active
+1254,Books Item 1254,Books,302.00,Active
+1255,Grocery Item 1255,Grocery,796.00,Active
+1256,Office Item 1256,Office,64.00,Active
+1257,Electronics Item 1257,Electronics,25.00,Active
+1258,Home & Kitchen Item 1258,Home & Kitchen,666.00,Active
+1259,Fashion Item 1259,Fashion,1192.00,Active
+1260,Beauty Item 1260,Beauty,737.00,Discontinued
+1261,Sports Item 1261,Sports,455.00,Active
+1262,Books Item 1262,Books,275.00,Active
+1263,Grocery Item 1263,Grocery,838.00,Active
+1264,Office Item 1264,Office,209.00,Active
+1265,Electronics Item 1265,Electronics,1036.00,Active
+1266,Home & Kitchen Item 1266,Home & Kitchen,850.00,Active
+1267,Fashion Item 1267,Fashion,217.00,Discontinued
+1268,Beauty Item 1268,Beauty,302.00,Active
+1269,Sports Item 1269,Sports,709.00,Active
+1270,Books Item 1270,Books,680.00,Discontinued
+1271,Grocery Item 1271,Grocery,170.00,Discontinued
+1272,Office Item 1272,Office,429.00,Active
+1273,Electronics Item 1273,Electronics,41.00,Active
+1274,Home & Kitchen Item 1274,Home & Kitchen,938.00,Discontinued
+1275,Fashion Item 1275,Fashion,942.00,Active
+1276,Beauty Item 1276,Beauty,543.00,Discontinued
+1277,Sports Item 1277,Sports,1004.00,Active
+1278,Books Item 1278,Books,433.00,Active
+1279,Grocery Item 1279,Grocery,327.00,Active
+1280,Office Item 1280,Office,696.00,Active
+1281,Electronics Item 1281,Electronics,681.00,Active
+1282,Home & Kitchen Item 1282,Home & Kitchen,93.00,Active
+1283,Fashion Item 1283,Fashion,744.00,Active
+1284,Beauty Item 1284,Beauty,650.00,Active
+1285,Sports Item 1285,Sports,604.00,Active
+1286,Books Item 1286,Books,336.00,Active
+1287,Grocery Item 1287,Grocery,541.00,Active
+1288,Office Item 1288,Office,774.00,Active
+1289,Electronics Item 1289,Electronics,513.00,Active
+1290,Home & Kitchen Item 1290,Home & Kitchen,1022.00,Active
+1291,Fashion Item 1291,Fashion,1059.00,Active
+1292,Beauty Item 1292,Beauty,750.00,Discontinued
+1293,Sports Item 1293,Sports,171.00,Discontinued
+1294,Books Item 1294,Books,904.00,Active
+1295,Grocery Item 1295,Grocery,626.00,Active
+1296,Office Item 1296,Office,433.00,Active
+1297,Electronics Item 1297,Electronics,252.00,Active
+1298,Home & Kitchen Item 1298,Home & Kitchen,462.00,Active
+1299,Fashion Item 1299,Fashion,340.00,Active
+1300,Beauty Item 1300,Beauty,423.00,Discontinued
+1301,Sports Item 1301,Sports,610.00,Discontinued
+1302,Books Item 1302,Books,185.00,Active
+1303,Grocery Item 1303,Grocery,342.00,Discontinued
+1304,Office Item 1304,Office,1070.00,Active
+1305,Electronics Item 1305,Electronics,239.00,Active
+1306,Home & Kitchen Item 1306,Home & Kitchen,438.00,Active
+1307,Fashion Item 1307,Fashion,181.00,Active
+1308,Beauty Item 1308,Beauty,1191.00,Active
+1309,Sports Item 1309,Sports,333.00,Discontinued
+1310,Books Item 1310,Books,435.00,Active
+1311,Grocery Item 1311,Grocery,1147.00,Active
+1312,Office Item 1312,Office,587.00,Active
+1313,Electronics Item 1313,Electronics,147.00,Active
+1314,Home & Kitchen Item 1314,Home & Kitchen,999.00,Active
+1315,Fashion Item 1315,Fashion,441.00,Active
+1316,Beauty Item 1316,Beauty,182.00,Discontinued
+1317,Sports Item 1317,Sports,675.00,Active
+1318,Books Item 1318,Books,214.00,Active
+1319,Grocery Item 1319,Grocery,811.00,Active
+1320,Office Item 1320,Office,278.00,Discontinued
+1321,Electronics Item 1321,Electronics,785.00,Active
+1322,Home & Kitchen Item 1322,Home & Kitchen,787.00,Active
+1323,Fashion Item 1323,Fashion,502.00,Active
+1324,Beauty Item 1324,Beauty,259.00,Active
+1325,Sports Item 1325,Sports,174.00,Discontinued
+1326,Books Item 1326,Books,147.00,Active
+1327,Grocery Item 1327,Grocery,164.00,Discontinued
+1328,Office Item 1328,Office,270.00,Active
+1329,Electronics Item 1329,Electronics,1094.00,Active
+1330,Home & Kitchen Item 1330,Home & Kitchen,459.00,Active
+1331,Fashion Item 1331,Fashion,152.00,Active
+1332,Beauty Item 1332,Beauty,780.00,Discontinued
+1333,Sports Item 1333,Sports,251.00,Active
+1334,Books Item 1334,Books,1112.00,Active
+1335,Grocery Item 1335,Grocery,1030.00,Active
+1336,Office Item 1336,Office,177.00,Active
+1337,Electronics Item 1337,Electronics,1173.00,Active
+1338,Home & Kitchen Item 1338,Home & Kitchen,372.00,Discontinued
+1339,Fashion Item 1339,Fashion,141.00,Discontinued
+1340,Beauty Item 1340,Beauty,1104.00,Discontinued
+1341,Sports Item 1341,Sports,533.00,Active
+1342,Books Item 1342,Books,1079.00,Discontinued
+1343,Grocery Item 1343,Grocery,25.00,Active
+1344,Office Item 1344,Office,351.00,Active
+1345,Electronics Item 1345,Electronics,234.00,Active
+1346,Home & Kitchen Item 1346,Home & Kitchen,1029.00,Active
+1347,Fashion Item 1347,Fashion,53.00,Active
+1348,Beauty Item 1348,Beauty,745.00,Active
+1349,Sports Item 1349,Sports,732.00,Active
+1350,Books Item 1350,Books,872.00,Active
+1351,Grocery Item 1351,Grocery,372.00,Active
+1352,Office Item 1352,Office,1078.00,Active
+1353,Electronics Item 1353,Electronics,278.00,Active
+1354,Home & Kitchen Item 1354,Home & Kitchen,527.00,Active
+1355,Fashion Item 1355,Fashion,890.00,Discontinued
+1356,Beauty Item 1356,Beauty,736.00,Discontinued
+1357,Sports Item 1357,Sports,904.00,Active
+1358,Books Item 1358,Books,39.00,Active
+1359,Grocery Item 1359,Grocery,8.00,Active
+1360,Office Item 1360,Office,1105.00,Active
+1361,Electronics Item 1361,Electronics,1142.00,Active
+1362,Home & Kitchen Item 1362,Home & Kitchen,493.00,Active
+1363,Fashion Item 1363,Fashion,625.00,Active
+1364,Beauty Item 1364,Beauty,1070.00,Active
+1365,Sports Item 1365,Sports,453.00,Active
+1366,Books Item 1366,Books,649.00,Discontinued
+1367,Grocery Item 1367,Grocery,334.00,Discontinued
+1368,Office Item 1368,Office,269.00,Discontinued
+1369,Electronics Item 1369,Electronics,1073.00,Active
+1370,Home & Kitchen Item 1370,Home & Kitchen,217.00,Active
+1371,Fashion Item 1371,Fashion,608.00,Active
+1372,Beauty Item 1372,Beauty,987.00,Active
+1373,Sports Item 1373,Sports,691.00,Discontinued
+1374,Books Item 1374,Books,647.00,Active
+1375,Grocery Item 1375,Grocery,239.00,Discontinued
+1376,Office Item 1376,Office,221.00,Active
+1377,Electronics Item 1377,Electronics,169.00,Active
+1378,Home & Kitchen Item 1378,Home & Kitchen,121.00,Active
+1379,Fashion Item 1379,Fashion,132.00,Discontinued
+1380,Beauty Item 1380,Beauty,155.00,Discontinued
+1381,Sports Item 1381,Sports,449.00,Active
+1382,Books Item 1382,Books,655.00,Active
+1383,Grocery Item 1383,Grocery,1134.00,Active
+1384,Office Item 1384,Office,1009.00,Active
+1385,Electronics Item 1385,Electronics,709.00,Active
+1386,Home & Kitchen Item 1386,Home & Kitchen,933.00,Discontinued
+1387,Fashion Item 1387,Fashion,1082.00,Active
+1388,Beauty Item 1388,Beauty,642.00,Active
+1389,Sports Item 1389,Sports,167.00,Active
+1390,Books Item 1390,Books,810.00,Active
+1391,Grocery Item 1391,Grocery,705.00,Active
+1392,Office Item 1392,Office,508.00,Active
+1393,Electronics Item 1393,Electronics,1045.00,Active
+1394,Home & Kitchen Item 1394,Home & Kitchen,1072.00,Active
+1395,Fashion Item 1395,Fashion,1108.00,Active
+1396,Beauty Item 1396,Beauty,715.00,Active
+1397,Sports Item 1397,Sports,530.00,Active
+1398,Books Item 1398,Books,1018.00,Discontinued
+1399,Grocery Item 1399,Grocery,651.00,Active
+1400,Office Item 1400,Office,644.00,Discontinued
+1401,Electronics Item 1401,Electronics,722.00,Discontinued
+1402,Home & Kitchen Item 1402,Home & Kitchen,277.00,Discontinued
+1403,Fashion Item 1403,Fashion,562.00,Discontinued
+1404,Beauty Item 1404,Beauty,301.00,Active
+1405,Sports Item 1405,Sports,95.00,Active
+1406,Books Item 1406,Books,166.00,Active
+1407,Grocery Item 1407,Grocery,274.00,Active
+1408,Office Item 1408,Office,756.00,Discontinued
+1409,Electronics Item 1409,Electronics,353.00,Active
+1410,Home & Kitchen Item 1410,Home & Kitchen,355.00,Active
+1411,Fashion Item 1411,Fashion,1088.00,Active
+1412,Beauty Item 1412,Beauty,171.00,Discontinued
+1413,Sports Item 1413,Sports,1106.00,Active
+1414,Books Item 1414,Books,163.00,Discontinued
+1415,Grocery Item 1415,Grocery,1115.00,Discontinued
+1416,Office Item 1416,Office,496.00,Active
+1417,Electronics Item 1417,Electronics,395.00,Active
+1418,Home & Kitchen Item 1418,Home & Kitchen,76.00,Active
+1419,Fashion Item 1419,Fashion,801.00,Discontinued
+1420,Beauty Item 1420,Beauty,25.00,Active
+1421,Sports Item 1421,Sports,720.00,Active
+1422,Books Item 1422,Books,747.00,Active
+1423,Grocery Item 1423,Grocery,1157.00,Active
+1424,Office Item 1424,Office,757.00,Discontinued
+1425,Electronics Item 1425,Electronics,552.00,Active
+1426,Home & Kitchen Item 1426,Home & Kitchen,426.00,Active
+1427,Fashion Item 1427,Fashion,839.00,Active
+1428,Beauty Item 1428,Beauty,153.00,Active
+1429,Sports Item 1429,Sports,233.00,Active
+1430,Books Item 1430,Books,1178.00,Discontinued
+1431,Grocery Item 1431,Grocery,641.00,Active
+1432,Office Item 1432,Office,371.00,Active
+1433,Electronics Item 1433,Electronics,298.00,Active
+1434,Home & Kitchen Item 1434,Home & Kitchen,581.00,Active
+1435,Fashion Item 1435,Fashion,900.00,Active
+1436,Beauty Item 1436,Beauty,443.00,Active
+1437,Sports Item 1437,Sports,1064.00,Discontinued
+1438,Books Item 1438,Books,462.00,Active
+1439,Grocery Item 1439,Grocery,986.00,Discontinued
+1440,Office Item 1440,Office,548.00,Active
+1441,Electronics Item 1441,Electronics,137.00,Discontinued
+1442,Home & Kitchen Item 1442,Home & Kitchen,692.00,Active
+1443,Fashion Item 1443,Fashion,541.00,Active
+1444,Beauty Item 1444,Beauty,159.00,Discontinued
+1445,Sports Item 1445,Sports,49.00,Active
+1446,Books Item 1446,Books,413.00,Discontinued
+1447,Grocery Item 1447,Grocery,586.00,Active
+1448,Office Item 1448,Office,190.00,Discontinued
+1449,Electronics Item 1449,Electronics,449.00,Active
+1450,Home & Kitchen Item 1450,Home & Kitchen,287.00,Active
+1451,Fashion Item 1451,Fashion,646.00,Active
+1452,Beauty Item 1452,Beauty,338.00,Active
+1453,Sports Item 1453,Sports,652.00,Discontinued
+1454,Books Item 1454,Books,486.00,Active
+1455,Grocery Item 1455,Grocery,1162.00,Active
+1456,Office Item 1456,Office,304.00,Active
+1457,Electronics Item 1457,Electronics,898.00,Active
+1458,Home & Kitchen Item 1458,Home & Kitchen,1128.00,Active
+1459,Fashion Item 1459,Fashion,748.00,Active
+1460,Beauty Item 1460,Beauty,992.00,Active
+1461,Sports Item 1461,Sports,755.00,Active
+1462,Books Item 1462,Books,532.00,Discontinued
+1463,Grocery Item 1463,Grocery,533.00,Discontinued
+1464,Office Item 1464,Office,981.00,Active
+1465,Electronics Item 1465,Electronics,864.00,Active
+1466,Home & Kitchen Item 1466,Home & Kitchen,692.00,Active
+1467,Fashion Item 1467,Fashion,147.00,Active
+1468,Beauty Item 1468,Beauty,723.00,Active
+1469,Sports Item 1469,Sports,245.00,Discontinued
+1470,Books Item 1470,Books,871.00,Active
+1471,Grocery Item 1471,Grocery,343.00,Active
+1472,Office Item 1472,Office,111.00,Active
+1473,Electronics Item 1473,Electronics,579.00,Active
+1474,Home & Kitchen Item 1474,Home & Kitchen,1166.00,Active
+1475,Fashion Item 1475,Fashion,155.00,Active
+1476,Beauty Item 1476,Beauty,643.00,Discontinued
+1477,Sports Item 1477,Sports,1071.00,Discontinued
+1478,Books Item 1478,Books,33.00,Active
+1479,Grocery Item 1479,Grocery,930.00,Discontinued
+1480,Office Item 1480,Office,583.00,Active
+1481,Electronics Item 1481,Electronics,292.00,Discontinued
+1482,Home & Kitchen Item 1482,Home & Kitchen,1069.00,Active
+1483,Fashion Item 1483,Fashion,489.00,Active
+1484,Beauty Item 1484,Beauty,621.00,Discontinued
+1485,Sports Item 1485,Sports,130.00,Active
+1486,Books Item 1486,Books,864.00,Active
+1487,Grocery Item 1487,Grocery,1196.00,Discontinued
+1488,Office Item 1488,Office,1022.00,Active
+1489,Electronics Item 1489,Electronics,336.00,Active
+1490,Home & Kitchen Item 1490,Home & Kitchen,496.00,Active
+1491,Fashion Item 1491,Fashion,119.00,Active
+1492,Beauty Item 1492,Beauty,269.00,Active
+1493,Sports Item 1493,Sports,28.00,Active
+1494,Books Item 1494,Books,494.00,Discontinued
+1495,Grocery Item 1495,Grocery,862.00,Active
+1496,Office Item 1496,Office,613.00,Active
+1497,Electronics Item 1497,Electronics,482.00,Active
+1498,Home & Kitchen Item 1498,Home & Kitchen,1143.00,Discontinued
+1499,Fashion Item 1499,Fashion,219.00,Active
+1500,Beauty Item 1500,Beauty,1192.00,Active
+1501,Sports Item 1501,Sports,879.00,Discontinued
+1502,Books Item 1502,Books,396.00,Discontinued
+1503,Grocery Item 1503,Grocery,603.00,Discontinued
+1504,Office Item 1504,Office,933.00,Active
+1505,Electronics Item 1505,Electronics,575.00,Active
+1506,Home & Kitchen Item 1506,Home & Kitchen,381.00,Discontinued
+1507,Fashion Item 1507,Fashion,946.00,Active
+1508,Beauty Item 1508,Beauty,966.00,Active
+1509,Sports Item 1509,Sports,493.00,Discontinued
+1510,Books Item 1510,Books,233.00,Active
+1511,Grocery Item 1511,Grocery,1114.00,Discontinued
+1512,Office Item 1512,Office,934.00,Active
+1513,Electronics Item 1513,Electronics,829.00,Active
+1514,Home & Kitchen Item 1514,Home & Kitchen,248.00,Active
+1515,Fashion Item 1515,Fashion,1133.00,Active
+1516,Beauty Item 1516,Beauty,178.00,Active
+1517,Sports Item 1517,Sports,484.00,Active
+1518,Books Item 1518,Books,966.00,Active
+1519,Grocery Item 1519,Grocery,357.00,Active
+1520,Office Item 1520,Office,384.00,Active
+1521,Electronics Item 1521,Electronics,808.00,Active
+1522,Home & Kitchen Item 1522,Home & Kitchen,582.00,Discontinued
+1523,Fashion Item 1523,Fashion,498.00,Active
+1524,Beauty Item 1524,Beauty,425.00,Active
+1525,Sports Item 1525,Sports,129.00,Active
+1526,Books Item 1526,Books,1003.00,Active
+1527,Grocery Item 1527,Grocery,438.00,Active
+1528,Office Item 1528,Office,1164.00,Active
+1529,Electronics Item 1529,Electronics,603.00,Active
+1530,Home & Kitchen Item 1530,Home & Kitchen,675.00,Active
+1531,Fashion Item 1531,Fashion,236.00,Active
+1532,Beauty Item 1532,Beauty,907.00,Active
+1533,Sports Item 1533,Sports,242.00,Discontinued
+1534,Books Item 1534,Books,891.00,Active
+1535,Grocery Item 1535,Grocery,301.00,Active
+1536,Office Item 1536,Office,643.00,Active
+1537,Electronics Item 1537,Electronics,12.00,Active
+1538,Home & Kitchen Item 1538,Home & Kitchen,14.00,Active
+1539,Fashion Item 1539,Fashion,236.00,Discontinued
+1540,Beauty Item 1540,Beauty,918.00,Active
+1541,Sports Item 1541,Sports,146.00,Active
+1542,Books Item 1542,Books,561.00,Discontinued
+1543,Grocery Item 1543,Grocery,912.00,Active
+1544,Office Item 1544,Office,989.00,Active
+1545,Electronics Item 1545,Electronics,237.00,Active
+1546,Home & Kitchen Item 1546,Home & Kitchen,488.00,Active
+1547,Fashion Item 1547,Fashion,261.00,Active
+1548,Beauty Item 1548,Beauty,575.00,Discontinued
+1549,Sports Item 1549,Sports,1137.00,Discontinued
+1550,Books Item 1550,Books,770.00,Active
+1551,Grocery Item 1551,Grocery,182.00,Active
+1552,Office Item 1552,Office,1030.00,Active
+1553,Electronics Item 1553,Electronics,204.00,Active
+1554,Home & Kitchen Item 1554,Home & Kitchen,167.00,Discontinued
+1555,Fashion Item 1555,Fashion,89.00,Active
+1556,Beauty Item 1556,Beauty,884.00,Discontinued
+1557,Sports Item 1557,Sports,1068.00,Active
+1558,Books Item 1558,Books,15.00,Active
+1559,Grocery Item 1559,Grocery,883.00,Active
+1560,Office Item 1560,Office,706.00,Active
+1561,Electronics Item 1561,Electronics,868.00,Active
+1562,Home & Kitchen Item 1562,Home & Kitchen,11.00,Discontinued
+1563,Fashion Item 1563,Fashion,1012.00,Active
+1564,Beauty Item 1564,Beauty,260.00,Discontinued
+1565,Sports Item 1565,Sports,782.00,Discontinued
+1566,Books Item 1566,Books,565.00,Discontinued
+1567,Grocery Item 1567,Grocery,956.00,Discontinued
+1568,Office Item 1568,Office,164.00,Active
+1569,Electronics Item 1569,Electronics,1041.00,Active
+1570,Home & Kitchen Item 1570,Home & Kitchen,984.00,Discontinued
+1571,Fashion Item 1571,Fashion,225.00,Active
+1572,Beauty Item 1572,Beauty,51.00,Active
+1573,Sports Item 1573,Sports,179.00,Active
+1574,Books Item 1574,Books,571.00,Active
+1575,Grocery Item 1575,Grocery,192.00,Active
+1576,Office Item 1576,Office,776.00,Active
+1577,Electronics Item 1577,Electronics,839.00,Active
+1578,Home & Kitchen Item 1578,Home & Kitchen,290.00,Active
+1579,Fashion Item 1579,Fashion,760.00,Active
+1580,Beauty Item 1580,Beauty,444.00,Active
+1581,Sports Item 1581,Sports,906.00,Active
+1582,Books Item 1582,Books,265.00,Discontinued
+1583,Grocery Item 1583,Grocery,199.00,Active
+1584,Office Item 1584,Office,72.00,Active
+1585,Electronics Item 1585,Electronics,717.00,Discontinued
+1586,Home & Kitchen Item 1586,Home & Kitchen,1076.00,Active
+1587,Fashion Item 1587,Fashion,1151.00,Discontinued
+1588,Beauty Item 1588,Beauty,986.00,Active
+1589,Sports Item 1589,Sports,833.00,Active
+1590,Books Item 1590,Books,29.00,Active
+1591,Grocery Item 1591,Grocery,895.00,Active
+1592,Office Item 1592,Office,957.00,Active
+1593,Electronics Item 1593,Electronics,946.00,Discontinued
+1594,Home & Kitchen Item 1594,Home & Kitchen,841.00,Active
+1595,Fashion Item 1595,Fashion,1142.00,Active
+1596,Beauty Item 1596,Beauty,468.00,Active
+1597,Sports Item 1597,Sports,681.00,Active
+1598,Books Item 1598,Books,1074.00,Active
+1599,Grocery Item 1599,Grocery,817.00,Discontinued
+1600,Office Item 1600,Office,732.00,Active
+1601,Electronics Item 1601,Electronics,1143.00,Active
+1602,Home & Kitchen Item 1602,Home & Kitchen,850.00,Active
+1603,Fashion Item 1603,Fashion,173.00,Discontinued
+1604,Beauty Item 1604,Beauty,565.00,Active
+1605,Sports Item 1605,Sports,259.00,Active
+1606,Books Item 1606,Books,810.00,Discontinued
+1607,Grocery Item 1607,Grocery,29.00,Active
+1608,Office Item 1608,Office,586.00,Active
+1609,Electronics Item 1609,Electronics,672.00,Active
+1610,Home & Kitchen Item 1610,Home & Kitchen,619.00,Active
+1611,Fashion Item 1611,Fashion,190.00,Active
+1612,Beauty Item 1612,Beauty,1097.00,Active
+1613,Sports Item 1613,Sports,1108.00,Active
+1614,Books Item 1614,Books,1158.00,Discontinued
+1615,Grocery Item 1615,Grocery,973.00,Active
+1616,Office Item 1616,Office,68.00,Active
+1617,Electronics Item 1617,Electronics,81.00,Discontinued
+1618,Home & Kitchen Item 1618,Home & Kitchen,97.00,Discontinued
+1619,Fashion Item 1619,Fashion,399.00,Active
+1620,Beauty Item 1620,Beauty,113.00,Active
+1621,Sports Item 1621,Sports,55.00,Active
+1622,Books Item 1622,Books,106.00,Discontinued
+1623,Grocery Item 1623,Grocery,21.00,Active
+1624,Office Item 1624,Office,797.00,Active
+1625,Electronics Item 1625,Electronics,796.00,Active
+1626,Home & Kitchen Item 1626,Home & Kitchen,1158.00,Active
+1627,Fashion Item 1627,Fashion,1167.00,Active
+1628,Beauty Item 1628,Beauty,422.00,Active
+1629,Sports Item 1629,Sports,688.00,Active
+1630,Books Item 1630,Books,1095.00,Active
+1631,Grocery Item 1631,Grocery,1054.00,Active
+1632,Office Item 1632,Office,163.00,Active
+1633,Electronics Item 1633,Electronics,1171.00,Discontinued
+1634,Home & Kitchen Item 1634,Home & Kitchen,555.00,Active
+1635,Fashion Item 1635,Fashion,757.00,Active
+1636,Beauty Item 1636,Beauty,564.00,Active
+1637,Sports Item 1637,Sports,346.00,Active
+1638,Books Item 1638,Books,619.00,Active
+1639,Grocery Item 1639,Grocery,973.00,Active
+1640,Office Item 1640,Office,940.00,Active
+1641,Electronics Item 1641,Electronics,318.00,Active
+1642,Home & Kitchen Item 1642,Home & Kitchen,671.00,Active
+1643,Fashion Item 1643,Fashion,34.00,Discontinued
+1644,Beauty Item 1644,Beauty,953.00,Active
+1645,Sports Item 1645,Sports,1083.00,Active
+1646,Books Item 1646,Books,93.00,Discontinued
+1647,Grocery Item 1647,Grocery,842.00,Active
+1648,Office Item 1648,Office,137.00,Active
+1649,Electronics Item 1649,Electronics,1196.00,Active
+1650,Home & Kitchen Item 1650,Home & Kitchen,337.00,Active
+1651,Fashion Item 1651,Fashion,379.00,Active
+1652,Beauty Item 1652,Beauty,575.00,Active
+1653,Sports Item 1653,Sports,797.00,Discontinued
+1654,Books Item 1654,Books,1084.00,Discontinued
+1655,Grocery Item 1655,Grocery,1147.00,Active
+1656,Office Item 1656,Office,436.00,Active
+1657,Electronics Item 1657,Electronics,708.00,Active
+1658,Home & Kitchen Item 1658,Home & Kitchen,877.00,Discontinued
+1659,Fashion Item 1659,Fashion,315.00,Active
+1660,Beauty Item 1660,Beauty,835.00,Active
+1661,Sports Item 1661,Sports,245.00,Active
+1662,Books Item 1662,Books,628.00,Active
+1663,Grocery Item 1663,Grocery,106.00,Discontinued
+1664,Office Item 1664,Office,985.00,Discontinued
+1665,Electronics Item 1665,Electronics,705.00,Active
+1666,Home & Kitchen Item 1666,Home & Kitchen,927.00,Active
+1667,Fashion Item 1667,Fashion,258.00,Active
+1668,Beauty Item 1668,Beauty,403.00,Active
+1669,Sports Item 1669,Sports,182.00,Active
+1670,Books Item 1670,Books,1163.00,Active
+1671,Grocery Item 1671,Grocery,420.00,Active
+1672,Office Item 1672,Office,308.00,Active
+1673,Electronics Item 1673,Electronics,522.00,Discontinued
+1674,Home & Kitchen Item 1674,Home & Kitchen,539.00,Active
+1675,Fashion Item 1675,Fashion,331.00,Active
+1676,Beauty Item 1676,Beauty,542.00,Active
+1677,Sports Item 1677,Sports,554.00,Active
+1678,Books Item 1678,Books,386.00,Active
+1679,Grocery Item 1679,Grocery,733.00,Active
+1680,Office Item 1680,Office,813.00,Active
+1681,Electronics Item 1681,Electronics,696.00,Active
+1682,Home & Kitchen Item 1682,Home & Kitchen,33.00,Active
+1683,Fashion Item 1683,Fashion,448.00,Active
+1684,Beauty Item 1684,Beauty,133.00,Active
+1685,Sports Item 1685,Sports,1031.00,Active
+1686,Books Item 1686,Books,334.00,Discontinued
+1687,Grocery Item 1687,Grocery,269.00,Active
+1688,Office Item 1688,Office,594.00,Active
+1689,Electronics Item 1689,Electronics,678.00,Active
+1690,Home & Kitchen Item 1690,Home & Kitchen,846.00,Active
+1691,Fashion Item 1691,Fashion,586.00,Discontinued
+1692,Beauty Item 1692,Beauty,160.00,Active
+1693,Sports Item 1693,Sports,410.00,Active
+1694,Books Item 1694,Books,391.00,Active
+1695,Grocery Item 1695,Grocery,175.00,Active
+1696,Office Item 1696,Office,543.00,Active
+1697,Electronics Item 1697,Electronics,157.00,Active
+1698,Home & Kitchen Item 1698,Home & Kitchen,639.00,Active
+1699,Fashion Item 1699,Fashion,525.00,Discontinued
+1700,Beauty Item 1700,Beauty,1033.00,Active
+1701,Sports Item 1701,Sports,1075.00,Active
+1702,Books Item 1702,Books,132.00,Active
+1703,Grocery Item 1703,Grocery,1190.00,Active
+1704,Office Item 1704,Office,865.00,Active
+1705,Electronics Item 1705,Electronics,322.00,Active
+1706,Home & Kitchen Item 1706,Home & Kitchen,810.00,Active
+1707,Fashion Item 1707,Fashion,382.00,Active
+1708,Beauty Item 1708,Beauty,566.00,Active
+1709,Sports Item 1709,Sports,127.00,Active
+1710,Books Item 1710,Books,655.00,Active
+1711,Grocery Item 1711,Grocery,412.00,Active
+1712,Office Item 1712,Office,236.00,Active
+1713,Electronics Item 1713,Electronics,683.00,Discontinued
+1714,Home & Kitchen Item 1714,Home & Kitchen,1158.00,Discontinued
+1715,Fashion Item 1715,Fashion,1043.00,Active
+1716,Beauty Item 1716,Beauty,1158.00,Active
+1717,Sports Item 1717,Sports,746.00,Active
+1718,Books Item 1718,Books,450.00,Active
+1719,Grocery Item 1719,Grocery,140.00,Active
+1720,Office Item 1720,Office,247.00,Discontinued
+1721,Electronics Item 1721,Electronics,54.00,Active
+1722,Home & Kitchen Item 1722,Home & Kitchen,11.00,Discontinued
+1723,Fashion Item 1723,Fashion,144.00,Active
+1724,Beauty Item 1724,Beauty,267.00,Active
+1725,Sports Item 1725,Sports,803.00,Active
+1726,Books Item 1726,Books,471.00,Active
+1727,Grocery Item 1727,Grocery,1111.00,Active
+1728,Office Item 1728,Office,413.00,Discontinued
+1729,Electronics Item 1729,Electronics,759.00,Active
+1730,Home & Kitchen Item 1730,Home & Kitchen,393.00,Discontinued
+1731,Fashion Item 1731,Fashion,891.00,Discontinued
+1732,Beauty Item 1732,Beauty,287.00,Active
+1733,Sports Item 1733,Sports,746.00,Active
+1734,Books Item 1734,Books,342.00,Discontinued
+1735,Grocery Item 1735,Grocery,25.00,Active
+1736,Office Item 1736,Office,446.00,Active
+1737,Electronics Item 1737,Electronics,546.00,Discontinued
+1738,Home & Kitchen Item 1738,Home & Kitchen,893.00,Discontinued
+1739,Fashion Item 1739,Fashion,696.00,Discontinued
+1740,Beauty Item 1740,Beauty,902.00,Active
+1741,Sports Item 1741,Sports,22.00,Active
+1742,Books Item 1742,Books,1023.00,Active
+1743,Grocery Item 1743,Grocery,155.00,Active
+1744,Office Item 1744,Office,279.00,Active
+1745,Electronics Item 1745,Electronics,401.00,Active
+1746,Home & Kitchen Item 1746,Home & Kitchen,895.00,Active
+1747,Fashion Item 1747,Fashion,1156.00,Discontinued
+1748,Beauty Item 1748,Beauty,537.00,Active
+1749,Sports Item 1749,Sports,1008.00,Active
+1750,Books Item 1750,Books,1158.00,Active
+1751,Grocery Item 1751,Grocery,549.00,Active
+1752,Office Item 1752,Office,9.00,Active
+1753,Electronics Item 1753,Electronics,732.00,Discontinued
+1754,Home & Kitchen Item 1754,Home & Kitchen,1151.00,Discontinued
+1755,Fashion Item 1755,Fashion,813.00,Discontinued
+1756,Beauty Item 1756,Beauty,702.00,Active
+1757,Sports Item 1757,Sports,1032.00,Active
+1758,Books Item 1758,Books,437.00,Active
+1759,Grocery Item 1759,Grocery,184.00,Active
+1760,Office Item 1760,Office,600.00,Active
+1761,Electronics Item 1761,Electronics,999.00,Discontinued
+1762,Home & Kitchen Item 1762,Home & Kitchen,806.00,Active
+1763,Fashion Item 1763,Fashion,660.00,Active
+1764,Beauty Item 1764,Beauty,432.00,Discontinued
+1765,Sports Item 1765,Sports,65.00,Active
+1766,Books Item 1766,Books,656.00,Active
+1767,Grocery Item 1767,Grocery,912.00,Discontinued
+1768,Office Item 1768,Office,1047.00,Active
+1769,Electronics Item 1769,Electronics,63.00,Discontinued
+1770,Home & Kitchen Item 1770,Home & Kitchen,837.00,Active
+1771,Fashion Item 1771,Fashion,953.00,Discontinued
+1772,Beauty Item 1772,Beauty,143.00,Active
+1773,Sports Item 1773,Sports,277.00,Active
+1774,Books Item 1774,Books,225.00,Active
+1775,Grocery Item 1775,Grocery,629.00,Active
+1776,Office Item 1776,Office,604.00,Active
+1777,Electronics Item 1777,Electronics,495.00,Active
+1778,Home & Kitchen Item 1778,Home & Kitchen,543.00,Active
+1779,Fashion Item 1779,Fashion,396.00,Discontinued
+1780,Beauty Item 1780,Beauty,969.00,Active
+1781,Sports Item 1781,Sports,234.00,Active
+1782,Books Item 1782,Books,346.00,Active
+1783,Grocery Item 1783,Grocery,214.00,Active
+1784,Office Item 1784,Office,185.00,Active
+1785,Electronics Item 1785,Electronics,474.00,Active
+1786,Home & Kitchen Item 1786,Home & Kitchen,317.00,Active
+1787,Fashion Item 1787,Fashion,1175.00,Active
+1788,Beauty Item 1788,Beauty,155.00,Active
+1789,Sports Item 1789,Sports,994.00,Active
+1790,Books Item 1790,Books,229.00,Active
+1791,Grocery Item 1791,Grocery,1138.00,Active
+1792,Office Item 1792,Office,813.00,Active
+1793,Electronics Item 1793,Electronics,748.00,Active
+1794,Home & Kitchen Item 1794,Home & Kitchen,99.00,Discontinued
+1795,Fashion Item 1795,Fashion,748.00,Active
+1796,Beauty Item 1796,Beauty,382.00,Active
+1797,Sports Item 1797,Sports,516.00,Active
+1798,Books Item 1798,Books,97.00,Active
+1799,Grocery Item 1799,Grocery,1012.00,Active
+1800,Office Item 1800,Office,75.00,Active
+1801,Electronics Item 1801,Electronics,699.00,Active
+1802,Home & Kitchen Item 1802,Home & Kitchen,142.00,Discontinued
+1803,Fashion Item 1803,Fashion,985.00,Active
+1804,Beauty Item 1804,Beauty,968.00,Active
+1805,Sports Item 1805,Sports,238.00,Active
+1806,Books Item 1806,Books,540.00,Active
+1807,Grocery Item 1807,Grocery,289.00,Discontinued
+1808,Office Item 1808,Office,763.00,Active
+1809,Electronics Item 1809,Electronics,268.00,Active
+1810,Home & Kitchen Item 1810,Home & Kitchen,162.00,Active
+1811,Fashion Item 1811,Fashion,268.00,Active
+1812,Beauty Item 1812,Beauty,290.00,Discontinued
+1813,Sports Item 1813,Sports,64.00,Discontinued
+1814,Books Item 1814,Books,790.00,Discontinued
+1815,Grocery Item 1815,Grocery,731.00,Active
+1816,Office Item 1816,Office,593.00,Active
+1817,Electronics Item 1817,Electronics,834.00,Active
+1818,Home & Kitchen Item 1818,Home & Kitchen,660.00,Active
+1819,Fashion Item 1819,Fashion,752.00,Active
+1820,Beauty Item 1820,Beauty,471.00,Active
+1821,Sports Item 1821,Sports,1147.00,Discontinued
+1822,Books Item 1822,Books,34.00,Active
+1823,Grocery Item 1823,Grocery,81.00,Active
+1824,Office Item 1824,Office,514.00,Active
+1825,Electronics Item 1825,Electronics,984.00,Active
+1826,Home & Kitchen Item 1826,Home & Kitchen,591.00,Discontinued
+1827,Fashion Item 1827,Fashion,850.00,Discontinued
+1828,Beauty Item 1828,Beauty,947.00,Active
+1829,Sports Item 1829,Sports,482.00,Active
+1830,Books Item 1830,Books,582.00,Discontinued
+1831,Grocery Item 1831,Grocery,122.00,Active
+1832,Office Item 1832,Office,827.00,Discontinued
+1833,Electronics Item 1833,Electronics,333.00,Active
+1834,Home & Kitchen Item 1834,Home & Kitchen,672.00,Active
+1835,Fashion Item 1835,Fashion,839.00,Discontinued
+1836,Beauty Item 1836,Beauty,622.00,Active
+1837,Sports Item 1837,Sports,413.00,Active
+1838,Books Item 1838,Books,962.00,Active
+1839,Grocery Item 1839,Grocery,385.00,Active
+1840,Office Item 1840,Office,31.00,Active
+1841,Electronics Item 1841,Electronics,424.00,Active
+1842,Home & Kitchen Item 1842,Home & Kitchen,410.00,Active
+1843,Fashion Item 1843,Fashion,358.00,Active
+1844,Beauty Item 1844,Beauty,862.00,Active
+1845,Sports Item 1845,Sports,304.00,Active
+1846,Books Item 1846,Books,537.00,Active
+1847,Grocery Item 1847,Grocery,603.00,Active
+1848,Office Item 1848,Office,1149.00,Active
+1849,Electronics Item 1849,Electronics,398.00,Active
+1850,Home & Kitchen Item 1850,Home & Kitchen,68.00,Active
+1851,Fashion Item 1851,Fashion,718.00,Discontinued
+1852,Beauty Item 1852,Beauty,1087.00,Active
+1853,Sports Item 1853,Sports,393.00,Active
+1854,Books Item 1854,Books,937.00,Discontinued
+1855,Grocery Item 1855,Grocery,372.00,Discontinued
+1856,Office Item 1856,Office,1189.00,Discontinued
+1857,Electronics Item 1857,Electronics,161.00,Active
+1858,Home & Kitchen Item 1858,Home & Kitchen,1122.00,Active
+1859,Fashion Item 1859,Fashion,893.00,Active
+1860,Beauty Item 1860,Beauty,180.00,Active
+1861,Sports Item 1861,Sports,835.00,Discontinued
+1862,Books Item 1862,Books,729.00,Discontinued
+1863,Grocery Item 1863,Grocery,151.00,Discontinued
+1864,Office Item 1864,Office,386.00,Active
+1865,Electronics Item 1865,Electronics,218.00,Active
+1866,Home & Kitchen Item 1866,Home & Kitchen,614.00,Active
+1867,Fashion Item 1867,Fashion,329.00,Discontinued
+1868,Beauty Item 1868,Beauty,580.00,Active
+1869,Sports Item 1869,Sports,647.00,Active
+1870,Books Item 1870,Books,690.00,Active
+1871,Grocery Item 1871,Grocery,504.00,Discontinued
+1872,Office Item 1872,Office,400.00,Active
+1873,Electronics Item 1873,Electronics,367.00,Active
+1874,Home & Kitchen Item 1874,Home & Kitchen,953.00,Discontinued
+1875,Fashion Item 1875,Fashion,1178.00,Active
+1876,Beauty Item 1876,Beauty,448.00,Active
+1877,Sports Item 1877,Sports,820.00,Active
+1878,Books Item 1878,Books,1068.00,Active
+1879,Grocery Item 1879,Grocery,25.00,Discontinued
+1880,Office Item 1880,Office,991.00,Discontinued
+1881,Electronics Item 1881,Electronics,1179.00,Active
+1882,Home & Kitchen Item 1882,Home & Kitchen,574.00,Active
+1883,Fashion Item 1883,Fashion,240.00,Discontinued
+1884,Beauty Item 1884,Beauty,872.00,Active
+1885,Sports Item 1885,Sports,567.00,Active
+1886,Books Item 1886,Books,280.00,Active
+1887,Grocery Item 1887,Grocery,200.00,Active
+1888,Office Item 1888,Office,850.00,Active
+1889,Electronics Item 1889,Electronics,1159.00,Active
+1890,Home & Kitchen Item 1890,Home & Kitchen,1112.00,Active
+1891,Fashion Item 1891,Fashion,472.00,Active
+1892,Beauty Item 1892,Beauty,150.00,Active
+1893,Sports Item 1893,Sports,355.00,Discontinued
+1894,Books Item 1894,Books,539.00,Discontinued
+1895,Grocery Item 1895,Grocery,1186.00,Active
+1896,Office Item 1896,Office,1156.00,Active
+1897,Electronics Item 1897,Electronics,859.00,Active
+1898,Home & Kitchen Item 1898,Home & Kitchen,26.00,Discontinued
+1899,Fashion Item 1899,Fashion,1156.00,Discontinued
+1900,Beauty Item 1900,Beauty,1123.00,Active
+1901,Sports Item 1901,Sports,818.00,Active
+1902,Books Item 1902,Books,575.00,Active
+1903,Grocery Item 1903,Grocery,352.00,Discontinued
+1904,Office Item 1904,Office,654.00,Active
+1905,Electronics Item 1905,Electronics,361.00,Active
+1906,Home & Kitchen Item 1906,Home & Kitchen,305.00,Active
+1907,Fashion Item 1907,Fashion,930.00,Discontinued
+1908,Beauty Item 1908,Beauty,680.00,Discontinued
+1909,Sports Item 1909,Sports,1072.00,Discontinued
+1910,Books Item 1910,Books,122.00,Active
+1911,Grocery Item 1911,Grocery,655.00,Discontinued
+1912,Office Item 1912,Office,416.00,Discontinued
+1913,Electronics Item 1913,Electronics,297.00,Active
+1914,Home & Kitchen Item 1914,Home & Kitchen,1078.00,Active
+1915,Fashion Item 1915,Fashion,647.00,Discontinued
+1916,Beauty Item 1916,Beauty,652.00,Active
+1917,Sports Item 1917,Sports,53.00,Active
+1918,Books Item 1918,Books,686.00,Active
+1919,Grocery Item 1919,Grocery,305.00,Active
+1920,Office Item 1920,Office,236.00,Active
+1921,Electronics Item 1921,Electronics,523.00,Discontinued
+1922,Home & Kitchen Item 1922,Home & Kitchen,148.00,Active
+1923,Fashion Item 1923,Fashion,130.00,Discontinued
+1924,Beauty Item 1924,Beauty,163.00,Active
+1925,Sports Item 1925,Sports,566.00,Discontinued
+1926,Books Item 1926,Books,224.00,Active
+1927,Grocery Item 1927,Grocery,805.00,Discontinued
+1928,Office Item 1928,Office,966.00,Discontinued
+1929,Electronics Item 1929,Electronics,1177.00,Discontinued
+1930,Home & Kitchen Item 1930,Home & Kitchen,691.00,Discontinued
+1931,Fashion Item 1931,Fashion,694.00,Active
+1932,Beauty Item 1932,Beauty,1089.00,Discontinued
+1933,Sports Item 1933,Sports,925.00,Active
+1934,Books Item 1934,Books,759.00,Active
+1935,Grocery Item 1935,Grocery,58.00,Active
+1936,Office Item 1936,Office,221.00,Active
+1937,Electronics Item 1937,Electronics,678.00,Active
+1938,Home & Kitchen Item 1938,Home & Kitchen,232.00,Active
+1939,Fashion Item 1939,Fashion,579.00,Discontinued
+1940,Beauty Item 1940,Beauty,720.00,Active
+1941,Sports Item 1941,Sports,601.00,Active
+1942,Books Item 1942,Books,195.00,Active
+1943,Grocery Item 1943,Grocery,902.00,Active
+1944,Office Item 1944,Office,464.00,Active
+1945,Electronics Item 1945,Electronics,1118.00,Active
+1946,Home & Kitchen Item 1946,Home & Kitchen,1187.00,Active
+1947,Fashion Item 1947,Fashion,584.00,Discontinued
+1948,Beauty Item 1948,Beauty,968.00,Active
+1949,Sports Item 1949,Sports,364.00,Discontinued
+1950,Books Item 1950,Books,807.00,Active
+1951,Grocery Item 1951,Grocery,481.00,Discontinued
+1952,Office Item 1952,Office,285.00,Discontinued
+1953,Electronics Item 1953,Electronics,1110.00,Active
+1954,Home & Kitchen Item 1954,Home & Kitchen,659.00,Active
+1955,Fashion Item 1955,Fashion,590.00,Discontinued
+1956,Beauty Item 1956,Beauty,1066.00,Active
+1957,Sports Item 1957,Sports,1107.00,Active
+1958,Books Item 1958,Books,579.00,Active
+1959,Grocery Item 1959,Grocery,100.00,Active
+1960,Office Item 1960,Office,41.00,Active
+1961,Electronics Item 1961,Electronics,1064.00,Active
+1962,Home & Kitchen Item 1962,Home & Kitchen,731.00,Active
+1963,Fashion Item 1963,Fashion,832.00,Active
+1964,Beauty Item 1964,Beauty,916.00,Active
+1965,Sports Item 1965,Sports,524.00,Active
+1966,Books Item 1966,Books,420.00,Active
+1967,Grocery Item 1967,Grocery,472.00,Active
+1968,Office Item 1968,Office,109.00,Discontinued
+1969,Electronics Item 1969,Electronics,795.00,Active
+1970,Home & Kitchen Item 1970,Home & Kitchen,100.00,Discontinued
+1971,Fashion Item 1971,Fashion,542.00,Discontinued
+1972,Beauty Item 1972,Beauty,155.00,Active
+1973,Sports Item 1973,Sports,869.00,Active
+1974,Books Item 1974,Books,799.00,Active
+1975,Grocery Item 1975,Grocery,788.00,Discontinued
+1976,Office Item 1976,Office,356.00,Discontinued
+1977,Electronics Item 1977,Electronics,1006.00,Active
+1978,Home & Kitchen Item 1978,Home & Kitchen,110.00,Discontinued
+1979,Fashion Item 1979,Fashion,537.00,Active
+1980,Beauty Item 1980,Beauty,376.00,Discontinued
+1981,Sports Item 1981,Sports,917.00,Discontinued
+1982,Books Item 1982,Books,998.00,Active
+1983,Grocery Item 1983,Grocery,480.00,Active
+1984,Office Item 1984,Office,107.00,Discontinued
+1985,Electronics Item 1985,Electronics,67.00,Active
+1986,Home & Kitchen Item 1986,Home & Kitchen,375.00,Active
+1987,Fashion Item 1987,Fashion,292.00,Active
+1988,Beauty Item 1988,Beauty,593.00,Active
+1989,Sports Item 1989,Sports,1105.00,Active
+1990,Books Item 1990,Books,814.00,Active
+1991,Grocery Item 1991,Grocery,741.00,Discontinued
+1992,Office Item 1992,Office,548.00,Active
+1993,Electronics Item 1993,Electronics,265.00,Active
+1994,Home & Kitchen Item 1994,Home & Kitchen,12.00,Active
+1995,Fashion Item 1995,Fashion,100.00,Active
+1996,Beauty Item 1996,Beauty,769.00,Active
+1997,Sports Item 1997,Sports,514.00,Active
+1998,Books Item 1998,Books,559.00,Discontinued
+1999,Grocery Item 1999,Grocery,724.00,Discontinued
+2000,Office Item 2000,Office,1017.00,Active
+2001,Electronics Item 2001,Electronics,605.00,Active
+2002,Home & Kitchen Item 2002,Home & Kitchen,1199.00,Active
+2003,Fashion Item 2003,Fashion,934.00,Discontinued
+2004,Beauty Item 2004,Beauty,485.00,Active
+2005,Sports Item 2005,Sports,36.00,Active
+2006,Books Item 2006,Books,1093.00,Discontinued
+2007,Grocery Item 2007,Grocery,200.00,Discontinued
+2008,Office Item 2008,Office,352.00,Active
+2009,Electronics Item 2009,Electronics,188.00,Active
+2010,Home & Kitchen Item 2010,Home & Kitchen,914.00,Active
+2011,Fashion Item 2011,Fashion,376.00,Discontinued
+2012,Beauty Item 2012,Beauty,971.00,Discontinued
+2013,Sports Item 2013,Sports,580.00,Discontinued
+2014,Books Item 2014,Books,967.00,Discontinued
+2015,Grocery Item 2015,Grocery,107.00,Active
+2016,Office Item 2016,Office,1197.00,Discontinued
+2017,Electronics Item 2017,Electronics,152.00,Active
+2018,Home & Kitchen Item 2018,Home & Kitchen,368.00,Active
+2019,Fashion Item 2019,Fashion,348.00,Discontinued
+2020,Beauty Item 2020,Beauty,197.00,Active
+2021,Sports Item 2021,Sports,1022.00,Active
+2022,Books Item 2022,Books,802.00,Active
+2023,Grocery Item 2023,Grocery,535.00,Active
+2024,Office Item 2024,Office,1193.00,Active
+2025,Electronics Item 2025,Electronics,111.00,Active
+2026,Home & Kitchen Item 2026,Home & Kitchen,918.00,Active
+2027,Fashion Item 2027,Fashion,51.00,Active
+2028,Beauty Item 2028,Beauty,884.00,Active
+2029,Sports Item 2029,Sports,884.00,Active
+2030,Books Item 2030,Books,530.00,Active
+2031,Grocery Item 2031,Grocery,484.00,Active
+2032,Office Item 2032,Office,875.00,Active
+2033,Electronics Item 2033,Electronics,762.00,Active
+2034,Home & Kitchen Item 2034,Home & Kitchen,250.00,Active
+2035,Fashion Item 2035,Fashion,127.00,Active
+2036,Beauty Item 2036,Beauty,793.00,Active
+2037,Sports Item 2037,Sports,942.00,Active
+2038,Books Item 2038,Books,929.00,Discontinued
+2039,Grocery Item 2039,Grocery,1020.00,Active
+2040,Office Item 2040,Office,620.00,Active
+2041,Electronics Item 2041,Electronics,226.00,Active
+2042,Home & Kitchen Item 2042,Home & Kitchen,188.00,Discontinued
+2043,Fashion Item 2043,Fashion,439.00,Discontinued
+2044,Beauty Item 2044,Beauty,655.00,Active
+2045,Sports Item 2045,Sports,1177.00,Active
+2046,Books Item 2046,Books,449.00,Active
+2047,Grocery Item 2047,Grocery,81.00,Discontinued
+2048,Office Item 2048,Office,835.00,Active
+2049,Electronics Item 2049,Electronics,1024.00,Active
+2050,Home & Kitchen Item 2050,Home & Kitchen,571.00,Discontinued
+2051,Fashion Item 2051,Fashion,756.00,Discontinued
+2052,Beauty Item 2052,Beauty,41.00,Discontinued
+2053,Sports Item 2053,Sports,22.00,Active
+2054,Books Item 2054,Books,960.00,Discontinued
+2055,Grocery Item 2055,Grocery,424.00,Active
+2056,Office Item 2056,Office,1134.00,Active
+2057,Electronics Item 2057,Electronics,732.00,Active
+2058,Home & Kitchen Item 2058,Home & Kitchen,909.00,Active
+2059,Fashion Item 2059,Fashion,831.00,Active
+2060,Beauty Item 2060,Beauty,8.00,Active
+2061,Sports Item 2061,Sports,225.00,Discontinued
+2062,Books Item 2062,Books,808.00,Active
+2063,Grocery Item 2063,Grocery,688.00,Active
+2064,Office Item 2064,Office,681.00,Active
+2065,Electronics Item 2065,Electronics,862.00,Discontinued
+2066,Home & Kitchen Item 2066,Home & Kitchen,937.00,Active
+2067,Fashion Item 2067,Fashion,975.00,Active
+2068,Beauty Item 2068,Beauty,719.00,Active
+2069,Sports Item 2069,Sports,954.00,Active
+2070,Books Item 2070,Books,49.00,Active
+2071,Grocery Item 2071,Grocery,784.00,Active
+2072,Office Item 2072,Office,285.00,Active
+2073,Electronics Item 2073,Electronics,41.00,Active
+2074,Home & Kitchen Item 2074,Home & Kitchen,1040.00,Active
+2075,Fashion Item 2075,Fashion,395.00,Active
+2076,Beauty Item 2076,Beauty,380.00,Active
+2077,Sports Item 2077,Sports,82.00,Active
+2078,Books Item 2078,Books,103.00,Active
+2079,Grocery Item 2079,Grocery,990.00,Active
+2080,Office Item 2080,Office,322.00,Active
+2081,Electronics Item 2081,Electronics,344.00,Active
+2082,Home & Kitchen Item 2082,Home & Kitchen,1053.00,Active
+2083,Fashion Item 2083,Fashion,1189.00,Active
+2084,Beauty Item 2084,Beauty,89.00,Active
+2085,Sports Item 2085,Sports,175.00,Active
+2086,Books Item 2086,Books,993.00,Active
+2087,Grocery Item 2087,Grocery,320.00,Discontinued
+2088,Office Item 2088,Office,799.00,Active
+2089,Electronics Item 2089,Electronics,966.00,Active
+2090,Home & Kitchen Item 2090,Home & Kitchen,151.00,Active
+2091,Fashion Item 2091,Fashion,808.00,Discontinued
+2092,Beauty Item 2092,Beauty,403.00,Discontinued
+2093,Sports Item 2093,Sports,1188.00,Discontinued
+2094,Books Item 2094,Books,285.00,Active
+2095,Grocery Item 2095,Grocery,858.00,Active
+2096,Office Item 2096,Office,1154.00,Active
+2097,Electronics Item 2097,Electronics,532.00,Active
+2098,Home & Kitchen Item 2098,Home & Kitchen,881.00,Discontinued
+2099,Fashion Item 2099,Fashion,701.00,Active
+2100,Beauty Item 2100,Beauty,178.00,Discontinued
+2101,Sports Item 2101,Sports,800.00,Active
+2102,Books Item 2102,Books,1187.00,Discontinued
+2103,Grocery Item 2103,Grocery,735.00,Active
+2104,Office Item 2104,Office,782.00,Active
+2105,Electronics Item 2105,Electronics,297.00,Active
+2106,Home & Kitchen Item 2106,Home & Kitchen,418.00,Active
+2107,Fashion Item 2107,Fashion,687.00,Discontinued
+2108,Beauty Item 2108,Beauty,188.00,Active
+2109,Sports Item 2109,Sports,865.00,Active
+2110,Books Item 2110,Books,907.00,Active
+2111,Grocery Item 2111,Grocery,755.00,Discontinued
+2112,Office Item 2112,Office,288.00,Active
+2113,Electronics Item 2113,Electronics,591.00,Active
+2114,Home & Kitchen Item 2114,Home & Kitchen,1081.00,Discontinued
+2115,Fashion Item 2115,Fashion,400.00,Active
+2116,Beauty Item 2116,Beauty,826.00,Discontinued
+2117,Sports Item 2117,Sports,56.00,Active
+2118,Books Item 2118,Books,639.00,Discontinued
+2119,Grocery Item 2119,Grocery,775.00,Active
+2120,Office Item 2120,Office,894.00,Active
+2121,Electronics Item 2121,Electronics,459.00,Discontinued
+2122,Home & Kitchen Item 2122,Home & Kitchen,531.00,Active
+2123,Fashion Item 2123,Fashion,1148.00,Discontinued
+2124,Beauty Item 2124,Beauty,266.00,Discontinued
+2125,Sports Item 2125,Sports,284.00,Discontinued
+2126,Books Item 2126,Books,1038.00,Active
+2127,Grocery Item 2127,Grocery,66.00,Active
+2128,Office Item 2128,Office,26.00,Discontinued
+2129,Electronics Item 2129,Electronics,20.00,Active
+2130,Home & Kitchen Item 2130,Home & Kitchen,540.00,Discontinued
+2131,Fashion Item 2131,Fashion,498.00,Active
+2132,Beauty Item 2132,Beauty,882.00,Active
+2133,Sports Item 2133,Sports,1072.00,Active
+2134,Books Item 2134,Books,774.00,Active
+2135,Grocery Item 2135,Grocery,235.00,Discontinued
+2136,Office Item 2136,Office,971.00,Active
+2137,Electronics Item 2137,Electronics,616.00,Active
+2138,Home & Kitchen Item 2138,Home & Kitchen,691.00,Active
+2139,Fashion Item 2139,Fashion,1018.00,Active
+2140,Beauty Item 2140,Beauty,896.00,Discontinued
+2141,Sports Item 2141,Sports,446.00,Active
+2142,Books Item 2142,Books,926.00,Active
+2143,Grocery Item 2143,Grocery,556.00,Active
+2144,Office Item 2144,Office,556.00,Discontinued
+2145,Electronics Item 2145,Electronics,897.00,Active
+2146,Home & Kitchen Item 2146,Home & Kitchen,992.00,Active
+2147,Fashion Item 2147,Fashion,225.00,Discontinued
+2148,Beauty Item 2148,Beauty,237.00,Active
+2149,Sports Item 2149,Sports,706.00,Active
+2150,Books Item 2150,Books,1148.00,Discontinued
+2151,Grocery Item 2151,Grocery,183.00,Active
+2152,Office Item 2152,Office,164.00,Active
+2153,Electronics Item 2153,Electronics,65.00,Active
+2154,Home & Kitchen Item 2154,Home & Kitchen,311.00,Active
+2155,Fashion Item 2155,Fashion,434.00,Active
+2156,Beauty Item 2156,Beauty,960.00,Active
+2157,Sports Item 2157,Sports,833.00,Active
+2158,Books Item 2158,Books,731.00,Active
+2159,Grocery Item 2159,Grocery,510.00,Active
+2160,Office Item 2160,Office,429.00,Active
+2161,Electronics Item 2161,Electronics,1147.00,Discontinued
+2162,Home & Kitchen Item 2162,Home & Kitchen,665.00,Active
+2163,Fashion Item 2163,Fashion,463.00,Active
+2164,Beauty Item 2164,Beauty,622.00,Active
+2165,Sports Item 2165,Sports,876.00,Discontinued
+2166,Books Item 2166,Books,657.00,Active
+2167,Grocery Item 2167,Grocery,960.00,Active
+2168,Office Item 2168,Office,105.00,Discontinued
+2169,Electronics Item 2169,Electronics,208.00,Active
+2170,Home & Kitchen Item 2170,Home & Kitchen,767.00,Discontinued
+2171,Fashion Item 2171,Fashion,810.00,Active
+2172,Beauty Item 2172,Beauty,254.00,Active
+2173,Sports Item 2173,Sports,426.00,Active
+2174,Books Item 2174,Books,672.00,Active
+2175,Grocery Item 2175,Grocery,749.00,Active
+2176,Office Item 2176,Office,717.00,Active
+2177,Electronics Item 2177,Electronics,378.00,Active
+2178,Home & Kitchen Item 2178,Home & Kitchen,325.00,Active
+2179,Fashion Item 2179,Fashion,92.00,Active
+2180,Beauty Item 2180,Beauty,996.00,Discontinued
+2181,Sports Item 2181,Sports,347.00,Discontinued
+2182,Books Item 2182,Books,882.00,Discontinued
+2183,Grocery Item 2183,Grocery,160.00,Active
+2184,Office Item 2184,Office,803.00,Active
+2185,Electronics Item 2185,Electronics,1104.00,Active
+2186,Home & Kitchen Item 2186,Home & Kitchen,138.00,Active
+2187,Fashion Item 2187,Fashion,455.00,Active
+2188,Beauty Item 2188,Beauty,86.00,Active
+2189,Sports Item 2189,Sports,810.00,Active
+2190,Books Item 2190,Books,685.00,Active
+2191,Grocery Item 2191,Grocery,127.00,Active
+2192,Office Item 2192,Office,308.00,Active
+2193,Electronics Item 2193,Electronics,140.00,Discontinued
+2194,Home & Kitchen Item 2194,Home & Kitchen,394.00,Active
+2195,Fashion Item 2195,Fashion,42.00,Active
+2196,Beauty Item 2196,Beauty,670.00,Active
+2197,Sports Item 2197,Sports,589.00,Active
+2198,Books Item 2198,Books,1089.00,Active
+2199,Grocery Item 2199,Grocery,244.00,Active
+2200,Office Item 2200,Office,1037.00,Active
+2201,Electronics Item 2201,Electronics,595.00,Active
+2202,Home & Kitchen Item 2202,Home & Kitchen,223.00,Active
+2203,Fashion Item 2203,Fashion,278.00,Discontinued
+2204,Beauty Item 2204,Beauty,554.00,Active
+2205,Sports Item 2205,Sports,344.00,Active
+2206,Books Item 2206,Books,587.00,Active
+2207,Grocery Item 2207,Grocery,170.00,Active
+2208,Office Item 2208,Office,646.00,Active
+2209,Electronics Item 2209,Electronics,890.00,Active
+2210,Home & Kitchen Item 2210,Home & Kitchen,632.00,Active
+2211,Fashion Item 2211,Fashion,427.00,Active
+2212,Beauty Item 2212,Beauty,117.00,Active
+2213,Sports Item 2213,Sports,454.00,Active
+2214,Books Item 2214,Books,791.00,Active
+2215,Grocery Item 2215,Grocery,1050.00,Active
+2216,Office Item 2216,Office,340.00,Active
+2217,Electronics Item 2217,Electronics,518.00,Active
+2218,Home & Kitchen Item 2218,Home & Kitchen,1191.00,Discontinued
+2219,Fashion Item 2219,Fashion,455.00,Active
+2220,Beauty Item 2220,Beauty,63.00,Discontinued
+2221,Sports Item 2221,Sports,1039.00,Active
+2222,Books Item 2222,Books,676.00,Active
+2223,Grocery Item 2223,Grocery,396.00,Active
+2224,Office Item 2224,Office,1100.00,Active
+2225,Electronics Item 2225,Electronics,744.00,Active
+2226,Home & Kitchen Item 2226,Home & Kitchen,920.00,Active
+2227,Fashion Item 2227,Fashion,120.00,Active
+2228,Beauty Item 2228,Beauty,1022.00,Active
+2229,Sports Item 2229,Sports,1011.00,Active
+2230,Books Item 2230,Books,1040.00,Active
+2231,Grocery Item 2231,Grocery,1136.00,Active
+2232,Office Item 2232,Office,816.00,Active
+2233,Electronics Item 2233,Electronics,807.00,Active
+2234,Home & Kitchen Item 2234,Home & Kitchen,389.00,Active
+2235,Fashion Item 2235,Fashion,515.00,Active
+2236,Beauty Item 2236,Beauty,681.00,Discontinued
+2237,Sports Item 2237,Sports,701.00,Discontinued
+2238,Books Item 2238,Books,75.00,Active
+2239,Grocery Item 2239,Grocery,990.00,Discontinued
+2240,Office Item 2240,Office,569.00,Active
+2241,Electronics Item 2241,Electronics,687.00,Active
+2242,Home & Kitchen Item 2242,Home & Kitchen,964.00,Active
+2243,Fashion Item 2243,Fashion,966.00,Active
+2244,Beauty Item 2244,Beauty,372.00,Active
+2245,Sports Item 2245,Sports,725.00,Active
+2246,Books Item 2246,Books,46.00,Active
+2247,Grocery Item 2247,Grocery,32.00,Discontinued
+2248,Office Item 2248,Office,172.00,Active
+2249,Electronics Item 2249,Electronics,408.00,Active
+2250,Home & Kitchen Item 2250,Home & Kitchen,396.00,Active
+2251,Fashion Item 2251,Fashion,470.00,Discontinued
+2252,Beauty Item 2252,Beauty,601.00,Active
+2253,Sports Item 2253,Sports,637.00,Active
+2254,Books Item 2254,Books,355.00,Discontinued
+2255,Grocery Item 2255,Grocery,1096.00,Active
+2256,Office Item 2256,Office,93.00,Active
+2257,Electronics Item 2257,Electronics,1180.00,Discontinued
+2258,Home & Kitchen Item 2258,Home & Kitchen,555.00,Active
+2259,Fashion Item 2259,Fashion,699.00,Active
+2260,Beauty Item 2260,Beauty,58.00,Active
+2261,Sports Item 2261,Sports,850.00,Active
+2262,Books Item 2262,Books,441.00,Active
+2263,Grocery Item 2263,Grocery,697.00,Active
+2264,Office Item 2264,Office,237.00,Active
+2265,Electronics Item 2265,Electronics,675.00,Active
+2266,Home & Kitchen Item 2266,Home & Kitchen,804.00,Active
+2267,Fashion Item 2267,Fashion,600.00,Active
+2268,Beauty Item 2268,Beauty,153.00,Active
+2269,Sports Item 2269,Sports,563.00,Active
+2270,Books Item 2270,Books,1105.00,Active
+2271,Grocery Item 2271,Grocery,294.00,Active
+2272,Office Item 2272,Office,960.00,Active
+2273,Electronics Item 2273,Electronics,558.00,Active
+2274,Home & Kitchen Item 2274,Home & Kitchen,98.00,Active
+2275,Fashion Item 2275,Fashion,358.00,Active
+2276,Beauty Item 2276,Beauty,460.00,Active
+2277,Sports Item 2277,Sports,423.00,Active
+2278,Books Item 2278,Books,1065.00,Discontinued
+2279,Grocery Item 2279,Grocery,617.00,Discontinued
+2280,Office Item 2280,Office,653.00,Active
+2281,Electronics Item 2281,Electronics,268.00,Active
+2282,Home & Kitchen Item 2282,Home & Kitchen,644.00,Discontinued
+2283,Fashion Item 2283,Fashion,381.00,Discontinued
+2284,Beauty Item 2284,Beauty,25.00,Active
+2285,Sports Item 2285,Sports,485.00,Active
+2286,Books Item 2286,Books,242.00,Active
+2287,Grocery Item 2287,Grocery,1060.00,Active
+2288,Office Item 2288,Office,510.00,Active
+2289,Electronics Item 2289,Electronics,595.00,Discontinued
+2290,Home & Kitchen Item 2290,Home & Kitchen,862.00,Discontinued
+2291,Fashion Item 2291,Fashion,997.00,Active
+2292,Beauty Item 2292,Beauty,312.00,Active
+2293,Sports Item 2293,Sports,66.00,Active
+2294,Books Item 2294,Books,1024.00,Active
+2295,Grocery Item 2295,Grocery,728.00,Active
+2296,Office Item 2296,Office,821.00,Active
+2297,Electronics Item 2297,Electronics,977.00,Discontinued
+2298,Home & Kitchen Item 2298,Home & Kitchen,703.00,Active
+2299,Fashion Item 2299,Fashion,159.00,Active
+2300,Beauty Item 2300,Beauty,227.00,Discontinued
+2301,Sports Item 2301,Sports,73.00,Active
+2302,Books Item 2302,Books,782.00,Active
+2303,Grocery Item 2303,Grocery,1071.00,Active
+2304,Office Item 2304,Office,421.00,Active
+2305,Electronics Item 2305,Electronics,600.00,Active
+2306,Home & Kitchen Item 2306,Home & Kitchen,672.00,Active
+2307,Fashion Item 2307,Fashion,34.00,Discontinued
+2308,Beauty Item 2308,Beauty,553.00,Active
+2309,Sports Item 2309,Sports,204.00,Active
+2310,Books Item 2310,Books,435.00,Active
+2311,Grocery Item 2311,Grocery,469.00,Active
+2312,Office Item 2312,Office,813.00,Active
+2313,Electronics Item 2313,Electronics,871.00,Active
+2314,Home & Kitchen Item 2314,Home & Kitchen,226.00,Active
+2315,Fashion Item 2315,Fashion,47.00,Active
+2316,Beauty Item 2316,Beauty,950.00,Active
+2317,Sports Item 2317,Sports,575.00,Active
+2318,Books Item 2318,Books,630.00,Active
+2319,Grocery Item 2319,Grocery,487.00,Active
+2320,Office Item 2320,Office,679.00,Active
+2321,Electronics Item 2321,Electronics,1093.00,Active
+2322,Home & Kitchen Item 2322,Home & Kitchen,190.00,Active
+2323,Fashion Item 2323,Fashion,256.00,Active
+2324,Beauty Item 2324,Beauty,239.00,Discontinued
+2325,Sports Item 2325,Sports,1172.00,Active
+2326,Books Item 2326,Books,650.00,Discontinued
+2327,Grocery Item 2327,Grocery,651.00,Active
+2328,Office Item 2328,Office,92.00,Active
+2329,Electronics Item 2329,Electronics,1048.00,Active
+2330,Home & Kitchen Item 2330,Home & Kitchen,642.00,Active
+2331,Fashion Item 2331,Fashion,167.00,Active
+2332,Beauty Item 2332,Beauty,1127.00,Discontinued
+2333,Sports Item 2333,Sports,63.00,Discontinued
+2334,Books Item 2334,Books,290.00,Active
+2335,Grocery Item 2335,Grocery,512.00,Active
+2336,Office Item 2336,Office,1053.00,Discontinued
+2337,Electronics Item 2337,Electronics,900.00,Active
+2338,Home & Kitchen Item 2338,Home & Kitchen,378.00,Active
+2339,Fashion Item 2339,Fashion,485.00,Active
+2340,Beauty Item 2340,Beauty,632.00,Active
+2341,Sports Item 2341,Sports,282.00,Active
+2342,Books Item 2342,Books,1009.00,Active
+2343,Grocery Item 2343,Grocery,641.00,Discontinued
+2344,Office Item 2344,Office,860.00,Active
+2345,Electronics Item 2345,Electronics,671.00,Active
+2346,Home & Kitchen Item 2346,Home & Kitchen,197.00,Active
+2347,Fashion Item 2347,Fashion,1119.00,Active
+2348,Beauty Item 2348,Beauty,1126.00,Discontinued
+2349,Sports Item 2349,Sports,393.00,Active
+2350,Books Item 2350,Books,678.00,Discontinued
+2351,Grocery Item 2351,Grocery,83.00,Discontinued
+2352,Office Item 2352,Office,141.00,Active
+2353,Electronics Item 2353,Electronics,26.00,Discontinued
+2354,Home & Kitchen Item 2354,Home & Kitchen,896.00,Discontinued
+2355,Fashion Item 2355,Fashion,1193.00,Discontinued
+2356,Beauty Item 2356,Beauty,264.00,Active
+2357,Sports Item 2357,Sports,357.00,Active
+2358,Books Item 2358,Books,194.00,Active
+2359,Grocery Item 2359,Grocery,279.00,Active
+2360,Office Item 2360,Office,825.00,Active
+2361,Electronics Item 2361,Electronics,345.00,Active
+2362,Home & Kitchen Item 2362,Home & Kitchen,350.00,Active
+2363,Fashion Item 2363,Fashion,101.00,Discontinued
+2364,Beauty Item 2364,Beauty,1180.00,Discontinued
+2365,Sports Item 2365,Sports,19.00,Discontinued
+2366,Books Item 2366,Books,485.00,Active
+2367,Grocery Item 2367,Grocery,478.00,Active
+2368,Office Item 2368,Office,1166.00,Discontinued
+2369,Electronics Item 2369,Electronics,992.00,Active
+2370,Home & Kitchen Item 2370,Home & Kitchen,1086.00,Active
+2371,Fashion Item 2371,Fashion,794.00,Active
+2372,Beauty Item 2372,Beauty,458.00,Active
+2373,Sports Item 2373,Sports,661.00,Discontinued
+2374,Books Item 2374,Books,1052.00,Active
+2375,Grocery Item 2375,Grocery,713.00,Active
+2376,Office Item 2376,Office,813.00,Active
+2377,Electronics Item 2377,Electronics,1001.00,Active
+2378,Home & Kitchen Item 2378,Home & Kitchen,326.00,Active
+2379,Fashion Item 2379,Fashion,174.00,Active
+2380,Beauty Item 2380,Beauty,774.00,Discontinued
+2381,Sports Item 2381,Sports,1042.00,Active
+2382,Books Item 2382,Books,635.00,Discontinued
+2383,Grocery Item 2383,Grocery,668.00,Active
+2384,Office Item 2384,Office,1119.00,Discontinued
+2385,Electronics Item 2385,Electronics,922.00,Active
+2386,Home & Kitchen Item 2386,Home & Kitchen,1120.00,Discontinued
+2387,Fashion Item 2387,Fashion,355.00,Active
+2388,Beauty Item 2388,Beauty,833.00,Discontinued
+2389,Sports Item 2389,Sports,82.00,Active
+2390,Books Item 2390,Books,69.00,Discontinued
+2391,Grocery Item 2391,Grocery,296.00,Active
+2392,Office Item 2392,Office,754.00,Discontinued
+2393,Electronics Item 2393,Electronics,82.00,Discontinued
+2394,Home & Kitchen Item 2394,Home & Kitchen,763.00,Active
+2395,Fashion Item 2395,Fashion,1072.00,Active
+2396,Beauty Item 2396,Beauty,151.00,Active
+2397,Sports Item 2397,Sports,835.00,Active
+2398,Books Item 2398,Books,185.00,Active
+2399,Grocery Item 2399,Grocery,494.00,Active
+2400,Office Item 2400,Office,691.00,Discontinued
+2401,Electronics Item 2401,Electronics,276.00,Active
+2402,Home & Kitchen Item 2402,Home & Kitchen,957.00,Active
+2403,Fashion Item 2403,Fashion,874.00,Active
+2404,Beauty Item 2404,Beauty,562.00,Active
+2405,Sports Item 2405,Sports,791.00,Active
+2406,Books Item 2406,Books,26.00,Active
+2407,Grocery Item 2407,Grocery,244.00,Active
+2408,Office Item 2408,Office,401.00,Active
+2409,Electronics Item 2409,Electronics,634.00,Active
+2410,Home & Kitchen Item 2410,Home & Kitchen,753.00,Active
+2411,Fashion Item 2411,Fashion,1159.00,Active
+2412,Beauty Item 2412,Beauty,546.00,Active
+2413,Sports Item 2413,Sports,923.00,Discontinued
+2414,Books Item 2414,Books,73.00,Discontinued
+2415,Grocery Item 2415,Grocery,915.00,Active
+2416,Office Item 2416,Office,749.00,Active
+2417,Electronics Item 2417,Electronics,704.00,Active
+2418,Home & Kitchen Item 2418,Home & Kitchen,365.00,Active
+2419,Fashion Item 2419,Fashion,502.00,Active
+2420,Beauty Item 2420,Beauty,975.00,Active
+2421,Sports Item 2421,Sports,745.00,Active
+2422,Books Item 2422,Books,1014.00,Discontinued
+2423,Grocery Item 2423,Grocery,742.00,Active
+2424,Office Item 2424,Office,1067.00,Active
+2425,Electronics Item 2425,Electronics,308.00,Discontinued
+2426,Home & Kitchen Item 2426,Home & Kitchen,197.00,Active
+2427,Fashion Item 2427,Fashion,84.00,Active
+2428,Beauty Item 2428,Beauty,57.00,Discontinued
+2429,Sports Item 2429,Sports,1167.00,Active
+2430,Books Item 2430,Books,1129.00,Active
+2431,Grocery Item 2431,Grocery,169.00,Active
+2432,Office Item 2432,Office,281.00,Active
+2433,Electronics Item 2433,Electronics,615.00,Discontinued
+2434,Home & Kitchen Item 2434,Home & Kitchen,952.00,Active
+2435,Fashion Item 2435,Fashion,896.00,Active
+2436,Beauty Item 2436,Beauty,573.00,Discontinued
+2437,Sports Item 2437,Sports,53.00,Active
+2438,Books Item 2438,Books,312.00,Active
+2439,Grocery Item 2439,Grocery,1080.00,Active
+2440,Office Item 2440,Office,493.00,Active
+2441,Electronics Item 2441,Electronics,1043.00,Active
+2442,Home & Kitchen Item 2442,Home & Kitchen,555.00,Active
+2443,Fashion Item 2443,Fashion,67.00,Active
+2444,Beauty Item 2444,Beauty,1138.00,Discontinued
+2445,Sports Item 2445,Sports,882.00,Active
+2446,Books Item 2446,Books,249.00,Active
+2447,Grocery Item 2447,Grocery,913.00,Active
+2448,Office Item 2448,Office,503.00,Active
+2449,Electronics Item 2449,Electronics,719.00,Active
+2450,Home & Kitchen Item 2450,Home & Kitchen,265.00,Active
+2451,Fashion Item 2451,Fashion,195.00,Active
+2452,Beauty Item 2452,Beauty,812.00,Active
+2453,Sports Item 2453,Sports,679.00,Active
+2454,Books Item 2454,Books,904.00,Active
+2455,Grocery Item 2455,Grocery,276.00,Active
+2456,Office Item 2456,Office,964.00,Active
+2457,Electronics Item 2457,Electronics,1037.00,Active
+2458,Home & Kitchen Item 2458,Home & Kitchen,1034.00,Discontinued
+2459,Fashion Item 2459,Fashion,407.00,Active
+2460,Beauty Item 2460,Beauty,869.00,Discontinued
+2461,Sports Item 2461,Sports,870.00,Active
+2462,Books Item 2462,Books,1012.00,Active
+2463,Grocery Item 2463,Grocery,244.00,Discontinued
+2464,Office Item 2464,Office,108.00,Active
+2465,Electronics Item 2465,Electronics,585.00,Active
+2466,Home & Kitchen Item 2466,Home & Kitchen,613.00,Active
+2467,Fashion Item 2467,Fashion,681.00,Active
+2468,Beauty Item 2468,Beauty,589.00,Discontinued
+2469,Sports Item 2469,Sports,858.00,Discontinued
+2470,Books Item 2470,Books,647.00,Active
+2471,Grocery Item 2471,Grocery,44.00,Active
+2472,Office Item 2472,Office,764.00,Active
+2473,Electronics Item 2473,Electronics,497.00,Active
+2474,Home & Kitchen Item 2474,Home & Kitchen,147.00,Active
+2475,Fashion Item 2475,Fashion,272.00,Discontinued
+2476,Beauty Item 2476,Beauty,1091.00,Active
+2477,Sports Item 2477,Sports,775.00,Active
+2478,Books Item 2478,Books,977.00,Discontinued
+2479,Grocery Item 2479,Grocery,471.00,Active
+2480,Office Item 2480,Office,1155.00,Active
+2481,Electronics Item 2481,Electronics,992.00,Active
+2482,Home & Kitchen Item 2482,Home & Kitchen,866.00,Active
+2483,Fashion Item 2483,Fashion,925.00,Active
+2484,Beauty Item 2484,Beauty,1007.00,Discontinued
+2485,Sports Item 2485,Sports,690.00,Active
+2486,Books Item 2486,Books,277.00,Discontinued
+2487,Grocery Item 2487,Grocery,89.00,Active
+2488,Office Item 2488,Office,1135.00,Active
+2489,Electronics Item 2489,Electronics,604.00,Active
+2490,Home & Kitchen Item 2490,Home & Kitchen,21.00,Active
+2491,Fashion Item 2491,Fashion,1074.00,Active
+2492,Beauty Item 2492,Beauty,261.00,Discontinued
+2493,Sports Item 2493,Sports,366.00,Active
+2494,Books Item 2494,Books,1149.00,Active
+2495,Grocery Item 2495,Grocery,517.00,Active
+2496,Office Item 2496,Office,967.00,Active
+2497,Electronics Item 2497,Electronics,651.00,Discontinued
+2498,Home & Kitchen Item 2498,Home & Kitchen,690.00,Discontinued
+2499,Fashion Item 2499,Fashion,949.00,Active
+2500,Beauty Item 2500,Beauty,87.00,Active
