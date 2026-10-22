@@ -2,6 +2,8 @@
 
 **An e-commerce business analysis project covering customers, payments, deliveries, products, and returns.**
 
+<sub>🔴 Built in Databricks. In the queries, `retailops360` is the catalog and `source` is the schema.</sub>
+
 ## Business problem
 
 Retail teams lack a clear view of unpaid orders, delayed deliveries, inactive customers, and product returns. This makes it difficult to protect revenue, resolve service issues, and prioritize action.
