@@ -2,6 +2,10 @@
 
 ![RetailOps 360 project banner](assets/readme/project-banner-v2.svg)
 
+[![Business problem](https://img.shields.io/badge/Business%20problem-123750?style=for-the-badge)](#business-problem) [![Business value](https://img.shields.io/badge/Business%20value-123750?style=for-the-badge)](#business-value) [![Data model](https://img.shields.io/badge/Data%20model-123750?style=for-the-badge)](#data-model-overview) [![15 questions](https://img.shields.io/badge/15%20questions-123750?style=for-the-badge)](#business-questions) [![Dataset](https://img.shields.io/badge/Dataset-123750?style=for-the-badge)](#dataset) [![Notebooks](https://img.shields.io/badge/Notebooks-123750?style=for-the-badge)](#explore-the-analyses) [![Skills](https://img.shields.io/badge/Skills-123750?style=for-the-badge)](#skills-developed)
+
+[![SQL answers](https://img.shields.io/badge/SQL%20answers-0D9488?style=for-the-badge)](BUSINESS_QUESTIONS_AND_SQL.md)
+
 **An e-commerce business analysis project covering customers, payments, deliveries, products, and returns.**
 
 <sub>🔴 Built in Databricks. In the queries, `retailops360` is the catalog and `source` is the schema.</sub>
@@ -76,6 +80,8 @@ flowchart LR
 ```
 
 **Reading the model:** Each customer has a billing and a shipping address and can have no orders or multiple orders. Each order can have multiple items and payments, with at most one shipment and one return in this dataset. Each return also references a product. See the [data model documentation](data_model/DATA_MODEL.md) for keys and relationships.
+
+<a id="business-questions"></a>
 
 **15 business questions**
 
