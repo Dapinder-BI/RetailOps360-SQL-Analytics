@@ -8,6 +8,13 @@ Retail teams lack a clear view of unpaid orders, delayed deliveries, inactive cu
 
 RetailOps 360 brings these issues together to help teams identify what needs attention and make informed decisions.
 
+## Business value
+
+- **Protect revenue:** Identify unpaid orders and payment discrepancies for follow-up.
+- **Improve customer experience:** Highlight delivery issues and opportunities to re-engage customers.
+- **Support product decisions:** Understand demand and return patterns.
+- **Build confidence in reporting:** Reconcile records and prevent double-counting.
+
 ## Business areas and decisions
 
 | Business area | Decision supported |
