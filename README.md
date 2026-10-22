@@ -1,23 +1,33 @@
 # RetailOps 360 — E-Commerce Operations & Revenue Analytics
 
+![RetailOps 360 project banner](assets/readme/project-banner.svg)
+
 **An e-commerce business analysis project covering customers, payments, deliveries, products, and returns.**
 
 <sub>🔴 Built in Databricks. In the queries, `retailops360` is the catalog and `source` is the schema.</sub>
 
-## Business problem
+<a id="business-problem"></a>
+
+## 🎯 Business problem
 
 Retail teams lack a clear view of unpaid orders, delayed deliveries, inactive customers, and product returns. This makes it difficult to protect revenue, resolve service issues, and prioritize action.
 
 RetailOps 360 brings these issues together to help teams identify what needs attention and make informed decisions.
 
-## Business value
+<a id="business-value"></a>
+
+## 💡 Business value
 
 - **Protect revenue:** Identify unpaid orders and payment discrepancies for follow-up.
 - **Improve customer experience:** Highlight delivery issues and opportunities to re-engage customers.
 - **Support product decisions:** Understand demand and return patterns.
 - **Build confidence in reporting:** Reconcile records and prevent double-counting.
 
-## Business areas and decisions
+![From business questions to decisions](assets/readme/project-workflow.svg)
+
+<a id="business-areas-and-decisions"></a>
+
+## 🧭 Business areas and decisions
 
 | Business area | Decision supported |
 |---|---|
@@ -29,7 +39,9 @@ RetailOps 360 brings these issues together to help teams identify what needs att
 
 These analyses identify patterns and exceptions for review. A missing shipment record does not by itself prove an order was never shipped, and purchase inactivity does not by itself establish customer churn.
 
-## Data model overview
+<a id="data-model-overview"></a>
+
+## 🗂️ Data model overview
 
 Eight connected tables follow the customer journey from purchase to payment, delivery, and returns.
 
@@ -85,7 +97,9 @@ flowchart LR
 | 14 | Which payments cannot be matched to an order, and what is their total value? |
 | 15 | Which orders and payments fail reconciliation because of unmatched records or amount differences? |
 
-## Dataset
+<a id="dataset"></a>
+
+## 📁 Dataset
 
 [Browse the eight CSV files](data/) · [Data model](data_model/DATA_MODEL.md)
 
@@ -97,7 +111,9 @@ The dataset covers customers, orders, products, payments, deliveries, and return
 
 The source data has valid foreign keys. Missing payments, shipments, and other related records are intentional scenarios; integrity checks can return no orphan records.
 
-## Project scope
+<a id="project-scope"></a>
+
+## 📌 Project scope
 
 - **Source:** `retailops360.source`
 - **Dataset:** Synthetic Canadian e-commerce data across 8 related tables
@@ -106,7 +122,9 @@ The source data has valid foreign keys. Missing payments, shipments, and other r
 
 Saved outputs are previews and may not contain the full query results. The dataset, generator, and loading script are linked in the Dataset section.
 
-## Explore the analyses
+<a id="explore-the-analyses"></a>
+
+## 📖 Explore the analyses
 
 **Quick access:** [All 15 business questions and SQL answers](BUSINESS_QUESTIONS_AND_SQL.md)
 
@@ -123,13 +141,17 @@ Open the GitHub notebooks below to read business questions, queries, and saved r
 
 Open the notebook links to read queries and saved results directly on GitHub.
 
-## Measurement approach
+<a id="measurement-approach"></a>
+
+## 📐 Measurement approach
 
 Completed-order value, merchandise value, captured payments, and confirmed deliveries are measured separately. Return records represent requests rather than refunded amounts or confirmed quantities returned.
 
 See the [data model documentation](data_model/DATA_MODEL.md) for table definitions, relationships, and measurement rules.
 
-## Skills developed
+<a id="skills-developed"></a>
+
+## 🛠️ Skills developed
 
 | Skill | Applied in this project |
 |---|---|
@@ -142,7 +164,9 @@ See the [data model documentation](data_model/DATA_MODEL.md) for table definitio
 | Customer and operational analysis | Examined purchase inactivity, delivery delays, product demand, and returns. |
 | Databricks and documentation | Worked with catalogs, schemas, and notebooks; published queries and results on GitHub. |
 
-## Repository structure
+<a id="repository-structure"></a>
+
+## 📂 Repository structure
 
 ```text
 RetailOps360/
