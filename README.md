@@ -126,6 +126,8 @@ Saved outputs are previews and may not contain the full query results. The datas
 
 ## 📖 Explore the analyses
 
+![Explore the analyses: questions, queries, and saved results](assets/readme/analyses-banner.svg)
+
 **Quick access:** [All 15 business questions and SQL answers](BUSINESS_QUESTIONS_AND_SQL.md)
 
 
