@@ -100,23 +100,23 @@ The source data has valid foreign keys. Missing payments, shipments, and other r
 - **Source:** `retailops360.source`
 - **Dataset:** Synthetic Canadian e-commerce data across 8 related tables
 - **Period represented:** January 2024–September 2026
-- **Published work:** 15 business questions across 5 notebooks, with saved result previews and original executed HTML reports
+- **Published work:** 15 business questions across 5 notebooks, with saved result previews and original notebook exports
 
-The notebook copies were reconstructed from executed HTML exports. Saved outputs are previews and may not contain the full query results. The dataset, generator, and loading script are linked in the Dataset section.
+Saved outputs are previews and may not contain the full query results. The dataset, generator, and loading script are linked in the Dataset section.
 
 ## Explore the analyses
 
 Open the GitHub notebooks below to read business questions, queries, and saved result previews. The [original notebook exports](notebooks/original_exports/) also preserve the supplied queries and saved outputs for download.
 
-| Questions | GitHub notebook | Original report |
-|---|---|---|
-| 01–03 | [Customer & Sales Performance](notebooks/01_Customer_Sales_Performance_Analysis.ipynb) | [HTML report](notebook_reports/01_Customer_Sales_Performance_Analysis.html) |
-| 04–06 | [Revenue & Payment Reconciliation](notebooks/02_Revenue_Payment_Reconciliation_Analysis.ipynb) | [HTML report](notebook_reports/02_Revenue_Payment_Reconciliation_Analysis.html) |
-| 07–09 | [Fulfillment & Delivery Performance](notebooks/03_Fulfillment_Delivery_Performance_Analysis.ipynb) | [HTML report](notebook_reports/03_Fulfillment_Delivery_Performance_Analysis.html) |
-| 10–12 | [Product & Returns Performance](notebooks/04_Product_Returns_Performance_Analysis.ipynb) | [HTML report](notebook_reports/04_Product_Returns_Performance_Analysis.html) |
-| 13–15 | [Data Quality & Order Integrity](notebooks/05_Data_Quality_Order_Integrity_Analysis.ipynb) | [HTML report](notebook_reports/05_Data_Quality_Order_Integrity_Analysis.html) |
+| Questions | GitHub notebook |
+|---|---|
+| 01–03 | [Customer & Sales Performance](notebooks/01_Customer_Sales_Performance_Analysis.ipynb) |
+| 04–06 | [Revenue & Payment Reconciliation](notebooks/02_Revenue_Payment_Reconciliation_Analysis.ipynb) |
+| 07–09 | [Fulfillment & Delivery Performance](notebooks/03_Fulfillment_Delivery_Performance_Analysis.ipynb) |
+| 10–12 | [Product & Returns Performance](notebooks/04_Product_Returns_Performance_Analysis.ipynb) |
+| 13–15 | [Data Quality & Order Integrity](notebooks/05_Data_Quality_Order_Integrity_Analysis.ipynb) |
 
-GitHub's source view does not render the HTML reports. Open the notebook links to read queries and results directly on GitHub.
+Open the notebook links to read queries and saved results directly on GitHub.
 
 ## Measurement approach
 
@@ -134,16 +134,13 @@ RetailOps360/
 ├── scripts/  [generator and loading script]
 ├── data_model/
 │   └── DATA_MODEL.md
-├── notebooks/
-│   ├── 01_Customer_Sales_Performance_Analysis.ipynb
-│   ├── 02_Revenue_Payment_Reconciliation_Analysis.ipynb
-│   ├── 03_Fulfillment_Delivery_Performance_Analysis.ipynb
-│   ├── 04_Product_Returns_Performance_Analysis.ipynb
-│   └── 05_Data_Quality_Order_Integrity_Analysis.ipynb
-│   └── original_exports/  [supplied notebooks with saved outputs]
-└── notebook_reports/
-    ├── index.html
-    └── [5 executed HTML reports]
+└── notebooks/
+    ├── 01_Customer_Sales_Performance_Analysis.ipynb
+    ├── 02_Revenue_Payment_Reconciliation_Analysis.ipynb
+    ├── 03_Fulfillment_Delivery_Performance_Analysis.ipynb
+    ├── 04_Product_Returns_Performance_Analysis.ipynb
+    ├── 05_Data_Quality_Order_Integrity_Analysis.ipynb
+    └── original_exports/  [supplied notebooks with saved outputs]
 ```
 
 _All data is synthetic and does not represent transactions or customers of a real company. No business improvement or financial impact is claimed without supporting evidence._
