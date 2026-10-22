@@ -20,6 +20,41 @@ RetailOps 360 brings these issues together to help teams identify what needs att
 
 These analyses identify patterns and exceptions for review. A missing shipment record does not by itself prove an order was never shipped, and purchase inactivity does not by itself establish customer churn.
 
+## Data model overview
+
+Eight connected tables follow the customer journey from purchase to payment, delivery, and returns.
+
+```mermaid
+flowchart LR
+    C["CUSTOMERS<br/>One record per customer"]
+    A["CUSTOMER ADDRESSES<br/>One record per saved address"]
+    O["ORDERS<br/>One record per order"]
+    I["ORDER ITEMS<br/>One record per order line"]
+    P["PRODUCTS<br/>One record per product"]
+    PAY["PAYMENTS<br/>One record per transaction"]
+    S["SHIPMENTS<br/>One record per shipment"]
+    R["RETURNS<br/>One record per return"]
+
+    C -->|"1 → many"| A
+    C -->|"1 → many"| O
+    O -->|"1 → many"| I
+    P -->|"1 → many"| I
+    O -->|"1 → many"| PAY
+    O -->|"1 → many"| S
+    O -.->|"1 → many · conceptual"| R
+
+    classDef customer fill:#EFF6FF,stroke:#2563EB,color:#172554,stroke-width:1.5px;
+    classDef order fill:#0F172A,stroke:#0F172A,color:#FFFFFF,stroke-width:2px;
+    classDef product fill:#F0FDFA,stroke:#0D9488,color:#134E4A,stroke-width:1.5px;
+    classDef operation fill:#F8FAFC,stroke:#64748B,color:#1E293B,stroke-width:1.5px;
+    class C,A customer;
+    class O order;
+    class I,P product;
+    class PAY,S,R operation;
+```
+
+**Reading the model:** One customer can have many orders; each order can have multiple items, payments, and shipments. The dashed return relationship is conceptual; its exact linkage requires confirmation. See the [data model documentation](data_model/DATA_MODEL.md) for details.
+
 ## Project scope and status
 
 - **Source:** `retailops360.source`
