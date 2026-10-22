@@ -1,74 +1,51 @@
-# RetailOps 360 | Source data model
+# RetailOps 360 — Data model
 
-**Dataset:** Eight synthetic CSV tables, January 2024–September 2026. All names and transactions are fictional. Prices are in CAD. Source data is deliberately denormalized only where business-friendly (order_amount is a header total); it is not a real company dataset.
+Eight related tables support the customer, payment, fulfillment, product, and data integrity analyses in the [project overview](../README.md). The data is synthetic, and monetary values are in CAD.
 
-## Entity relationship diagram
+## Tables and keys
 
-```mermaid
-erDiagram
- customers ||--o{ orders : places
- customers ||--o{ customer_addresses : has
- orders ||--|{ order_items : contains
- products ||--o{ order_items : appears_in
- orders ||--o{ payments : receives
- orders ||--o| shipments : fulfills
- orders ||--o| returns : receives
- products ||--o{ returns : concerns
-```
+Each row represents the business record described below. Keys describe the logical relationships in the dataset; the setup script does not declare database key constraints.
 
-## Table grain and keys
-
-| Table | Primary key | Foreign key(s) | Grain |
+| Table | One row represents | Identifier | Related keys |
 |---|---|---|---|
-| customers | customer_id | — | one registered customer |
-| products | product_id | — | one catalog product |
-| customer_addresses | address_id | customer_id → customers | one address type per customer |
-| orders | order_id | customer_id → customers | one placed order |
-| order_items | order_item_id | order_id → orders, product_id → products | one order line |
-| payments | payment_id | order_id → orders | one captured payment transaction |
-| shipments | shipment_id | order_id → orders | one shipment/delivery record |
-| returns | return_id | order_id → orders, product_id → products | one return request |
+| `customers` | A registered customer | `customer_id` | — |
+| `customer_addresses` | A customer's saved billing or shipping address | `address_id` | `customer_id` → customers |
+| `orders` | A customer order | `order_id` | `customer_id` → customers |
+| `order_items` | A product line within an order | `order_item_id` | `order_id` → orders; `product_id` → products |
+| `products` | A catalog product | `product_id` | — |
+| `payments` | A payment transaction | `payment_id` | `order_id` → orders |
+| `shipments` | An order's shipment record | `shipment_id` | `order_id` → orders |
+| `returns` | A return request for a product on an order | `return_id` | `order_id` → orders; `product_id` → products |
 
-## Relationships and grain cautions
+## Relationships
 
-- `customers` → `orders`: 1:M; some registered customers have no orders by design.
-- `orders` → `order_items`: 1:M, between 1 and 4 lines per order.
-- `products` → `order_items`: 1:M; some products are never ordered.
-- `orders` → `payments`: 1:M; some orders have no payments, and some have split payments. Sum payments **by order** before joining to order-level totals.
-- `orders` → `shipments`: 1:0..1; some completed orders have no shipment record; `delivered_date` is populated only for delivered shipments.
-- `orders` → `returns`: 1:0..1; `returns.product_id` identifies a product present on the order.
-- `customers` → `customer_addresses`: 1:2, one Billing and one Shipping address per customer. Joining both types without role filters multiplies rows.
+The [README diagram](../README.md#data-model-overview) provides the visual overview. These relationships describe the supplied dataset.
 
-## Important fields
+| Parent → related table | Relationship |
+|---|---|
+| Customers → Customer addresses | Each customer has one billing and one shipping address. |
+| Customers → Orders | A customer can have no orders or multiple orders. Each order belongs to one customer. |
+| Orders → Order items | Each order contains one or more product lines. |
+| Products → Order items | A product can appear on no order lines or multiple order lines. |
+| Orders → Payments | An order can have no payments or multiple payment transactions. |
+| Orders → Shipments | An order has no shipment record or one shipment record. |
+| Orders → Returns | An order has no return request or one return request. |
+| Products → Returns | A product can appear in no return requests or multiple return requests. |
 
-- `orders.order_amount`: order-header merchandise total, calculated as SUM(order_items.quantity * order_items.unit_price); no tax or shipping fee.
-- `orders.order_status`: Completed / Pending / Cancelled.
-- `payments.payment_amount`: captured amount; deliberately includes underpayment and overpayment cases.
-- `shipments.delivered_date`: actual delivery date when `shipment_status='Delivered'`.
-- `orders.expected_delivery_date`: target date, suitable for on-time delivery comparison.
-- `returns.return_status`: Approved / Requested / Rejected; not every return request should reduce recognized sales.
-- `customers.signup_date`, `orders.order_date`: useful for customer cohort and monthly revenue dashboard trends.
+A return references both an order and a product on that order. It does not link directly to `order_item_id`.
 
-## Analysis scenarios
+## Measurement rules
 
-1. INNER/LEFT/RIGHT/FULL OUTER JOIN examples.
-2. LEFT SEMI/ANTI JOIN examples: customers without orders, products without sales, orders without payments.
-3. Multi-table joins: orders, customers, order_items, products.
-4. One-to-many row multiplication: split payments and multiple order items.
-5. GROUP BY and HAVING: multiple payments, top customers and categories.
-6. NULL handling: missing delivery dates for undelivered shipments.
-7. Status and date filtering: completed orders, late deliveries, order periods.
-8. End-to-end reconciliation: payment amount vs order amount, shipping exceptions, returns.
+- **Completed-order value:** Sum `orders.order_amount` for orders marked `Completed`, counting each order once. The amount equals the sum of quantity × unit price across its order lines and excludes tax and shipping fees.
+- **Merchandise value:** Use `order_items.quantity × order_items.unit_price` for product and category analysis. Apply the same completed-order filter when comparing with completed-order value.
+- **Captured payments:** Sum `payments.payment_amount` where `payment_status = 'Captured'`. Aggregate by order before comparing with `orders.order_amount`; payment totals and order value are separate measures.
+- **Delivery confirmation:** Use `shipments.shipment_status = 'Delivered'`. Compare `delivered_date` with `orders.expected_delivery_date` to identify late deliveries. Order completion and payment do not establish delivery.
+- **Returns:** Each record is a request, with status `Approved`, `Requested`, or `Rejected`. The table has no returned quantity or refund amount, so request counts do not establish units returned or money refunded.
 
-**Data-quality scope:** All foreign keys in the source dataset are valid. Missing related records are intentional scenarios for payment, fulfillment, and reconciliation analysis.
+## Joining and interpreting the data
 
-## Dashboard-ready subject areas
+Aggregate order items and payments separately to order level before combining their totals. Joining both detail tables directly can multiply records and overstate amounts. Filter addresses to Billing or Shipping when one address per customer is needed.
 
-- Revenue: completed order amount by month, channel, geography.
-- Customers: registered vs purchasing, acquisition channel, average order value.
-- Products: units and merchandise revenue by category, never-sold products.
-- Payments: fully paid / underpaid / overpaid / unpaid order classification.
-- Fulfillment: delivered share, late deliveries, missing shipments.
-- Returns: requests by reason and approval status.
+Missing payments or shipment records are intentional business scenarios. Foreign keys in the supplied dataset are valid, so orphan-record checks may return no exceptions. A missing shipment record indicates a review item; it does not prove the order was never shipped.
 
-**Critical dashboard rule:** Calculate order revenue at order grain. Joining order headers directly to order lines or split payment transactions and summing `order_amount` will inflate revenue.
+See the [dataset guide](../data/README.md) for loading instructions and the [setup script](../scripts/setup_databricks.sql) for column definitions.
