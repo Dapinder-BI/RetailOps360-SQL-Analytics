@@ -1,6 +1,6 @@
 # RetailOps 360 — E-Commerce Operations & Revenue Analytics
 
-![RetailOps 360 project banner](assets/readme/project-banner.svg)
+![RetailOps 360 project banner](assets/readme/project-banner-v2.svg)
 
 **An e-commerce business analysis project covering customers, payments, deliveries, products, and returns.**
 
