@@ -12,7 +12,7 @@ RetailOps 360 uses a synthetic, relational e-commerce dataset to explore practic
 - **Timeline represented:** January 2024–September 2026
 - **Scope:** 15 business questions across 5 analysis notebooks
 
-> **Status:** Executed HTML reports for Notebooks 01–03 are published. Source notebook exports, remaining analyses, and dashboard are planned. No query outputs are fabricated.
+> **Status:** All five executed HTML reports and GitHub-readable notebooks are published. Source notebook exports, remaining analyses, and dashboard are planned. No query outputs are fabricated.
 
 ## Business investigations
 
@@ -43,21 +43,25 @@ RetailOps360-SQL-Analytics/
 
 ## View notebooks directly on GitHub
 
-GitHub renders the following Jupyter notebook files with Markdown explanations, SQL code, and saved result previews:
+GitHub renders these notebook files with Markdown business questions, SQL code, and saved result previews. All five reflect the latest supplied Databricks HTML exports.
 
-- [Notebook 01 — Customer & Sales Performance (view code and results)](notebooks/01_Customer_Sales_Performance_Analysis.ipynb)
-- [Notebook 02 — Revenue & Payment Reconciliation (view code and results)](notebooks/02_Revenue_Payment_Reconciliation_Analysis.ipynb)
-- [Notebook 03 — Fulfillment & Delivery Performance (view code and results)](notebooks/03_Fulfillment_Delivery_Performance_Analysis.ipynb)
+- [Notebook 01 — Customer & Sales Performance (Questions 01–03)](notebooks/01_Customer_Sales_Performance_Analysis.ipynb)
+- [Notebook 02 — Revenue & Payment Reconciliation (Questions 04–06)](notebooks/02_Revenue_Payment_Reconciliation_Analysis.ipynb)
+- [Notebook 03 — Fulfillment & Delivery Performance (Questions 07–09)](notebooks/03_Fulfillment_Delivery_Performance_Analysis.ipynb)
+- [Notebook 04 — Product & Returns Performance (Questions 10–12)](notebooks/04_Product_Returns_Performance_Analysis.ipynb)
+- [Notebook 05 — Data Quality & Order Integrity (Questions 13–15)](notebooks/05_Data_Quality_Order_Integrity_Analysis.ipynb)
 
-These GitHub-viewable copies were reconstructed from the original Databricks HTML exports. Table previews are capped at 100 rows for readability; original exports remain in `notebook_reports/`. The notebook cells contain `%sql` commands as used in Databricks.
+Each GitHub-readable notebook preserves the SQL and up to 100 saved result rows per query. Original executed Databricks HTML exports are in [notebook_reports](notebook_reports/).
 
-## Executed Databricks HTML notebooks
+## Original Databricks HTML exports
 
-- [Notebook 01 — Customer & Sales Performance Analysis](notebook_reports/01_Customer_Sales_Performance_Analysis.html) — Questions 01–03, SQL and exported query results.
-- [Notebook 02 — Revenue & Payment Reconciliation Analysis](notebook_reports/02_Revenue_Payment_Reconciliation_Analysis.html) — Questions 04–06, SQL and exported query results.
-- [Notebook 03 — Fulfillment & Delivery Performance Analysis](notebook_reports/03_Fulfillment_Delivery_Performance_Analysis.html) — Questions 07–09, SQL and exported query results.
+- [Customer & Sales Performance](notebook_reports/01_Customer_Sales_Performance_Analysis.html)
+- [Revenue & Payment Reconciliation](notebook_reports/02_Revenue_Payment_Reconciliation_Analysis.html)
+- [Fulfillment & Delivery Performance](notebook_reports/03_Fulfillment_Delivery_Performance_Analysis.html)
+- [Product & Returns Performance](notebook_reports/04_Product_Returns_Performance_Analysis.html)
+- [Data Quality & Order Integrity](notebook_reports/05_Data_Quality_Order_Integrity_Analysis.html)
 
-**View notebooks as rendered webpages:** Enable GitHub Pages in repository Settings → Pages, selecting *Deploy from a branch*, *main*, and */ (root)*. After the site is published, open `https://dapinder-bi.github.io/RetailOps360-SQL-Analytics/notebook_reports/` to browse the original HTML exports with their saved SQL and results. Ordinary GitHub `blob` links show HTML source rather than rendering it. HTML reports are supplementary to editable notebook source files still to be added.
+GitHub's source-code view does not render HTML; use the GitHub-rendered `.ipynb` links above to see queries and results directly in the repository.
 
 ## Data model
 
@@ -74,7 +78,7 @@ Eight tables: `customers`, `customer_addresses`, `products`, `orders`, `order_it
 ## Roadmap
 
 1. Validate source data and relationships in Databricks.
-2. Complete and export Notebooks 01–03.
+2. Complete and export all five business analysis notebooks (completed).
 3. Complete the remaining three analysis notebooks.
 4. Validate KPI calculations, NULL handling, and JOIN cardinalities.
 5. Develop a Databricks AI/BI dashboard.
