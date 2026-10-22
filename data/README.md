@@ -1,6 +1,6 @@
-# RetailOps 360 — Databricks source dataset
+# RetailOps 360 — Source dataset
 
-This package contains **8 CSV datasets (311,025 rows)**, a data model, a reproducible generator, and a Databricks SQL table setup script. It is designed for the Phase 1 JOINs/relationships SQL case study and a Databricks AI/BI dashboard.
+This dataset supports the RetailOps 360 e-commerce analysis project. It includes eight CSV tables, a data model, a reproducible generator, and a table setup script.
 
 ## Suggested Databricks namespace
 
