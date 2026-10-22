@@ -35,14 +35,14 @@ flowchart LR
     S["SHIPMENTS<br/>One record per shipment"]
     R["RETURNS<br/>One record per return"]
 
-    C -->|"1 → many"| A
-    C -->|"1 → many"| O
+    C -->|"1 → 2 address types"| A
+    C -->|"1 → 0 or many"| O
     O -->|"1 → many"| I
-    P -->|"1 → many"| I
-    O -->|"1 → many"| PAY
+    P -->|"1 → 0 or many"| I
+    O -->|"1 → 0 or many"| PAY
     O -->|"1 → 0 or 1"| S
     O -->|"1 → 0 or 1"| R
-    P -->|"1 → many"| R
+    P -->|"1 → 0 or many"| R
 
     classDef customer fill:#EFF6FF,stroke:#2563EB,color:#172554,stroke-width:1.5px;
     classDef order fill:#0F172A,stroke:#0F172A,color:#FFFFFF,stroke-width:2px;
@@ -54,7 +54,7 @@ flowchart LR
     class PAY,S,R operation;
 ```
 
-**Reading the model:** One customer can have many orders and two saved address types. Each order can have multiple items and payments, with at most one shipment and one return in this dataset. Each return also references a product. See the [data model documentation](data_model/DATA_MODEL.md) for keys and relationships.
+**Reading the model:** Each customer has a billing and a shipping address and can have no orders or multiple orders. Each order can have multiple items and payments, with at most one shipment and one return in this dataset. Each return also references a product. See the [data model documentation](data_model/DATA_MODEL.md) for keys and relationships.
 
 **15 business questions**
 
@@ -109,18 +109,11 @@ GitHub renders the notebooks with business questions, analysis, and saved result
 
 GitHub's source view does not render the HTML reports. Open the notebook links to read queries and results directly on GitHub.
 
-## Data model and measurement approach
+## Measurement approach
 
-The dataset contains `customers`, `customer_addresses`, `products`, `orders`, `order_items`, `payments`, `shipments`, and `returns`. See the [source data model](data_model/DATA_MODEL.md) for intended table grain and conceptual relationships.
+Completed-order value, merchandise value, captured payments, and confirmed deliveries are measured separately. Return records represent requests rather than refunded amounts or confirmed quantities returned.
 
-Reliable analysis depends on keeping the measures distinct:
-
-- **Completed-order value:** Order amounts for orders meeting the analysis's completed-status criteria.
-- **Merchandise value:** Order-line value used to analyze products and categories.
-- **Captured payments:** Eligible payment transactions used to reconcile money collected against order amounts.
-- **Delivery confirmation:** Shipment records marked as delivered, evaluated separately from order and payment status.
-
-Aggregate one-to-many records at the required grain before joining. Multiple payments or shipments can be valid operational events; investigate them in context. Validate status values, NULL handling, return linkage, and date filters before interpreting results.
+See the [data model documentation](data_model/DATA_MODEL.md) for table definitions, relationships, and measurement rules.
 
 ## Repository structure
 
