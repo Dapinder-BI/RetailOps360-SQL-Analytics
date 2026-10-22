@@ -54,7 +54,7 @@ flowchart LR
     class PAY,S,R operation;
 ```
 
-**Reading the model:** One customer can have many orders and two saved address types. Each order can have multiple items and payments, with at most one shipment and one return in this dataset. Each return also references a product. See the [data model documentation](data_model/DATA_MODEL.md) for keys, relationships, and row counts.
+**Reading the model:** One customer can have many orders and two saved address types. Each order can have multiple items and payments, with at most one shipment and one return in this dataset. Each return also references a product. See the [data model documentation](data_model/DATA_MODEL.md) for keys and relationships.
 
 **15 business questions**
 
@@ -76,9 +76,9 @@ flowchart LR
 
 ## Dataset
 
-[Browse the eight CSV files](data/) · [Data model and row counts](data_model/DATA_MODEL.md)
+[Browse the eight CSV files](data/) · [Data model](data_model/DATA_MODEL.md)
 
-The supplied dataset contains **311,025 synthetic records**. All customer names and transactions are fictional; monetary values are in CAD.
+The dataset covers customers, orders, products, payments, deliveries, and returns. All customer names and transactions are fictional; monetary values are in CAD.
 
 - [Dataset guide](data/README.md)
 - [Reproducible data generator](scripts/generate.py)
@@ -86,15 +86,14 @@ The supplied dataset contains **311,025 synthetic records**. All customer names 
 
 The source data has valid foreign keys. Missing payments, shipments, and other related records are intentional scenarios; integrity checks can return no orphan records.
 
-## Project scope and status
+## Project scope
 
 - **Source:** `retailops360.source`
-- **Dataset:** Synthetic Canadian e-commerce data across 8 related tables; approximately 311,025 rows in the prepared dataset
+- **Dataset:** Synthetic Canadian e-commerce data across 8 related tables
 - **Period represented:** January 2024–September 2026
 - **Published work:** 15 business questions across 5 notebooks, with saved result previews and original executed HTML reports
-- **Planned:** business performance dashboard and a consolidated findings summary
 
-The notebook copies were reconstructed from executed HTML exports. Saved tabular previews contain up to 100 rows per query; preview row counts should not be treated as full result counts. The dataset, generator, and loading script are linked in the Dataset section.
+The notebook copies were reconstructed from executed HTML exports. Saved outputs are previews and may not contain the full query results. The dataset, generator, and loading script are linked in the Dataset section.
 
 ## Explore the analyses
 
@@ -139,17 +138,9 @@ RetailOps360/
 │   ├── 03_Fulfillment_Delivery_Performance_Analysis.ipynb
 │   ├── 04_Product_Returns_Performance_Analysis.ipynb
 │   └── 05_Data_Quality_Order_Integrity_Analysis.ipynb
-├── notebook_reports/
-│   ├── index.html
-│   └── [5 executed HTML reports]
-└── dashboard/
-    └── screenshots/  [placeholder for planned dashboard]
+└── notebook_reports/
+    ├── index.html
+    └── [5 executed HTML reports]
 ```
-
-## Next steps
-
-1. Consolidate validated findings, exception counts, and business recommendations from the five published analyses.
-2. Document KPI definitions and validate the supplied setup workflow.
-3. Build a business performance dashboard and add screenshots.
 
 _All data is synthetic and does not represent transactions or customers of a real company. No business improvement or financial impact is claimed without supporting evidence._
