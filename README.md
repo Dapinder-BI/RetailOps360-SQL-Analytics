@@ -106,7 +106,7 @@ The notebook copies were reconstructed from executed HTML exports. Saved outputs
 
 ## Explore the analyses
 
-GitHub renders the notebooks with business questions, analysis, and saved result previews.
+Open the GitHub notebooks below to read business questions, queries, and saved result previews. The [original notebook exports](notebooks/original_exports/) also preserve the supplied queries and saved outputs for download.
 
 | Questions | GitHub notebook | Original report |
 |---|---|---|
@@ -140,6 +140,7 @@ RetailOps360/
 │   ├── 03_Fulfillment_Delivery_Performance_Analysis.ipynb
 │   ├── 04_Product_Returns_Performance_Analysis.ipynb
 │   └── 05_Data_Quality_Order_Integrity_Analysis.ipynb
+│   └── original_exports/  [supplied notebooks with saved outputs]
 └── notebook_reports/
     ├── index.html
     └── [5 executed HTML reports]
