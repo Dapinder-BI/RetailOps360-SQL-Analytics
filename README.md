@@ -106,6 +106,9 @@ Saved outputs are previews and may not contain the full query results. The datas
 
 ## Explore the analyses
 
+**Quick access:** [All 15 business questions and SQL answers](BUSINESS_QUESTIONS_AND_SQL.md)
+
+
 Open the GitHub notebooks below to read business questions, queries, and saved result previews. The [original notebook exports](notebooks/original_exports/) also preserve the supplied queries and saved outputs for download.
 
 | Questions | GitHub notebook |
@@ -129,6 +132,7 @@ See the [data model documentation](data_model/DATA_MODEL.md) for table definitio
 ```text
 RetailOps360/
 ├── README.md
+├── BUSINESS_QUESTIONS_AND_SQL.md
 ├── index.html
 ├── data/  [8 CSV files and dataset guide]
 ├── scripts/  [generator and loading script]
