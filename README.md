@@ -129,6 +129,19 @@ Completed-order value, merchandise value, captured payments, and confirmed deliv
 
 See the [data model documentation](data_model/DATA_MODEL.md) for table definitions, relationships, and measurement rules.
 
+## Skills developed
+
+| Skill | Applied in this project |
+|---|---|
+| Business analysis | Translated business problems into 15 focused analytical questions. |
+| Data relationships and joins | Connected related tables using inner, outer, semi, and anti joins. |
+| Aggregation and CTEs | Built grouped summaries and structured multi-step queries. |
+| Payment reconciliation | Compared captured payments with order amounts to identify discrepancies. |
+| Accurate measurement | Preserved table grain and prevented double-counting across joins. |
+| Data quality checks | Checked missing relationships, unmatched records, and order integrity. |
+| Customer and operational analysis | Examined purchase inactivity, delivery delays, product demand, and returns. |
+| Databricks and documentation | Worked with catalogs, schemas, and notebooks; published queries and results on GitHub. |
+
 ## Repository structure
 
 ```text
