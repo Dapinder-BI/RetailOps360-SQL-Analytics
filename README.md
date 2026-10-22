@@ -1,6 +1,6 @@
 # RetailOps 360 — E-Commerce Operations & Revenue Analytics
 
-![RetailOps 360 project banner](assets/readme/project-banner-v2.svg)
+![RetailOps 360 project banner](data_model/assets/project-banner-v2.svg)
 
 [![Business problem](https://img.shields.io/badge/Business%20problem-123750?style=for-the-badge)](#business-problem) [![Business value](https://img.shields.io/badge/Business%20value-123750?style=for-the-badge)](#business-value) [![Data model](https://img.shields.io/badge/Data%20model-123750?style=for-the-badge)](#data-model-overview) [![15 questions](https://img.shields.io/badge/15%20questions-123750?style=for-the-badge)](#business-questions) [![Dataset](https://img.shields.io/badge/Dataset-123750?style=for-the-badge)](#dataset) [![Notebooks](https://img.shields.io/badge/Notebooks-123750?style=for-the-badge)](#explore-the-analyses) [![Skills](https://img.shields.io/badge/Skills-123750?style=for-the-badge)](#skills-developed)
 
@@ -27,7 +27,7 @@ RetailOps 360 brings these issues together to help teams identify what needs att
 - **Support product decisions:** Understand demand and return patterns.
 - **Build confidence in reporting:** Reconcile records and prevent double-counting.
 
-![From business questions to decisions](assets/readme/project-workflow.svg)
+![From business questions to decisions](data_model/assets/project-workflow.svg)
 
 <a id="business-areas-and-decisions"></a>
 
@@ -132,7 +132,7 @@ Saved outputs are previews and may not contain the full query results. The datas
 
 ## 📖 Explore the analyses
 
-![Explore the analyses: questions, queries, and saved results](assets/readme/analyses-banner.svg)
+![Explore the analyses: questions, queries, and saved results](data_model/assets/analyses-banner.svg)
 
 **Quick access:** [All 15 business questions and SQL answers](BUSINESS_QUESTIONS_AND_SQL.md)
 
