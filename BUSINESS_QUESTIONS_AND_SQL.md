@@ -2,6 +2,8 @@
 
 All 15 business questions and their original query cells, collected from the [original notebooks](notebooks/original_exports/). Query text, including any `%sql` cell directive, is preserved exactly. Open the notebooks to view saved results.
 
+<sub>🔴 Built in Databricks. In the queries, `retailops360` is the catalog and `source` is the schema.</sub>
+
 **Quick navigation**
 
 | No. | Analysis |
