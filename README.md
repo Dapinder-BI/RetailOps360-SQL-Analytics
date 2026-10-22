@@ -8,15 +8,15 @@ Retail teams lack a clear view of unpaid orders, delayed deliveries, inactive cu
 
 RetailOps 360 brings these issues together to help teams identify what needs attention and make informed decisions.
 
-## Business questions and decisions
+## Business areas and decisions
 
-| Business area | Questions investigated | Decision supported |
-|---|---|---|
-| Customer & Sales | Who are the top customers by completed-order value? Who has never ordered? Which 2025 buyers have no completed purchases in 2026? | Prioritize customer relationship, activation, and re-engagement efforts. |
-| Revenue & Payments | Which orders have multiple payments? Which are unpaid, underpaid, fully paid, or overpaid? How can joins inflate reported order value? | Prioritize reconciliation exceptions and improve the reliability of financial reporting. |
-| Fulfillment & Delivery | Which completed orders have no shipment? Which deliveries arrived late? Which fully paid orders have no confirmed delivery? | Identify orders for fulfillment review and customer follow-up. |
-| Products & Returns | Which categories drive merchandise value and units sold? Which products have no orders? Which products have high return rates? | Guide assortment reviews and investigate return patterns. |
-| Data Quality & Integrity | Which orders lack valid customers? Which payments lack valid orders? Which records or amounts fail reconciliation? | Prioritize data corrections and strengthen reporting controls. |
+| Business area | Decision supported |
+|---|---|
+| Customer & Sales | Prioritize customer activation, retention, and re-engagement. |
+| Revenue & Payments | Resolve payment discrepancies and improve revenue reporting. |
+| Fulfillment & Delivery | Prioritize delayed or unshipped orders and customer follow-up. |
+| Products & Returns | Review product demand, assortment, and high return rates. |
+| Data Quality & Integrity | Correct unmatched records and improve reporting accuracy. |
 
 These analyses identify patterns and exceptions for review. A missing shipment record does not by itself prove an order was never shipped, and purchase inactivity does not by itself establish customer churn.
 
