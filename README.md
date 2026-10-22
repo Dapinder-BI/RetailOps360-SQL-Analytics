@@ -61,13 +61,13 @@ flowchart LR
     R["RETURNS<br/>One record per return"]
 
     C -->|"1 → 2 address types"| A
-    C -->|"1 → 0 or many"| O
+    C -->|"1 → many"| O
     O -->|"1 → many"| I
-    P -->|"1 → 0 or many"| I
-    O -->|"1 → 0 or many"| PAY
+    P -->|"1 → many"| I
+    O -->|"1 → many"| PAY
     O -->|"1 → 0 or 1"| S
     O -->|"1 → 0 or 1"| R
-    P -->|"1 → 0 or many"| R
+    P -->|"1 → many"| R
 
     classDef customer fill:#EFF6FF,stroke:#2563EB,color:#172554,stroke-width:1.5px;
     classDef order fill:#0F172A,stroke:#0F172A,color:#FFFFFF,stroke-width:2px;
