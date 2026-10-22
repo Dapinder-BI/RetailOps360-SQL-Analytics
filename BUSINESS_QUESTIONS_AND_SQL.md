@@ -1,5 +1,7 @@
 # RetailOps 360 — Business Questions & SQL Answers
 
+[← Back to the project overview](README.md#explore-the-analyses)
+
 All 15 business questions and their original query cells, collected from the [original notebooks](notebooks/original_exports/). Query text, including any `%sql` cell directive, is preserved exactly. Open the notebooks to view saved results.
 
 <sub>🔴 Built in Databricks. In the queries, `retailops360` is the catalog and `source` is the schema.</sub>
@@ -223,6 +225,8 @@ FROM correct_revenue AS c
 CROSS JOIN incorrect_revenue AS i;
 ```
 
+*Interpretation:* The inner join both repeats orders with multiple payments and excludes orders without payments. The reported difference is the net effect of both, rather than duplication alone.
+
 <a id="question-07"></a>
 
 ### 07. Completed Orders Without Shipments
@@ -382,7 +386,7 @@ ORDER BY p.category, p.product_name;
 
 ### 12. Product Return Rate Analysis
 
-**Question:** Which products have the highest return rates relative to the units sold, and how do those rates vary by product category?
+**Question:** Which products have the highest approved-return rates by completed order, and which categories do they belong to?
 
 **SQL answer** · [Source notebook](notebooks/original_exports/04_Product_Returns_Performance_Analysis.ipynb)
 

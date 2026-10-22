@@ -40,7 +40,7 @@ A return references both an order and a product on that order. It does not link 
 - **Merchandise value:** Use `order_items.quantity × order_items.unit_price` for product and category analysis. Apply the same completed-order filter when comparing with completed-order value.
 - **Captured payments:** Sum `payments.payment_amount` where `payment_status = 'Captured'`. Aggregate by order before comparing with `orders.order_amount`; payment totals and order value are separate measures.
 - **Delivery confirmation:** Use `shipments.shipment_status = 'Delivered'`. Compare `delivered_date` with `orders.expected_delivery_date` to identify late deliveries. Order completion and payment do not establish delivery.
-- **Returns:** Each record is a request, with status `Approved`, `Requested`, or `Rejected`. The table has no returned quantity or refund amount, so request counts do not establish units returned or money refunded.
+- **Returns:** Each record is a request, with status `Approved`, `Requested`, or `Rejected`. The product return-rate query divides completed orders with an approved return for a product by completed orders containing that product. The table has no returned quantity or refund amount, so this is an order-based rate, not a unit-based or refund rate.
 
 ## Joining and interpreting the data
 

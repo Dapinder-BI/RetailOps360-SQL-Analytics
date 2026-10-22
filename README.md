@@ -98,7 +98,7 @@ flowchart LR
 | 9 | Which fully paid, completed orders have no confirmed delivery? |
 | 10 | Which product categories have the highest merchandise value and units sold from completed orders? |
 | 11 | Which products have never appeared in a customer order? |
-| 12 | Which products have the highest return rates, and how do rates vary by category? |
+| 12 | Which products have the highest approved-return rates by completed order, and which categories do they belong to? |
 | 13 | Which orders have missing customer IDs or reference customers absent from the customer records? |
 | 14 | Which payments cannot be matched to an order, and what is their total value? |
 | 15 | Which orders and payments fail reconciliation because of unmatched records or amount differences? |
@@ -123,7 +123,7 @@ The source data has valid foreign keys. Missing payments, shipments, and other r
 
 - **Source:** `retailops360.source`
 - **Dataset:** Synthetic Canadian e-commerce data across 8 related tables
-- **Period represented:** January 2024–September 2026
+- **Order dates:** January 2024–September 2026
 - **Published work:** 15 business questions across 5 notebooks, with saved result previews and original notebook exports
 
 Saved outputs are previews and may not contain the full query results. The dataset, generator, and loading script are linked in the Dataset section.
@@ -135,7 +135,6 @@ Saved outputs are previews and may not contain the full query results. The datas
 ![Explore the analyses: questions, queries, and saved results](data_model/assets/analyses-banner.svg)
 
 **Quick access:** [All 15 business questions and SQL answers](BUSINESS_QUESTIONS_AND_SQL.md)
-
 
 Open the GitHub notebooks below to read business questions, queries, and saved result previews. The [original notebook exports](notebooks/original_exports/) also preserve the supplied queries and saved outputs for download.
 
